@@ -1,0 +1,5480 @@
+{
+	"(H₁)néwn̥": {
+		"cognates": [
+			"English: nine (< OE nigon)",
+			"Gothic: niun \"nine\"",
+			"Latin: novem \"nine\"",
+			"Ancient Greek: ennéa \"nine\"",
+			"Sanskrit: náva \"nine\"",
+			"Iranian: Av nava \"nine\"",
+			"Slavic: OCS devętĭ \"nine\" < *newn̥-ti- (Influenced by dékm̥t \"ten\")",
+			"Baltic: Lith devynì (influenced by dékm̥t \"ten\"), OPrus newinei \"nine\"",
+			"Celtic: OIr noí n-, W naw \"nine\"",
+			"Armenian: inn \"nine\"",
+			"Albanian: nëntë \"nine\" < *newn̥-ti-",
+			"Tocharian: AB ñu",
+			"Hittite: Lyc nuñtãta \"nine\"[39]"
+		],
+		"meaning": "nine",
+		"pron": "h1 n e w n"
+	},
+	"(d)ákru-": {
+		"cognates": [
+			"English: tear (< OE tēar, tæhher)",
+			"Gothic: tagr \"tear\"",
+			"Latin: lacrima \"tear\"",
+			"Ancient Greek: dákru \"tear\"",
+			"Sanskrit: áśru \"tear\"",
+			"Iranian: Av asrū- \"tear\"",
+			"Slavic: ",
+			"Baltic: OPrus assara \"tear\", Lith ašara \"tear",
+			"Celtic: OIr dēr, W deigr \"tear\"; Cornish dagr \"tear\"",
+			"Armenian: artawsr \"tear\" < *drak̂ur",
+			"Albanian: ",
+			"Tocharian: A ākär \"tear\", B pl. akrūna \"tears\"",
+			"Hittite: isḫaḫru \"tear\""
+		],
+		"meaning": "tear",
+		"pron": "d a k r\\ u"
+	},
+	"(o)nH₂dʰos": {
+		"cognates": [
+			"English: chin (< OE c̣inn)",
+			"Gothic: kinnus \"cheek\"",
+			"Latin: gena \"cheek\"",
+			"Ancient Greek: génus (génuos) \"chin, jaw\"; gnátʰos, gnatʰmós \"jaw\" < *ĝnH₂dʰ-",
+			"Sanskrit: hánu-ṣ \"jaw\" < *ĝʰenu-s, gaṇḍa \"cheek\"",
+			"Iranian: Av zānu- \"jaw-\" < *ĝʰenu-s, OPers danūg < *danu-ka-, Parth zanax \"chin, jaw\" NPers gune \"cheek\" chune \"jaw\"",
+			"Slavic: ",
+			"Baltic: OPrus żauna \"jaw\", Lith žándas \"cheek\"",
+			"Celtic: OIr gi(u)n \"mouth\"; W gên, pl. geneu \"cheek, chin\"; Old Cornish pl. genau < *genewes \"cheeks, chins\"",
+			"Armenian: cn-awt \"jaw, cheek\"",
+			"Albanian: ",
+			"Tocharian: A śanwe-m \"jaw\"",
+			"Hittite: "
+		],
+		"meaning": "jaw",
+		"pron": "o n h2 dh o s"
+	},
+	"*(s)kend-": {
+		"cognates": [
+			"Welsh cann, *smek-",
+			"chin",
+			"Irish: smech/smeach",
+			"Latin: maxilla *sneygwh-",
+			"(to) snow",
+			"Russian: снег (sneg), Irish: snechta/sneachta, German: sneo/Schnee, Old Norse: snjór"
+		],
+		"meaning": "shine",
+		"pron": "s k e n d"
+	},
+	"*(s)mer-": {
+		"cognates": [
+			"Irish: airmmert, Old Norse: Mímir, German: mornēn"
+		],
+		"meaning": "remember",
+		"pron": "s m e r\\"
+	},
+	"*(s)neh1-": {
+		"cognates": [
+			"Irish: snáthat/snáthad, German: nādala/Nadel, Old Norse: nál, Russian: нить (nitʹ), Latin: neō"
+		],
+		"meaning": "spin",
+		"pron": "s n e h1"
+	},
+	"*(s)neh2-": {
+		"cognates": [
+			"ship",
+			"Irish: nau/, Latin: nāvis, Norse: nōr"
+		],
+	    "meaning": "swim",
+		"pron": "s n e h2"
+	},
+	"*(s)teg-": {
+		"cognates": [
+			"Latin: tego",
+			"Irish: tech/teach, German: thecken/decken",
+			"Old Norse: þekja, Russian: стог (stog)"
+		],
+		"meaning": "cover",
+		"pron": "s t e g"
+	},
+	"*(s)teh2y-": {
+		"cognates": [
+			"Russian: таить (tait'), Irish: táid"
+		],
+		"meaning": "hide",
+		"pron": "s t e h2 j"
+	},
+	"*(s)ter-": {
+		"cognates": [
+			"Latin: sterilis, German: stero"
+		],
+		"meaning": "sterile",
+		"pron": "s t e r\\"
+	},
+	"*Heh3l-": {
+		"cognates": [
+			"German: Elle",
+			"Russian: ло́коть(lókotʹ), Irish: uille",
+			"Norse: aln"
+		],
+		"meaning": "elbow",
+		"pron": "\\H e h3 l"
+	},
+	"*bak-": {
+		"cognates": [
+			"Ancient Greek βάκτρον (báktron);",
+			"Latin baculum; Old Irish bacc; Irish bac;"
+		],
+		"meaning": "staff",
+		"pron": "b a k"
+	},
+	"*bel-": {
+		"cognates": [
+			"Sanskrit बल (bála);",
+			"Ancient Greek: βελτίων (beltíōn);",
+			"Old Irish: adbal, balc;",
+			"Irish: dibeal, bailc;",
+			"Russian: большой (bolʹšoj); Latin: dēbilis"
+		],
+	    "meaning": "power",
+		"pron": "b e l"
+	},
+	"*ben-": {
+		"cognates": [],
+		"meaning": "enclosure",
+		"pron": "b e n"
+	},
+	"*bew-": {
+		"cognates": [],
+		"meaning": "kiss",
+		"pron": "b e w"
+	},
+	"*bhad-": {
+		"cognates": [
+			"English: better best, Dutch: baat, Sanskrit: भ (bhadra)"
+		],
+		"meaning": "good",
+		"pron": "bh a d"
+	},
+	"*bhars-": {
+		"cognates": [
+			"Latin: far (“spelt”), *bhask-",
+			"bundle",
+			"Latin: fascis",
+			"Greek: φάκελος (fákelos)"
+		],
+		"meaning": "barley",
+		"pron": "bh a r\\ s"
+	},
+	"*bhaǵh-": {
+		"cognates": [],
+	    "meaning": "forearm",
+		"pron": "bh a g"
+	},
+	"*bhedh-": {
+		"cognates": [
+			"Latin: fodio, *bhegw-",
+			"to flee *bheh2-",
+			"to shine *bheh2-",
+			"to speak *bheh2g-",
+			"to divide, distribute *bheh3g-",
+			"to bake, roast *bhel-",
+			"light, bright",
+			"Norse: bál; blár; bleikr",
+			" Russian: белый (belyj), German: bleich; blāo/blau, Irish: béal/; ball/; blár/, Latin: fulica; flāvus; fulgeo"
+		],
+	    "meaning": "dig",
+		"pron": "bh e dh"
+	},
+	"*bhel-": {
+		"cognates": [
+			"Latin: folium; flōs",
+			"Irish: bláth",
+			"German: bluomo/Blume, Old Norse:blómi"
+		],
+		"meaning": "bloom",
+		"pron": "bh e l"
+	},
+	"*bhenǵh-": {
+		"cognates": [
+			"German: bungo/Bunge, *bher-",
+			"brown, shining",
+			"German: brūn/braun; bero/Bär; bibar/Bibe, r Old Norse: brúnn; bjǫrn; bjó",
+			"Latin: fiber",
+			"Russian: бобр (bobr)"
+		],
+		"meaning": "thick",
+		"pron": "bh e n g"
+	},
+	"*bher-": {
+		"cognates": [
+			"̄, OIrish: bréo; bruth; berbaim, German: brādam/Brodem; braten",
+			" Old Norse: bráðr",
+			"Latin: fervēo; fermentum; dēfrutum"
+		],
+		"meaning": "boil",
+		"pron": "bh e r\\"
+	},
+	"*bherǵh-": {
+		"cognates": [
+			"Russian:бере́чь (beréčʹ Old Norse: bjarga, German: bergan/bergen"
+		],
+	    "meaning": "hide",
+		"pron": "bh e r\\ g"
+	},
+	"*bhewd-": {
+		"cognates": [],
+	    "meaning": "strike",
+		"pron": "bh e w d"
+	},
+	"*bhewdh-": {
+		"cognates": [
+			"Irish: buide/buidhe",
+			"Old Norse: bjóða; boð",
+			"Russian: буди́ть (budítʹ",
+			"German: biotan/bieten; gibot/Gebot"
+		],
+	    "meaning": "wake",
+		"pron": "bh e w dh"
+	},
+	"*bhewg-": {
+		"cognates": [],
+		"meaning": "flee",
+		"pron": "bh e w g"
+	},
+	"*bhewgh-": {
+		"cognates": [],
+		"meaning": "bend",
+		"pron": "bh e w g"
+	},
+	"*bhey-": {
+		"cognates": [
+			"Irish: bech/bech, Russian: пчела́ (pčelá ), German: bīa/Biene, Norse: bý",
+			"Latin: fūcus"
+		],
+		"meaning": "bee",
+		"pron": "bh e j"
+	},
+	"*bheyd-": {
+		"cognates": [],
+	    "meaning": "bite",
+		"pron": "bh e j d"
+	},
+	"*bheydh-": {
+		"cognates": [],
+	    "meaning": "trust",
+		"pron": "bh e j dh"
+	},
+	"*bhleh1-": {
+		"cognates": [
+			"Russian: бле́ять (bléjatʹ), Latin: fleō"
+		],
+		"meaning": "bleat",
+		"pron": "bh l e h1"
+	},
+	"*bhleh3-": {
+		"cognates": [
+			"blossom"
+		],
+	    "meaning": "yellow",
+		"pron": "bh l e h3"
+	},
+	"*bhleyǵ-": {
+		"cognates": [
+			"German: blīhhan/Blech",
+			"Old Norse: blíkja, Russian: блеск (blesk), Latin: fulgēo; flagro",
+			"MIr blicht;"
+		],
+		"meaning": "shine",
+		"pron": "bh l e j g"
+	},
+	"*bhred-": {
+		"cognates": [
+			"Russian: брести́ (brestí), *bhren-",
+			"to project"
+		],
+		"meaning": "wade",
+		"pron": "bh r\\ e d"
+	},
+	"*bhruH-": {
+		"cognates": [
+			"German: brugga/Brücke, Old Norse:brú",
+			"Russian: бревно́ (brevnó), *bhruH-",
+			"brow",
+			"Irish: brú/brúad/bruach, Russian: бровь (brovʹ), German: /Braue",
+			"Old Norse: brún"
+		],
+	    "meaning": "beam",
+		"pron": "bh r\\ u \\H"
+	},
+	"*bhuH-": {
+		"cognates": [
+			"Russian: быть (bytʹ), Irish: buith/beith, German: bim/bin, Latin: fuī"
+		],
+	    "meaning": "appear",
+		"pron": "bh u \\H"
+	},
+	"*deh1-": {
+		"cognates": [
+			"Ancient Greek: δέω (déō); Sanskrit: ि◌त (dyáti); *deh3-",
+			"to give",
+			"Russian: дать (datʹ); Latin: dō;",
+			"Irish: dán;"
+		],
+		"meaning": "bind",
+		"pron": "d e h1"
+	},
+	"*demh2-": {
+		"cognates": [
+			"Sanskrit: दाियत (dāmyati);",
+			"Ancient Greek: δαμνάω (damnáō ); Old Irish: damnaid;",
+			"Latin: domō",
+			"German: zähmen"
+		],
+		"meaning": "tame",
+		"pron": "d e m h2"
+	},
+	"*dewk-": {
+		"cognates": [
+			"Old High German: ziohan; German: ziehen;",
+			"Old Norse: toginn;",
+			"Ancient Greek: ἀδευκής (adeukḗs ); Latin: dūcō"
+		],
+		"meaning": "lead",
+		"pron": "d e w k"
+	},
+	"*deḱs-": {
+		"cognates": [
+			"Latin: dexter;",
+			"Irish deas",
+			"Russian: десни́ца (desníca) *dlegh-",
+			"to engage oneself Old Irish: dliged;",
+			"Irish: dlíLLatin: indulgeō; Russian: долг (dolg); *dem-",
+			"to build",
+			"Sanskrit दम (dáma)",
+			"Ancient Greek: δόμος (dómos);",
+			"Latin: domus;",
+			"Russian: дом (dom); German: Zimmer;",
+			"Old Norse: timbr;"
+		],
+		"meaning": "rightwards",
+		"pron": "d e s"
+	},
+	"*dheb-": {
+		"cognates": [
+			"Russian: дебелый (debelyj)",
+			"Old Norse: dapr, German: taphar/tapfer"
+		],
+		"meaning": "fat",
+		"pron": "dh e b"
+	},
+	"*dhegwh-": {
+		"cognates": [
+			"Latin: fovēre",
+			"Russian: сжигать; жгучий (sžigat'; žgučij), Irish: daig",
+			"German: tag/Tag, Old Norse:. dagr"
+		],
+		"meaning": "burn",
+		"pron": "dh e gwh"
+	},
+	"*dheh1(y)-": {
+		"cognates": [
+			"Irish: diul/diuilim",
+			"German: tāen/—; tila/— Old Norse: dilkr",
+			"Latin: fēmina; fētus; fēllāre, Russian: доить"
+		],
+		"meaning": "suck",
+		"pron": "dh e h1 j"
+	},
+	"*dheh1-": {
+		"cognates": [
+			" Latin: faciō",
+			"Russian: деть; делать (det'; delat'), German: tuon/tun",
+			"Old Norse: dalidun",
+			"Irish: dál"
+		],
+	    "meaning": "place",
+		"pron": "dh e h1"
+	},
+	"*dhel-": {
+		"cognates": [
+			"Old Norse: Dellingr, Irish: dellrad"
+		],
+		"meaning": "light",
+		"pron": "dh e l"
+	},
+	"*dhers-": {
+		"cognates": [
+			"Russian: дерзнуть; дерзкий (derznut'; derzkij ),Latin: infestus",
+			"German: giturran/—; gitar"
+		],
+		"meaning": "dare",
+		"pron": "dh e r\\ s"
+	},
+	"*dhewb-": {
+		"cognates": [
+			"Norse: diupr",
+			"German: tiof/tief",
+			"Irish: domain",
+			"Russian: дно; дупло (dno; duplo)"
+		],
+		"meaning": "deep",
+		"pron": "dh e w b"
+	},
+	"*dhewh2-": {
+		"cognates": [
+			"Russian: дым (dym), Latin: fūmus, German: toup/toben, Norse: daunn",
+			"Irish: dé/deathach, *dheyǵh-",
+			"to mold Irish: digen",
+			"Russian: дежа (deža), German: teig/Teig, Latin: fingo"
+		],
+	    "meaning": "mist",
+		"pron": "dh e w h2"
+	},
+	"*dhrewgh-": {
+		"cognates": [
+			"Old Norse: draugr; draumr, German: troum/Traum, Irish: aurddrach"
+		],
+		"meaning": "deceive",
+		"pron": "dh r\\ e w g"
+	},
+	"*dhrey-": {
+		"cognates": [
+			"Russian: дристать (dristat'), Old Norse: dríta",
+			"Latin: foria",
+			"German: trīzan"
+		],
+		"meaning": "defecate",
+		"pron": "dh r\\ e j"
+	},
+	"*dhwer-": {
+		"cognates": [
+			"Russian: дверь (dver'), Old Norse: dyrr",
+			"Latin: fores",
+			"German: tor/Tür",
+			"Irish: dorus/doras"
+		],
+		"meaning": "door",
+		"pron": "dh w e r\\"
+	},
+	"*dows-": {
+		"cognates": [
+			"Sanskrit: दोस् (dos",
+			"Russian: па́зуха (pázuxa); *dra-",
+			"to run",
+			"Sanskrit: ◌ाि◌त (drā́ti); Russian: удира́ть"
+		],
+		"meaning": "forearm",
+		"pron": "d o w s"
+	},
+	"*drem-": {
+		"cognates": [
+			"Russian: дрема́ть (dremátʹ); Sanskrit: ◌ाियत (drāyati); Ancient Greek: δαρθάνω",
+			"̄); Latin : dormio"
+		],
+		"meaning": "sleep",
+		"pron": "d r\\ e m"
+	},
+	"*dus-": {
+		"cognates": [
+			"Sanskrit: द◌ु ियत (duṣyati); Ancient Greek: δέω (déō); Irish: do-;",
+			"Norse: tjón;",
+			"Russian: дождь (doždʹ);"
+		],
+		"meaning": "fail",
+		"pron": "d u s"
+	},
+	"*gal-": {
+		"cognates": [
+			"German: kalo/kahl",
+			"Russian: голый (golyj) *gal-",
+			"to call out",
+			"Norse: kall",
+			"Irish: gall",
+			"Latin: gallus",
+			"Russian: голос (golos)"
+		],
+		"meaning": "naked",
+		"pron": "g a l"
+	},
+	"*gang-": {
+		"cognates": [
+			"Russian: гугня (gugnja) , Irish: géim"
+		],
+		"meaning": "mock",
+		"pron": "g a n g"
+	},
+	"*gel-": {
+		"cognates": [
+			"Latin: gelū",
+			"German: kalt/kalt, Russian: холод (xolod), Norse: kaldr"
+		],
+		"meaning": "cold",
+		"pron": "g e l"
+	},
+	"*gerbh-": {
+		"cognates": [
+			"Russian: жребий (žrebij German: kerban/kerben"
+		],
+		"meaning": "scratch",
+		"pron": "g e r\\ bh"
+	},
+	"*gerh2-": {
+		"cognates": [
+			"Latin: grūs",
+			"German: krano/Kranich, Russian: журавль (žuravl'), Norse: trana"
+		],
+		"meaning": "crane",
+		"pron": "g e r\\ h2"
+	},
+	"*ghed-": {
+		"cognates": [
+			"German: firgezzen/vergessen, Old Norse: geta",
+			"Irish: geind/geinn",
+			"Latin: prehendere"
+		],
+		"meaning": "take",
+		"pron": "g e d"
+	},
+	"*ghedh-": {
+		"cognates": [],
+	    "meaning": "join",
+		"pron": "g e dh"
+	},
+	"*ghel-": {
+		"cognates": [
+			"German: gellan/gellen, Old Norse: gjalla"
+		],
+		"meaning": "call",
+		"pron": "g e l"
+	},
+	"*ghh1bh-": {
+		"cognates": [
+			"Latin: habēre, Irish: gaibid"
+		],
+		"meaning": "take",
+		"pron": "g h1 bh"
+	},
+	"*ghlew-": {
+		"cognates": [
+			"Old Norse: glý, Russian: глум (glum)"
+		],
+		"meaning": "joke",
+		"pron": "g l e w"
+	},
+	"*ghreh1-": {
+		"cognates": [
+			"German: gruoen/—; gruoni/grün; gras/Gras, Old Norse: groa; grænn; gras"
+		],
+	    "meaning": "grow",
+		"pron": "g r\\ e h1"
+	},
+	"*ghrendh-": {
+		"cognates": [
+			"Old Norse: grind, Russian: гряда (grjada), German: grindil"
+		],
+		"meaning": "beam",
+		"pron": "g r\\ e n dh"
+	},
+	"*glag-": {
+		"cognates": [
+			"Latin: lac, MIrish: glas"
+		],
+		"meaning": "milk",
+		"pron": "g l a g"
+	},
+	"*grabh-": {
+		"cognates": [
+			"Russian: граб (grab), *grad-",
+			"hail",
+			"Russian: град (grad), *gras-",
+			"to gnaw",
+			"Russian: грызть (gryzt'), Latin: grān",
+			"Irish: bró"
+		],
+		"meaning": "oak",
+		"pron": "g r\\ a bh"
+	},
+	"*gweh2dh-": {
+		"cognates": [
+			"Irish: bádud/bá *gweyh3-",
+			"sinew Latin: fīlum",
+			"Russian: жила (žila) *gweyh3-",
+			"to live",
+			"Latin: vivere, Russian: жить (žit'), Norse: kvikr, German: quec/keck, Irish: bethu/beatha"
+		],
+		"meaning": "sink",
+		"pron": "gw e h2 dh"
+	},
+	"*gwelbh-": {
+		"cognates": [
+			"German: wamba/Wamme, Norse: vomb"
+		],
+		"meaning": "womb",
+		"pron": "gw e l bh"
+	},
+	"*gwem-,": {
+		"cognates": [
+			"Latin: veniō",
+			"German: coman/kommen, Norse: koma"
+		],
+	    "meaning": "go",
+		"pron": "gw e m"
+	},
+	"*gwer-": {
+		"cognates": [
+			"Russian: гора (gora)"
+		],
+		"meaning": "mount",
+		"pron": "gw e r\\"
+	},
+	"*gwerH-": {
+		"cognates": [
+			"Latin: grātēs",
+			" Russian: жрец (žrets), Irish: bard/bárd"
+		],
+		"meaning": "praise",
+		"pron": "gw e r\\ \\H"
+	},
+	"*gwerh3-": {
+		"cognates": [
+			"Irish: bráge/bráighid, Latin: vorāre",
+			"German: quedar/Köder, Old Norse: krás, Russian: жрать (žrat')"
+		],
+		"meaning": "devour",
+		"pron": "gw e r\\ h3"
+	},
+	"*gwhedh-": {
+		"cognates": [
+			"German: pittan/bitten; beta/Gebet, Old Norse: biðja",
+			"Russian: пытать (pytat')",
+			"Latin: manifestus"
+		],
+		"meaning": "ask",
+		"pron": "gwh e dh"
+	},
+	"*gwhen-": {
+		"cognates": [
+			"Russian: жать; гнать (žat'; gnat'), Irish: gonim/gonadh",
+			"German: gundfano/—",
+			"Old Norse: gunnr; bani"
+		],
+	    "meaning": "press",
+		"pron": "gwh e n"
+	},
+	"*gwher-": {
+		"cognates": [
+			"Russian: жар (žar)",
+			"Old Norse: brenna; varmr",
+			"German: brinnan/brennen; warm/warm, Irish: gorim/goraim",
+			"Latin: furnus; forma"
+		],
+		"meaning": "warm",
+		"pron": "gwh e r\\"
+	},
+	"*gwrebh-": {
+		"cognates": [
+			"Irish: brommach",
+			"Russian: жеребёнок (žerebjonok), *gwruHǵh-",
+			"to bite",
+			"Russian: грызть (gryzt'), Irish: brón/brón"
+		],
+		"meaning": "womb",
+		"pron": "gw r\\ e bh"
+	},
+	"*gwreh2-": {
+		"cognates": [
+			"Latin: gravis",
+			"Norse: kvern",
+			"Irish: bair",
+			"German: quirn/Querne, Russian: жёрнов (žjornov)"
+		],
+		"meaning": "heavy",
+		"pron": "gw r\\ e h2"
+	},
+	"*h1ed-": {
+		"cognates": [
+			"Russian: есть (jestʹ), Latin: edō",
+			"German: essen",
+			"Old Norse: eta, Irish: esse"
+		],
+		"meaning": "eat",
+		"pron": "h1 e d"
+	},
+	"*h1edh-": {
+		"cognates": [
+			"Russian: ель (jelʹ)",
+			"Latin: ebulus",
+			"Irish: aidlen ailim, *h1engw-",
+			"gland",
+			"Norse: ǫkkvinn"
+		],
+		"meaning": "sharp",
+		"pron": "h1 e dh"
+	},
+	"*h1er-": {
+		"cognates": [
+			"Latin: ariēs",
+			"Old Irish: heirp",
+			"Irish: earb",
+			"German: irah"
+		],
+		"meaning": "goat",
+		"pron": "h1 e r\\"
+	},
+	"*h1es-": {
+		"cognates": [
+			"Russian: есть (jestʹ), Irish: am",
+			"Latin: esse",
+			"Norse: es"
+		],
+		"meaning": "be",
+		"pron": "h1 e s"
+	},
+	"*h1ew-": {
+		"cognates": [
+			"Latin: exuō, Irish fúan; *h1ews-",
+			"to burn Latin: ūrō, Norse: usli"
+		],
+	    "meaning": "dress",
+		"pron": "h1 e w"
+	},
+	"*h1ey-": {
+		"cognates": [
+			"Latin: eō",
+			"Irish: ethaim, Russian: идти́ (idtí)",
+			"lightweight",
+			"German: leicht",
+			"Irish: laigiu",
+			"Latin: levis",
+			"Norse: lēttr",
+			"Russian: лёгкий (ljóxkij)",
+			"people German: Leute; Old Norse: ljóðr;",
+			"Russian: лю́ ди (ljúdi) *h1wegwh-",
+			"to praise Latin: vovēre"
+		],
+		"meaning": "go",
+		"pron": "h1 e j"
+	},
+	"*h1rebh-": {
+		"cognates": [
+			"Russian: ребро́ (rebró Old Norse: rif, German: Rippe"
+		],
+		"meaning": "roof",
+		"pron": "h1 r\\ e bh"
+	},
+	"*h1rep-": {
+		"cognates": [
+			"Latin: rapere, German: reifsen"
+		],
+		"meaning": "snatch",
+		"pron": "h1 r\\ e p"
+	},
+	"*h1rewdh-": {
+		"cognates": [
+			"Latin: ruber",
+			"Russian: рдеть (rdetʹ); Norse: rauðr, rjóðr; German: rot;",
+			"Irish: rua;"
+		],
+		"meaning": "red",
+		"pron": "h1 r\\ e w dh"
+	},
+	"*h1rewg-": {
+		"cognates": [
+			"German: rauchen, Old Norse: reykja;"
+		],
+		"meaning": "smoke",
+		"pron": "h1 r\\ e w g"
+	},
+	"*h2en-": {
+		"cognates": [
+			"Norse: auð;",
+			"Old High German ōdmuoti; *h2ewg-",
+			"Russian: юг (jug"
+		],
+	    "meaning": "glance",
+		"pron": "h2 e n"
+	},
+	"*h2enh1-": {
+		"cognates": [
+			"German: Ufer, Fisch;",
+			"Old Norse: fiskr;",
+			"Latin amnis piscis; Russian: пескарь (peskarʹ); *h2ep-",
+			"Latin: apex;"
+		],
+		"meaning": "reach",
+		"pron": "h2 e n h1"
+	},
+	"*h2enǵh-": {
+		"cognates": [
+			"Russian: узкий (uzkij); Old Norse: aungr; German: eng;",
+			"Irish: cung;",
+			"Latin: angor",
+			"breathe",
+			"Irish: animm",
+			"Latin: animus, Russian: вонь (vonʹ); Norse: anda",
+			"angle",
+			"Latin: ancus; Russian: угол (ugol); Old Norse: angi; Irish: écath"
+		],
+		"meaning": "narrow",
+		"pron": "h2 e n g"
+	},
+	"*h2ep-": {
+		"cognates": [],
+		"meaning": "sea",
+		"pron": "h2 e p"
+	},
+	"*h2er-": {
+		"cognates": [
+			"Russian: орех (orex); *h2erh3-",
+			"to plow",
+			"Russian: орать (oratʹ) Norse: arðr",
+			"Irish: airim, arathar; *h2erk-",
+			"to lock",
+			"Latin: arcēre;"
+		],
+		"meaning": "nut",
+		"pron": "h2 e r\\"
+	},
+	"*h2ew-": {
+		"cognates": [],
+		"meaning": "help",
+		"pron": "h2 e w"
+	},
+	"*h2ewg-": {
+		"cognates": [
+			"Latin: auctis;",
+			"German: auch",
+			"Norse: auka"
+		],
+		"meaning": "increase",
+		"pron": "h2 e w g"
+	},
+	"*h2ews-": {
+		"cognates": [
+			"Latin: ver, Aurōra; German: Osten Russian: утро (utro); Irish: fáir;",
+			"vital force Latin: aevum",
+			"; Old Irish: áes/ Irish aois; German: je, ewig; Norse: ei",
+			"sick",
+			"Latin: aeger;"
+		],
+		"meaning": "dawn",
+		"pron": "h2 e w s"
+	},
+	"*h2ey-": {
+		"cognates": [
+			"Norse: eikenn, eikja/eikla; Russian: яга (jaga);"
+		],
+		"meaning": "angry",
+		"pron": "h2 e j"
+	},
+	"*h2eym-": {
+		"cognates": [
+			"Latin: aemulus, imāgō, reimere, geminus; Irish: emon;"
+		],
+		"meaning": "copy",
+		"pron": "h2 e j m"
+	},
+	"*h2eyǵ-": {
+		"cognates": [
+			"Latin: aesculus; Norse eik; German: Eiche Irish: áesc"
+		],
+		"meaning": "oak",
+		"pron": "h2 e j g"
+	},
+	"*h2eyḱ-": {
+		"cognates": [
+			"German eigen; Old Norse eiga;"
+		],
+	    "meaning": "be master of",
+		"pron": "h2 e j"
+	},
+	"*h2eḱ-": {
+		"cognates": [
+			"Latin: ācer; Russian: ость (ostʹ), Irish: aicher;",
+			"Norse: egg; German: Ecke;",
+			"to vomit",
+			"ancestor Latin: anus",
+			"ussian: внук (vnuk); Irish: Ana"
+		],
+		"meaning": "sharp",
+		"pron": "h2 e"
+	},
+	"*h2melǵ-": {
+		"cognates": [
+			"Latin: mulgeō; German: melken Norse: mjǫlk;",
+			"Russian: молозиво *h2wap-",
+			"bad; evil German: Übel"
+		],
+		"meaning": "milk",
+		"pron": "h2 m e l g"
+	},
+	"*h2weh1-": {
+		"cognates": [
+			"German: wehen, Wind; Old Norse: vindr; Latin: ventus;",
+			"Russian: ве́ять(véjatʹ); Old Irish: feth"
+		],
+		"meaning": "blow",
+		"pron": "h2 w e h1"
+	},
+	"*h3ekw-": {
+		"cognates": [
+			"Latin: oculus, Russian: око (oko), German: ouga/Auge, Irish: enech/oineach, Norse: auga"
+		],
+		"meaning": "eye",
+		"pron": "h3 e kw"
+	},
+	"*h3em-": {
+		"cognates": [
+			"Latin: amārus, Irish: om/amh, Norse: apr"
+		],
+		"meaning": "bitter",
+		"pron": "h3 e m"
+	},
+	"*h3engw-": {
+		"cognates": [
+			"Irish: imb/im",
+			"Latin: unguō, German: ancho/Anke"
+		],
+		"meaning": "anoint",
+		"pron": "h3 e n gw"
+	},
+	"*h3ers-": {
+		"cognates": [
+			"German: ars/Arsch, Old Norse: ars"
+		],
+	    "meaning": "protrude",
+		"pron": "h3 e r\\ s"
+	},
+	"*h3meyǵh-": {
+		"cognates": [
+			"Russian: мезга(mezga)",
+			"Norse: míga",
+			"German: /Maisch; miskan/mischen, Latin: meiere"
+		],
+		"meaning": "urinate",
+		"pron": "h3 m e j g"
+	},
+	"*h3nebh-": {
+		"cognates": [
+			"Latin: umbo; umbilīcus, German: nabalo/Nabel, Norse: nafli",
+			"Irish: imbliu/imleac"
+		],
+		"meaning": "navel",
+		"pron": "h3 n e bh"
+	},
+	"*h3negh-": {
+		"cognates": [
+			"Latin: unguis",
+			"German: nagel/Nagel, Russian: ноготь (nogot'), Irish: inga/ionga"
+		],
+		"meaning": "nail",
+		"pron": "h3 n e g"
+	},
+	"*h3reǵ-": {
+		"cognates": [
+			"Latin: regere, German: reht/recht, Old Norse: réttr"
+		],
+		"meaning": "straighten",
+		"pron": "h3 r\\ e g"
+	},
+	"*h3rēg": {
+		"cognates": [],
+	    "meaning": "king",
+		"pron": "h3 r\\ e g"
+	},
+	"*kal-": {
+		"cognates": [
+			"Ancient Greek κάλλος (kállo)",
+			"Sanskrit कय (kalya) *keh2n-",
+			"to sing",
+			"Old High German: hano",
+			"German: Hahn",
+			"Old Irish: canaid;",
+			"Latin canō;",
+			"Russian: каню́ к (kanjúk);",
+			"Old Norse: hani, hœna"
+		],
+		"meaning": "handsome",
+		"pron": "k a l"
+	},
+	"*kant-": {
+		"cognates": [
+			"Ancient Greek: κανθός (kanthós); Latin: cantus;",
+			"Russian: кут (kut)"
+		],
+		"meaning": "corner",
+		"pron": "k a n t"
+	},
+	"*kat-": {
+		"cognates": [
+			"Old Irish: cadla;",
+			"Latin: catulus;",
+			"Old Norse: haðna;",
+			"Russian: котиться (kotitʹsja); *ked-",
+			"to fume",
+			"Ancient Greek: κέδρος (kédros); Russian: чад (čad);",
+			"Sanskrit: क◌ु (kadru)"
+		],
+		"meaning": "cub",
+		"pron": "k a t"
+	},
+	"*ke(n)g-": {
+		"cognates": [
+			"German: Haken;",
+			"Old Norse: haki, hǫnk",
+			"Russian: ко́готь (kógotʹ) *kenk-",
+			"kneecap",
+			"Old Norse: hǽll; Sanskrit: क◌ाल (kaṅkāla) *ker-",
+			"cornel",
+			"Ancient Greek: κράνεια (kráneia); Latin: cornus"
+		],
+		"meaning": "hook",
+		"pron": "k e n g"
+	},
+	"*kel-": {
+		"cognates": [
+			"Ancient Greek: κόλλα (kólla); Russian: клей (klej)"
+		],
+		"meaning": "glue",
+		"pron": "k e l"
+	},
+	"*kerp-": {
+		"cognates": [
+			"Old High German: hwerban; German: werben",
+			"Old Norse: hverfa;",
+			"Sanskrit: कृ पाण (kṛpāṇa);"
+		],
+		"meaning": "pluck",
+		"pron": "k e r\\ p"
+	},
+	"*klen-": {
+		"cognates": [
+			"Old Norse: hlynr;",
+			"Russian: клён (kljon);"
+		],
+		"meaning": "maple",
+		"pron": "k l e n"
+	},
+	"*knid-": {
+		"cognates": [
+			"Old High German: hniz;",
+			"German: Nisse;",
+			"Ancient Greek: κονίς (konís);",
+			"Old Irish: sned;",
+			"Old Norse: gnit;",
+			"Russian: гнида (gnida);"
+		],
+		"meaning": "louse",
+		"pron": "k n i d"
+	},
+	"*kob-": {
+		"cognates": [
+			"Old Irish: cob",
+			"Old Norse: happ; Russian: кобь (kobʹ);"
+		],
+		"meaning": "succeed",
+		"pron": "k o b"
+	},
+	"*krem-": {
+		"cognates": [
+			"Ancient Greek: κρόμιον (krómion); Old Irish: craim",
+			"Russian: черемша́ (čeremšá);"
+		],
+		"meaning": "onion",
+		"pron": "k r\\ e m"
+	},
+	"*krewh2-": {
+		"cognates": [
+			"Old High German: hrāo;",
+			"German: roh;",
+			"Ancient Greek: κρέας (kréas); Irish: cró;",
+			"Latin: cruor;",
+			"Sanskrit: ि◌वस् (kravis);",
+			"Old Norse: hrár;",
+			"Russian: кровь (krovʹ);"
+		],
+		"meaning": "blood",
+		"pron": "k r\\ e w h2"
+	},
+	"*krey-": {
+		"cognates": [
+			"Ancient Greek: κρίνω (krínō); Latin: cernō, cribrum;",
+			"Old Irish: ara·chrin;"
+		],
+	    "meaning": "move",
+		"pron": "k r\\ e j"
+	},
+	"*ksweyd-": {
+		"cognates": [],
+		"meaning": "milk",
+		"pron": "k s w e j d"
+	},
+	"*kwat-": {
+		"cognates": [
+			"Old English: hwaþerian; Latin: cāseus;",
+			"Russian: квас (kvas); Sanskrit: वथ (kvatha)"
+		],
+		"meaning": "sour",
+		"pron": "kw a t"
+	},
+	"*kweh2s-": {
+		"cognates": [
+			"Old High German: huosto;",
+			"German: Husten;",
+			"Irish: casacht;",
+			"Russian: ка́шлять (kášljatʹ);",
+			"Old Norse: hósta;"
+		],
+		"meaning": "cough",
+		"pron": "kw e h2 s"
+	},
+	"*kwel-": {
+		"cognates": [
+			"Latin: colō;",
+			"Sanskrit: च (cakrá);",
+			"Russian: колесо́ (kolesó);",
+			"Old Irish: cul, búachail",
+			"Old Norse: hjól, hvel;"
+		],
+		"meaning": "turn",
+		"pron": "kw e l"
+	},
+	"*kwep-": {
+		"cognates": [
+			"Latin: cupiō;",
+			"Old Norse: hvap; Russian: кипе́ть (kipétʹ);"
+		],
+		"meaning": "boil",
+		"pron": "kw e p"
+	},
+	"*kwreyh2-": {
+		"cognates": [
+			"Sanskrit: िणात (krīṇā́ti);",
+			"Old Irish: crenaid;",
+			"Russian: кренуть (krenutʹ);",
+			"Ancient Greek ἐπριάμην (epriámēn);"
+		],
+		"meaning": "buy",
+		"pron": "kw r\\ e j h2"
+	},
+	"*kwyeh1-": {
+		"cognates": [
+			"Latin: quiēs;",
+			"Old Norse: hvíla;",
+			"Old High German: hwila;",
+			"German: Weile",
+			"Russian: почить (počitʹ)"
+		],
+		"meaning": "quiet",
+		"pron": "kw j e h1"
+	},
+	"*las-": {
+		"cognates": [
+			"Irish: lainn",
+			"Latin: lascīvus Russian: ласка (laska)"
+		],
+		"meaning": "eager",
+		"pron": "l a s"
+	},
+	"*lat-": {
+		"cognates": [
+			"German: Letten",
+			"Ancient Greek: λάταξ (látax) Old Irish: lathach",
+			"Irish: lathach"
+		],
+		"meaning": "swamp",
+		"pron": "l a t"
+	},
+	"*leb-": {
+		"cognates": [
+			"German: Lippe",
+			"German: Lefze",
+			"Latin: labĭum",
+			"Russian: лобзать (lobzatʹ)"
+		],
+		"meaning": "lip",
+		"pron": "l e b"
+	},
+	"*legh-": {
+		"cognates": [
+			"German: liegen",
+			"Irish: luí",
+			"Latin: lectus",
+			"Norse: liggja",
+			"Russian: лежать (ležatʹ)"
+		],
+		"meaning": "lie",
+		"pron": "l e g"
+	},
+	"*leh2w-": {
+		"cognates": [
+			"German: Lauge",
+			"Irish: lóathar, lúaith Latin: lavō",
+			"Old Norse: laug"
+		],
+		"meaning": "pour wash",
+		"pron": "l e h2 w"
+	},
+	"*leh3p-": {
+		"cognates": [],
+		"meaning": "cow",
+		"pron": "l e h3 p"
+	},
+	"*lendh-": {
+		"cognates": [
+			"German: Lende",
+			"Latin: lumbus",
+			"Old Norse: lend",
+			"Russian: лядвие (ljadvije)"
+		],
+		"meaning": "loin kidney",
+		"pron": "l e n dh"
+	},
+	"*lewbh-": {
+		"cognates": [
+			"German: Liebe",
+			"Latin: lubet, libido",
+			"Old Norse: ljúfr Russian: любить (ljubitʹ)"
+		],
+		"meaning": "love",
+		"pron": "l e w bh"
+	},
+	"*lewgh-": {
+		"cognates": [
+			"German: lügen",
+			"Irish: luige",
+			"Norse: ljúga Russian: лгать (lgatʹ)"
+		],
+		"meaning": "tell a lie",
+		"pron": "l e w g"
+	},
+	"*lewk-": {
+		"cognates": [
+			"Irish: lug",
+			"Russian: рысь (rysʹ)"
+		],
+	    "meaning": "lynx",
+		"pron": "l e w k"
+	},
+	"*lewǵ-": {
+		"cognates": [
+			"German: Lücke, Luke Old Irish: lucht",
+			"Latin: lūgeō"
+		],
+		"meaning": "break",
+		"pron": "l e w g"
+	},
+	"*ley-": {
+		"cognates": [
+			"Irish: lie",
+			"Latin: libō Russian: лить (litʹ)"
+		],
+		"meaning": "pour",
+		"pron": "l e j"
+	},
+	"*leyg-": {
+		"cognates": [
+			"German: Leich Irish: laogh",
+			"Old Norse: leikr"
+		],
+		"meaning": "jump",
+		"pron": "l e j g"
+	},
+	"*leykw-": {
+		"cognates": [
+			"German: leihen Irish: léicid",
+			"Latin: linquō",
+			"Old Norse: ljá Russian: олек (olek)"
+		],
+		"meaning": "leave",
+		"pron": "l e j kw"
+	},
+	"*leyǵh-": {
+		"cognates": [
+			"European_roots/l&oldid=50277368\"",
+			"Old Irish: lígid",
+			"Latin: lingō, ligguriō",
+			"Old Norse: sleikja",
+			"Russian: лизать (lizatʹ)"
+		],
+		"meaning": "lick",
+		"pron": "l e j g"
+	},
+	"*mak-": {
+		"cognates": [
+			"Irish: mén",
+			"German: mago/Magen, Norse: magi",
+			"Russian: мошна (mošna), *mat-",
+			"mattock",
+			"Latin: mateola; metere Russian: мотыга (motyga), German: modela"
+		],
+		"meaning": "pouch",
+		"pron": "m a k"
+	},
+	"*med-": {
+		"cognates": [
+			"Latin: meditārī; medērī, Norse: meta",
+			"German: mezzan/messen *meǵ-",
+			"great",
+			"Latin: magnus",
+			"Norse: mikill, Irish: maige, German: mihhil/— *megh-",
+			"to be able",
+			"German: magan/mögen, Norse: mega",
+			"Russian: мочь (moč'), *meldh-",
+			"lightning",
+			"Russian: молния (molnija), Old Norse: myln; Mjollnir, *melh2-",
+			"to grind, rub, break up Russian: мелю (melju), Norse: mala",
+			"German: malan/mahlen, Latin: molere",
+			"Irish: melim/meilim"
+		],
+	    "meaning": "measure",
+		"pron": "m e d"
+	},
+	"*melk-": {
+		"cognates": [
+			"Russian: молоко (moloko), *men-",
+			"mind",
+			"Latin: mēns",
+			"Norse: minni; man, German: minna/Minne, Russian: мнить (mnit'), Irish: do-moiniur"
+		],
+		"meaning": "milk",
+		"pron": "m e l k"
+	},
+	"*mer-": {
+		"cognates": [
+			"Latin: mortŭus",
+			"Russian: мереть (meret'), German: mord/Mord",
+			"Old Norse: morð",
+			"Irish: marb/marbh"
+		],
+		"meaning": "die",
+		"pron": "m e r\\"
+	},
+	"*mey-": {
+		"cognates": [
+			"Latin: minuere",
+			"Russian: менее (menee), German: min/minder, Norse: minnr",
+			"Irish: min/mion *mey-",
+			"to change",
+			"Latin: mūnus",
+			"German: gimeini/gemein, Russian: менять (menjat'), Irish: móin"
+		],
+		"meaning": "small",
+		"pron": "m e j"
+	},
+	"*mon-": {
+		"cognates": [
+			"Latin: monīle; eminere German: mana/Mähne",
+			"Old Norse: mǫn",
+			"Irish: muin/muin",
+			"Russian: монисто (monisto)"
+		],
+		"meaning": "neck",
+		"pron": "m o n"
+	},
+	"*mor-": {
+		"cognates": [
+			"Latin: mōrum, Irish: smér/smeur"
+		],
+		"meaning": "blackberry",
+		"pron": "m o r\\"
+	},
+	"*nem-": {
+		"cognates": [
+			"Latin: numerus",
+			"Irish: nem/nimh",
+			"MIrish: nos",
+			"German: neman/nehmen, Norse: nema",
+			"Russian: немой (nemoj), *neḱ-",
+			"dead person, death Latin: nex",
+			"Irish: éc/eug, Norse: Naglfar"
+		],
+		"meaning": "allot",
+		"pron": "n e m"
+	},
+	"*neygw-": {
+		"cognates": [
+			"Latin: noegeum, Irish: nigim/nighim, Old Norse: nykr, German: nihhus/Nix"
+		],
+		"meaning": "wash",
+		"pron": "n e j gw"
+	},
+	"*neyk-": {
+		"cognates": [],
+		"meaning": "winnow",
+		"pron": "n e j k"
+	},
+	"*ped-": {
+		"cognates": [
+			"English: foot",
+			"Ancient Greek: πούς (poús), πέδον (pédon), πεζός (pezós) Sanskrit: पद् (pad), पद (padá)",
+			"Latin: pēs, pēior, pessimus, impediō, oppidum, peccātum *peh2-",
+			"to protect",
+			"Sanskrit: िपात (pā́ti), पातृ (pātṛ)́",
+			"Sanskrit: िपात (pā́ti), पातृ (pātṛ)́ Tocharian A: pās",
+			"Tocharian B: pāsk",
+			"Ancient Greek: πῶυ (pôu), πῶμα (pôma), ποιμήν (poimḗn) Latin: pāstum",
+			"Old High German:fōtar",
+			"German: Futter",
+			"Old English: fōda, fōdor",
+			"English: food, fodder",
+			"Lithuanian: piemuõ",
+			"Old Norse: fœða, fóðr",
+			"Old Armenian: հաւրան (hawran)"
+		],
+		"meaning": "walk",
+		"pron": "p e d"
+	},
+	"*peg-": {
+		"cognates": [
+			"Sanskrit: प (pakṣá) Latin: pectus Latvian: paksis Russian: пах (pax)",
+			"Old Irish: ucht"
+		],
+		"meaning": "breast",
+		"pron": "p e g"
+	},
+	"*peh3-": {
+		"cognates": [
+			"Russian: пить (pitʹ)",
+			"Sanskrit: ि◌पिबत (píbati)",
+			"Ancient Greek: πῑ́νω (pīń",
+			"ō) Albanian: pi",
+			"Old Irish: ibid",
+			"Welsh: yfed",
+			"Lithuanian: puota",
+			"Old Prussian:poieiti",
+			"Latin: bibō",
+			"Umbrian: [script needed] (puni) Old Church Slavonic:пити (piti) Polish: pić"
+		],
+		"meaning": "drink",
+		"pron": "p e h3"
+	},
+	"*pekw-": {
+		"cognates": [
+			"Latin: coquō",
+			"￼Albanian: pjek",
+			"Russian: печь (pečʹ)",
+			"Sanskrit: पिचत (pácati)",
+			"Tocharian A: päk",
+			"Tocharian B: päk",
+			"Welsh: pobi",
+			"Ancient Greek: πέσσω (pésso Latvian: cept",
+			"Old Church Slavonic:пекѫ (pekǫ)",
+			"Polish: piec",
+			"Persian: تن پخ (pukhtan)",
+			"Old Prussian:pektis",
+			"Old English: āfigen"
+		],
+		"meaning": "cook",
+		"pron": "p e kw"
+	},
+	"*pel-": {
+		"cognates": [
+			"Ancient Greek: πέλᾰς (pélas), πέλμᾰ (pélma)",
+			"Latin: pellis",
+			"Russian: пелена́ (pelená)",
+			"Old High German:fël",
+			"German: Fell",
+			"Old English: filmen English: film",
+			"Old Norse: fjall Lithuanian: palà, plėn ė Latvian: plēne",
+			"Old Prussian:pleynis"
+		],
+		"meaning": "skin",
+		"pron": "p e l"
+	},
+	"*pent-": {
+		"cognates": [
+			"Latin: pōns",
+			"Ancient Greek: πόντος (póntos) Sanskrit: पथन् (páthin)",
+			"Old English: findan",
+			"English: find",
+			"Old High German:findan German: finden",
+			"Old Norse: finna",
+			"Old Irish: étain, áitt",
+			"Old Church Slavonic:пѫть (pǫtĭ",
+			"English: from, fare, firth, ford",
+			"Old Norse: fjǫrðr",
+			"German: fahren",
+			"Ancient Greek: πρό (pró), πείρω (peírō) Sanskrit: ि◌पिपत (piparti)",
+			"Latin: portus, experior"
+		],
+		"meaning": "road",
+		"pron": "p e n t"
+	},
+	"*per-": {
+		"cognates": [],
+		"meaning": "go",
+		"pron": "p e r\\"
+	},
+	"*perd-": {
+		"cognates": [
+			"Russian: перде́ть (perdétʹ",
+			"Polish: pierdzieć Sanskrit: पदते (párdate)",
+			"Lithuanian: persti Latvian: pirst",
+			"Old English: feortan English: fart",
+			"Old High German:ferzan",
+			"German: furzen",
+			"Old Norse: freta",
+			"Ancient Greek:πέρδομαι(pérdomai)"
+		],
+		"meaning": "fart",
+		"pron": "p e r\\ d"
+	},
+	"*perḱ-": {
+		"cognates": [
+			"Sanskrit: पश◌ु (párśu) *pers-",
+			"dust",
+			"Old Norse: fors Russian: прах (prax)"
+		],
+		"meaning": "rib",
+		"pron": "p e r\\"
+	},
+	"*pes-": {
+		"cognates": [
+			"Ancient Greek: πέος (péos Latin: pēnis",
+			"German: Fasel",
+			"Old Norse: fǫsull Old English: fæsl",
+			"Sanskrit: पसस् (pásas) *pet-",
+			"to open arms Latin: pateō, pandō",
+			"Old Norse: faðmr German: Faden"
+		],
+		"meaning": "penis",
+		"pron": "p e s"
+	},
+	"*peth2-": {
+		"cognates": [
+			"Old English: feþer",
+			"Old High German:fedara German: Feder",
+			"Old Norse: fjǫðr",
+			"Latin: petō, penna, accipiter Sanskrit: पितत (pátati)",
+			"Old Irish: ette, én"
+		],
+		"meaning": "fly",
+		"pron": "p e t"
+	},
+	"*peḱ-": {
+		"cognates": [],
+		"meaning": "pluck",
+		"pron": "p e"
+	},
+	"*peḱu-": {
+		"cognates": [
+			"Ancient Greek: πόκος (pókos), πέκω (pékō) Latin: pecu, pecus",
+			"Lithuanian: pekus",
+			"Old Prussian:pecku",
+			"Sanskrit: पशु (páśu)",
+			"Kurdish: pas",
+			"Old English: feoh",
+			"English: fee",
+			"Old Norse: fé",
+			"Old High German:fihu",
+			"Old High German:fihu German: Vieh",
+			"Old Armenian: ասր (asr)"
+		],
+		"meaning": "cattle",
+		"pron": "p e u"
+	},
+	"*pleh1-": {
+		"cognates": [
+			"Old English full",
+			"Latin: pleō, plēnus",
+			"Ancient Greek: πολύς (polús), πίμπλημι (pímplēmi) Sanskrit: ि◌पिपत (piparti), पृिणात (pṛnā́ti)"
+		],
+		"meaning": "fill",
+		"pron": "p l e h1"
+	},
+	"*pleh2-": {
+		"cognates": [
+			"Old Irish: lían, lethan, lethaid Old High German:feld German: Feld",
+			"Sanskrit: पृथु (pṛthú) Russian: пло́ский (plóskij)",
+			"to hit",
+			"Latin: plangō, plāga",
+			"Old English: flōc, flōcan",
+			"Ancient Greek: πληγή (plēgḗ), πλήσσω (plḗssō) Russian: пла́кать (plákatʹ, “to weep”)",
+			"Russian: пла́кать (plákatʹ, “to weep”)",
+			"Old Irish: lén, léssaim Old Norse: flókinn",
+			"Old High German:fluoh German: Fluch"
+		],
+		"meaning": "flat",
+		"pron": "p l e h2"
+	},
+	"*pleḱ-": {
+		"cognates": [
+			"Ancient Greek: πλέκω (plékō), πλοκή (plokḗ) Latin: plectō, plicō, simplex",
+			"Old Norse: flétta",
+			"Old High German:flehtan",
+			"German: flechten",
+			"Russian: плести́ (plestí)"
+		],
+		"meaning": "braid",
+		"pron": "p l e"
+	},
+	"*pnew-": {
+		"cognates": [
+			"Ancient Greek: πνεῦμα (pneûma",
+			"Old Norse: fnýsa",
+			"Old High German:fnehan"
+		],
+		"meaning": "breathe",
+		"pron": "p n e w"
+	},
+	"*prew-": {
+		"cognates": [
+			"Russian: пры́ гать (prýgatʹ)",
+			"Old High German:frosc",
+			"German: Frosch",
+			"Old Norse: froskr"
+		],
+		"meaning": "jump",
+		"pron": "p r\\ e w"
+	},
+	"*preyH-": {
+		"cognates": [
+			"Sanskrit: ◌ीिणात (prīṇā́ti)",
+			"Russian: прижать (prižatʹ)",
+			"Ancient Greek: πρᾶος (prâ)",
+			"Old English: frēond",
+			"Old High German:friunt",
+			"German: Freund",
+			"Old Norse: Frigg"
+		],
+		"meaning": "like",
+		"pron": "p r\\ e j \\H"
+	},
+	"*preḱ-": {
+		"cognates": [
+			"Latin: poscō",
+			"Sanskrit: पृिछत (pṛccháti)",
+			"Russian: проси́ть (prosítʹ)",
+			"Russian: проси́ть (prosítʹ)",
+			"Old High German:frāga, forscōn German: fragen, forschen",
+			"Old Norse: fregna",
+			"Old Irish: arco"
+		],
+		"meaning": "pray",
+		"pron": "p r\\ e"
+	},
+	"*psten-": {
+		"cognates": [
+			"Ancient Greek: στῆθος (stêthos",
+			"Sanskrit: तन (stána)",
+			"Old Norse: speni",
+			"Old High German:spunni",
+			"German: Spanferkel",
+			"Irish: sine"
+		],
+		"meaning": "breast",
+		"pron": "p s t e n"
+	},
+	"*puHr-": {
+		"cognates": [
+			"Sanskrit: पूर (pūra)",
+			"Ancient Greek: πυρός (purós)",
+			"Russian: пыре́й (pyréj)"
+		],
+		"meaning": "wheat",
+		"pron": "p u \\H r\\"
+	},
+	"*pulh2-": {
+		"cognates": [
+			"Sanskrit: पुलत (pulastí), पुलक (pulaka)",
+			"Old Irish: ul, ulcha",
+			"Ancient Greek: πύλιγξ (púlinx), πυλεών (puleṓn)"
+		],
+		"meaning": "hair",
+		"pron": "p u l h2"
+	},
+	"*rap-": {
+		"cognates": [
+			"Latin: rapum",
+			"Russian: репа (repa), German: raba/Rübe"
+		],
+		"meaning": "turnip",
+		"pron": "r\\ a p"
+	},
+	"*resg-": {
+		"cognates": [
+			"Russian: розга (rozga), Irish: rúsc/rusg"
+		],
+	    "meaning": "plait",
+		"pron": "r\\ e s g"
+	},
+	"*saws-": {
+		"cognates": [
+			"German: sōrēn/—, Russian: сухо́й (suxój), Latin: sūdus"
+		],
+		"meaning": "dry",
+		"pron": "s a w s"
+	},
+	"*sed-": {
+		"cognates": [
+			"Russian: сиде́ть (sidétʹ)",
+			"Latin: sedeō",
+			"German: sizzan/sitzen; sezzal/, Old Norse: sitja",
+			"Irish: saidim/suidh, *seǵh-",
+			"to hold",
+			"Skr. सहते (sahate), Gk. ἔχω (ékhō), German: sigu/Sieg, Old Norse:. sigr, Eng. sige/—"
+		],
+		"meaning": "sit",
+		"pron": "s e d"
+	},
+	"*seh1-": {
+		"cognates": [
+			"Russian: се́ять (séjatʹ); семя (semja), German: sāen/säen",
+			"Norse: sá",
+			"Latin: serere",
+			"Irish: sí/síol, *seh1y-",
+			"to sift",
+			"Irish: sithlad/síolthughadh, Norse: sáld",
+			"Russian: си́то (síto)"
+		],
+		"meaning": "sow",
+		"pron": "s e h1"
+	},
+	"*seh2g-": {
+		"cognates": [
+			"German: suohhen/suchen, Norse: sǿkja",
+			"Irish: saigim",
+			"Latin: sagīre"
+		],
+		"meaning": "seek",
+		"pron": "s e h2 g"
+	},
+	"*sekw-": {
+		"cognates": [
+			"Latin: sequor",
+			"Irish: sech/seach, Norse: seggr, German: beinsegga"
+		],
+		"meaning": "follow",
+		"pron": "s e kw"
+	},
+	"*selp-": {
+		"cognates": [
+			"German: salba/Salbe, *sem-",
+			"summer",
+			"German: sumar/Sommer, Norse: sumar",
+			"Irish: samrad/samhradh"
+		],
+		"meaning": "butter",
+		"pron": "s e l p"
+	},
+	"*skand-": {
+		"cognates": [
+			"Irish: scendim/scinn, Latin: scandere"
+		],
+		"meaning": "leap",
+		"pron": "s k a n d"
+	},
+	"*skap-": {
+		"cognates": [
+			"Russian: щепа́ (ščepá), German: skaft",
+			"Latin: capus",
+			"Norse: skapt"
+		],
+		"meaning": "tool",
+		"pron": "s k a p"
+	},
+	"*snewdh-": {
+		"cognates": [],
+		"meaning": "mist",
+		"pron": "s n e w dh"
+	},
+	"*sp(y)ew-": {
+		"cognates": [
+			"Latin: spuere",
+			"German: spīwan/speien, Old Norse: spýja, Russian: плюю (pljuju)"
+		],
+		"meaning": "spit",
+		"pron": "s p j e w"
+	},
+	"*sperg-": {
+		"cognates": [
+			"German: sperk/sperling",
+			"Norse: spǫrr, Latin: parra, Irish: serriach"
+		],
+		"meaning": "sparrow",
+		"pron": "s p e r\\ g"
+	},
+	"*splenǵh-": {
+		"cognates": [
+			"Latin: liēn",
+			"Irish: selg/sealg",
+			"Russian: селезёнка (selezjónka)"
+		],
+		"meaning": "spleen",
+		"pron": "s p l e n g"
+	},
+	"*srebh-": {
+		"cognates": [
+			"Latin: sorbēo",
+			"Irish: srub",
+			"Russian: сёрбать (sjórbatʹ)"
+		],
+		"meaning": "gulp",
+		"pron": "s r\\ e bh"
+	},
+	"*steh2-": {
+		"cognates": [
+			"Russian: стать (statʹ), German: stān/stehen, Norse: stóð",
+			"Irish: tá/tá"
+		],
+		"meaning": "stand",
+		"pron": "s t e h2"
+	},
+	"*steygh-": {
+		"cognates": [
+			"Irish: techt/teachd",
+			"Norse: stígan",
+			"German: stīgan/steigen Russian: достига́ть (dostigátʹ)"
+		],
+	    "meaning": "stride",
+		"pron": "s t e j g"
+	},
+	"*sweh2d-": {
+		"cognates": [
+			"Latin: suāvis, German: suozi/süss, Old Norse: sœtr, Irish: sant/, Skr."
+		],
+		"meaning": "sweet",
+		"pron": "s w e h2 d"
+	},
+	"*swel-": {
+		"cognates": [],
+	    "meaning": "burn",
+		"pron": "s w e l"
+	},
+	"*swep-": {
+		"cognates": [
+			"Latin: supāre",
+			"Russian: сы́ пать (sýpat Norse: sófl"
+		],
+		"meaning": "throw",
+		"pron": "s w e p"
+	},
+	"*swergh-": {
+		"cognates": [
+			"German: soraga/Sorge, Irish: serg",
+			"Norse: sorg",
+			"Russian: сорога (soroga)"
+		],
+		"meaning": "sicken",
+		"pron": "s w e r\\ g"
+	},
+	"*swey-": {
+		"cognates": [
+			"Russian: свист (svist), Irish: ind fet/fead, Latin: sibare",
+			"German: swegala"
+		],
+		"meaning": "whistle",
+		"pron": "s w e j"
+	},
+	"*sweyd-": {
+		"cognates": [
+			"Latin: sūdor",
+			"German: sweiz/Schweiss, Norse: sveiti"
+		],
+		"meaning": "sweat",
+		"pron": "s w e j d"
+	},
+	"*syuh1-": {
+		"cognates": [
+			"Latin: suere",
+			"Russian: шить (šit'), Norse: sýja",
+			"German: siuwen/Saum"
+		],
+		"meaning": "sew",
+		"pron": "s j u h1"
+	},
+	"*tag-": {
+		"cognates": [
+			"Old English þaccian",
+			"Ancient Greek: τεταγών (tetagṓ Gaulish: Taximagulus",
+			"Old Irish: taise tais",
+			"Latin: tangō"
+		],
+		"meaning": "touch",
+		"pron": "t a g"
+	},
+	"*tark-": {
+		"cognates": [
+			"Sanskrit: तक◌ु (tarkú) Old Prussian: tarkue",
+			"Russian: торок (torok)",
+			"Tocharian A: tark",
+			"Tocharian B: tärk",
+			"Ancient Greek: átrakts, Latin torqueō Old High German: drāhsil",
+			"German: drechseln Albanian: tjerr",
+			"Old Irish: torc Welsh: torri",
+			"Old English: þweorh English: thwart",
+			"Polish troki *teh2w-",
+			"to melt",
+			"Old Church Slavonic: таѥтъ (tajetŭ)",
+			"Russian: та́ять (tájatʹ) Ossetian: тайын (tajyn) Old English: þawian English: thaw",
+			"Old High German: thouwen",
+			"German: verdauen",
+			"Old Armenian: թանամ (tʿanam), թան (tʿan) Ancient Greek: τήκω (tḗkō)",
+			"Latin: tabeō",
+			"Old Norse: þeyja",
+			"Welsh: tawdd, toddi",
+			"Old Irish: tám",
+			"Sanskrit: तोय (toya)",
+			"Lithuanian: tyras",
+			"Latvian: tīreli Polish: tajać"
+		],
+		"meaning": "twist",
+		"pron": "t a r\\ k"
+	},
+	"*teng-": {
+		"cognates": [
+			"Albanian: tangë (Gheg Albanian: tânge Old English: þencan",
+			"English: think",
+			"Old High German:thenken",
+			"German: denken Latin: tongēo",
+			"Old Norse: þekkja Tocharian A: tuṅk- Tocharian B: taṅkw- Welsh: tanc",
+			"Old Irish: di·thech, for·tach, fortoing *tep-",
+			"warm",
+			"Albanian: ftoh, ftof",
+			"Old Irish: té, teine, timme",
+			"Welsh: tân, twym",
+			"Old Norse: þefr",
+			"Old English: þefian",
+			"Old High German:duft",
+			"German: Duft, deftig",
+			"Sanskrit: तपस् (tápas), तिपत (tápati) Latin: tepeō, tepor",
+			"Polish: ciepły",
+			"Russian: тёплый (tjóplyj)",
+			"Old Church Slavonic:теплость (teplostĭ)"
+		],
+		"meaning": "think",
+		"pron": "t e n g"
+	},
+	"*ter-": {
+		"cognates": [
+			"Ancient Greek: τέρθρον (térthron",
+			"Albanian: shtir Sanskrit: तिरत (tárati)",
+			"Old High German:dremil Latin: terminus",
+			"Old Norse: þrǫmr *ter-",
+			"to shake tremble *trem-",
+			"to shake tremble",
+			"Albanian: tremb",
+			"Ancient Greek: τρέμω (trémō), τρόμος (trómos) Latin: tremō",
+			"Lithuanian: trimti",
+			"Latvian: tremt",
+			"Tocharian A: träm-",
+			"Tocharian B: tremi"
+		],
+		"meaning": "cross",
+		"pron": "t e r\\"
+	},
+	"*ters-": {
+		"cognates": [
+			"Sanskrit: तृियत (tṛṣyati)",
+			"Old Armenian:թառամիմ(tʿaṙamim)), թարշամիմ (tʿaršamim) Ancient Greek: τέρσομαι (térsomai",
+			"Albanian: ter Latin: terra, torreō",
+			"Old Irish: tart, tír",
+			"Old English: þurst English: thirst",
+			"Old High German:durri German: dürr",
+			"Old Norse: þurr Lithuanian: trokšti"
+		],
+		"meaning": "dry",
+		"pron": "t e r\\ s"
+	},
+	"*teḱs-": {
+		"cognates": [
+			"Latin: textō",
+			"Lithuanian: tašýti",
+			"Latvian: tešu",
+			"Ancient Greek: τέχνη (tékhnē), τέκτων (téktōn) Russian: тесла (tesla)",
+			"Sanskrit: ति◌त (takṣati), तन् (takṣan)",
+			"Old Church Slavonic: тешѫ (tešǫ),тесла (tesla) Old Norse: þexla",
+			"Old High German: dehsa",
+			"German: Dachs",
+			"Irish: tál",
+			"Albanian: teshë, tollë"
+		],
+		"meaning": "plait",
+		"pron": "t e s"
+	},
+	"*treb-": {
+		"cognates": [
+			"Latin: trabēs, tribus Latvian: traba",
+			"Old English: þorp English: thorp",
+			"Old High German:thorf",
+			"German: Dorf",
+			"Old Norse: þorp",
+			"Ancient Greek:τέρεμνον(téremnon ) Welsh: tref",
+			"Middle Irish: treb *trewd-",
+			"to press Latin: trūdō",
+			"Albanian: tredh, ndrydh Middle Welsh: cythrud Middle Irish: trott",
+			"Old English: þrēat English: threat",
+			"Old High German:firthriogan German: verdrießen",
+			"Old Norse: þrjóta",
+			"Old Church Slavonic:троудъ (trudŭ), ) Russian: труд (trud)"
+		],
+		"meaning": "dwelling",
+		"pron": "t r\\ e b"
+	},
+	"*tres-": {
+		"cognates": [
+			"Ancient Greek: τρέω (tréō) Old Irish: tarrach Latin: terreō",
+			"Lithuanian: trišu",
+			"Latvian: trisēt",
+			"Old Church Slavonic:трѧсѫ (tręsǫ)",
+			"Sanskrit: िसत (trasati)",
+			"Russian: трясти́ (trjastí)"
+		],
+		"meaning": "shake",
+		"pron": "t r\\ e s"
+	},
+	"*webh-": {
+		"cognates": [
+			"German: weban/weben, Old Norse: vefa",
+			"Irish: fí"
+		],
+		"meaning": "weave",
+		"pron": "w e bh"
+	},
+	"*wed-": {
+		"cognates": [],
+		"meaning": "wet",
+		"pron": "w e d"
+	},
+	"*wedh-": {
+		"cognates": [
+			"Latin: vas (g. vadis), Irish: fedid",
+			"Norse: veð",
+			"German: wetti/Wette"
+		],
+		"meaning": "pledge",
+		"pron": "w e dh"
+	},
+	"*weh2dh-": {
+		"cognates": [
+			"Latin: vadere; vadare, vadum, Old Norse: vaða",
+			"German: watan/waten"
+		],
+	    "meaning": "go",
+		"pron": "w e h2 dh"
+	},
+	"*weh2t-": {
+		"cognates": [
+			"Latin: vatēs",
+			"OIrish: fáith",
+			"Norse: óðr; Oðinn; Oðinsdagr, German: wuot/Wut;"
+		],
+	    "meaning": "blow",
+		"pron": "w e h2 t"
+	},
+	"*wekw-": {
+		"cognates": [
+			"German: giwahanen/erwä Norse: váttr",
+			"Latin: vōx",
+			"Irish: foccul/focal; faig; anocht"
+		],
+		"meaning": "speak",
+		"pron": "w e kw"
+	},
+	"*welh1-": {
+		"cognates": [
+			"Norse: vilja",
+			"Russian: во́ля (vólja), Latin: volo"
+		],
+	    "meaning": "wish",
+		"pron": "w e l h1"
+	},
+	"*wemh1-": {
+		"cognates": [
+			"Latin: vomere, Norse: váma"
+		],
+		"meaning": "vomit",
+		"pron": "w e m h1"
+	},
+	"*wer-": {
+		"cognates": [],
+		"meaning": "cover",
+		"pron": "w e r\\"
+	},
+	"*wer-no-": {
+		"cognates": [],
+		"meaning": "ram",
+		"pron": "w e r\\ n o"
+	},
+	"*werh3-": {
+		"cognates": [
+			"Russian: врать (vratʹ), German: wort/Wort",
+			"Old Norse: orð, OIrish: fordat, Latin: verbum"
+		],
+		"meaning": "speak",
+		"pron": "w e r\\ h3"
+	},
+	"*werǵ-": {
+		"cognates": [
+			"Latin: urgere",
+			"German: werkon/werken; werah/Werk, Old Norse: verka; verk",
+			"Irish: fairged"
+		],
+	    "meaning": "do",
+		"pron": "w e r\\ g"
+	},
+	"*wes-": {
+		"cognates": [
+			"German: wist, MIrish: feis; dofeotar, Norse: vist"
+		],
+	    "meaning": "feast",
+		"pron": "w e s"
+	},
+	"*wet-": {
+		"cognates": [
+			"German: widar/Widder, Norse: veðr",
+			"Irish: fethim/feithim, Russian: ве́тхий (vétxij), Latin: vetus"
+		],
+		"meaning": "year",
+		"pron": "w e t"
+	},
+	"*weyd-": {
+		"cognates": [
+			"Latin: videō",
+			"Russian: ве́дать (védatʹ), German: wizzan/wissen, Norse: vita",
+			"OIrish: fis; fiuss; find/fionn"
+		],
+	    "meaning": "see",
+		"pron": "w e j d"
+	},
+	"*weyk-": {
+		"cognates": [
+			"Russian: век (vek), Norse: veig, German: wīgan/—, Irish: fichim",
+			"Latin: vincere, *weyḱ-",
+			"village",
+			"German: weihs, Russian: весь (vesʹ), Latin: vīcus"
+		],
+		"meaning": "victory",
+		"pron": "w e j k"
+	},
+	"*weys-": {
+		"cognates": [
+			"Latin: virēre; viridis, German: wīsa/Wiese, Old Norse: vísir"
+		],
+		"meaning": "sprout",
+		"pron": "w e j s"
+	},
+	"*weǵ-": {
+		"cognates": [
+			"Latin: vegeō",
+			"German: wahhēn/wachen, Norse: vaka"
+		],
+		"meaning": "lively",
+		"pron": "w e g"
+	},
+	"*weǵh-": {
+		"cognates": [
+			"Latin: vehō",
+			"Russian: везти́ (veztí), German: biwegan/bewegen, Old Norse: vega",
+			"Irish: feń"
+		],
+		"meaning": "ride",
+		"pron": "w e g"
+	},
+	"*winǵh-": {
+		"cognates": [
+			"Russian: вяз (vjaz), *worn-",
+			"raven",
+			"Russian: воро́на (voróna), Irish: bran"
+		],
+		"meaning": "elm",
+		"pron": "w i n g"
+	},
+	"*wred-": {
+		"cognates": [
+			"Russian: вред (vred), German: wirz/Wurz, Latin: rādīx",
+			"Irish: frém/fréamh, Norse: urt"
+		],
+		"meaning": "root",
+		"pron": "w r\\ e d"
+	},
+	"*wódr": {
+		"cognates": [
+			"water",
+			"Russian: вода́ (vodá), Latin: unda",
+			"Irish: uisce/uisge",
+			"Norse: vatn",
+			"German: wazzar/Wasser"
+		],
+		"meaning": "̥",
+		"pron": "w o d r\\"
+	},
+	"*yeh1-": {
+		"cognates": [
+			"Latin: hōrnus",
+			"German: jar/Jahr",
+			"Old Norse: ár",
+			"Russian: яровой (jarovoj), Polish jar"
+		],
+	    "meaning": "year",
+		"pron": "j e h1"
+	},
+	"*yes-": {
+		"cognates": [
+			"German: Gischt, Old Norse: jǫstr, Irish: ess"
+		],
+	    "meaning": "boil",
+		"pron": "j e s"
+	},
+	"*yewg-": {
+		"cognates": [],
+	    "meaning": "yoke",
+		"pron": "j e w g"
+	},
+	"*yeǵ-": {
+		"cognates": [
+			"Norse: jaki, German: ichil/gicht, Irish: aig/oighear, Russian: икра (ikra)"
+		],
+		"meaning": "ice",
+		"pron": "j e g"
+	},
+	"*ǵebh-": {
+		"cognates": [
+			"Old Norse: keptr"
+		],
+		"meaning": "jaw",
+		"pron": "g e bh"
+	},
+	"*ǵenh1-": {
+		"cognates": [
+			"German: kind/Kind Russian: зять (zjat') Irish: cinim/geinim"
+		],
+		"meaning": "birth",
+		"pron": "g e n h1"
+	},
+	"*ǵews-": {
+		"cognates": [
+			"Latin: dēgū German: kiosaň",
+			"OIrish: gus; *ǵneh3-",
+			"to know, to recognise Russian: знать (znat'), German: kunnan/können; Norse: kunna; kenna, OIrish: gnáth; gna",
+			"sLatin: (g)nosc *ǵerh2-",
+			"to mature",
+			"Latin: granum, Irish: grá",
+			"Russian: зерно (zerno) German: kerno/Korn"
+		],
+		"meaning": "taste",
+		"pron": "g e w s"
+	},
+	"*ǵhelh3-": {
+		"cognates": [
+			"Latin: helvus; fel",
+			"Russian: жёлтый; зелёный; золото (žëltyj; zelënyj; zoloto), German: gelo/gelb; gold/Gold",
+			"Irish: gel/gealach",
+			"Old Norse: gulr; gull"
+		],
+		"meaning": "shine",
+		"pron": "g e l h3"
+	},
+	"*ǵher-": {
+		"cognates": [
+			"Latin: hortus",
+			"German: garto/Garten",
+			"Old Norse: garðr",
+			"Gk. χόρτος (khórtos), Irish: gort",
+			"Russian: город (gorod), *ǵhers-",
+			"rigid",
+			"Latin: horrēo",
+			"Irish: garb/garbh"
+		],
+		"meaning": "enclose",
+		"pron": "g e r\\"
+	},
+	"*ǵhew-": {
+		"cognates": [
+			"Latin: fūtis; fundo, German: giozan/giessen, Old Norse: gjóta"
+		],
+		"meaning": "pour",
+		"pron": "g e w"
+	},
+	"*ǵhwel-": {
+		"cognates": [
+			"Russian: злой (zloj), *ǵhwen-",
+			"to sound",
+			"Russian: звон (zvon), *ǵhwer-",
+			"beast",
+			"Latin: ferus",
+			"Russian: зверь (zver'), *ǵhey-",
+			"winter",
+			"Latin: hiems",
+			"Russian: зима (zima)",
+			"Toch. śärme/śimpriye, Welsh gaeaf, Irish: gamh/geimhreadh,Hitt. ︎︎︎ (giman), Old Norse: gói, Pers. dai, Eng. gamol"
+		],
+		"meaning": "bend",
+		"pron": "g w e l"
+	},
+	"*ḱak-": {
+		"cognates": [
+			"Sanskrit: शाखा (śā́khā)",
+			"Russian: соха́ (soáx",
+			"Sanskrit: शाखा (śā́khā)",
+			"Russian: соха́ (soáx Irish: géag"
+		],
+		"meaning": "branch",
+		"pron": "a k"
+	},
+	"*ḱas-": {
+		"cognates": [
+			"Latin: cānus, cascus Sanskrit: षष (ṣaṣa)",
+			"Old Norse: hǫss, heri *ḱat-",
+			"battle",
+			"Old English: heaþu German: Hader",
+			"Sanskrit: शातियत (śātayati) Old Norse: hoð",
+			"Old Irish: cath",
+			"Irish: cath",
+			"Ancient Greek: κότος (kótos)"
+		],
+		"meaning": "gray",
+		"pron": "a s"
+	},
+	"*ḱeh2d-": {
+		"cognates": [
+			"German: Hass",
+			"Old Norse: hatr",
+			"Sanskrit: रशादस् (riśā́das)",
+			"Ancient Greek: κῆδος (kêdos)",
+			"Old Irish: caiss",
+			"Irish: cais"
+		],
+		"meaning": "hate",
+		"pron": "e h2 d"
+	},
+	"*ḱel-": {
+		"cognates": [
+			"Old Irish: clithe",
+			"Old Norse: hlǽr",
+			"Old High German:lāo German: lau",
+			"Latin: caleō, calidus"
+		],
+		"meaning": "warm",
+		"pron": "e l"
+	},
+	"*ḱer-": {
+		"cognates": [
+			"Latin: cerĕbrum, cervus, cornu",
+			"̄ Russian: се́рна (sérna), че́реп (c",
+			"̄ Russian: се́рна (sérna), че́реп (c",
+			"Ancient Greek: κέρας (kéras) Sanskrit: ि◌शरस् (śíras), (śṛṅ́ ga)",
+			"Old Norse: hjarni, horn Irish: cearn"
+		],
+		"meaning": "horn",
+		"pron": "e r\\"
+	},
+	"*ḱerh2-": {
+		"cognates": [
+			"Old High German:hruoren German: rühren",
+			"Old Norse: hrǿra",
+			"Sanskrit: ◌ाियत (śrāyati) Ancient Greek: κρατήρ (kratḗr) *ḱers-",
+			"to run",
+			"Latin: currō",
+			"Gaulish: carros",
+			"Ancient Greek:ἐπίκουρος(epíkouros)",
+			"Old Irish: carr Old Norse: horskr, hross"
+		],
+		"meaning": "mix",
+		"pron": "e r\\ h2"
+	},
+	"*ḱey-": {
+		"cognates": [
+			"English: home",
+			"Old High German:heim",
+			"German: Heim",
+			"Old Norse: heimr",
+			"Latin: cīvis, cūnae",
+			"Old Irish: coím",
+			"Irish: caoimh",
+			"Ancient Greek: κεῖμαι (keîmai), κώμη (kṓmē) Sanskrit: ◌े ि◌त (kṣéti), शेते (śḗtē)"
+		],
+		"meaning": "settle",
+		"pron": "e j"
+	},
+	"*ḱlep-": {
+		"cognates": [
+			"Latin: clepō",
+			"Ancient Greek: κλέπτω (kléptō) Old Irish: clúain"
+		],
+		"meaning": "steal",
+		"pron": "l e p"
+	},
+	"*ḱlew-": {
+		"cognates": [
+			"Latin: clueō",
+			"Russian: сло́во (slóvo) German: laut",
+			"Old Irish: ro·cluinethar, cloth *ḱon-",
+			"shell",
+			"Latin: congius",
+			"Ancient Greek: κόγχος (kónkhos) Sanskrit: श (śaṅkhá)"
+		],
+		"meaning": "hear",
+		"pron": "l e w"
+	},
+	"*ḱley-": {
+		"cognates": [
+			"Latin: clīnō",
+			"Old Irish: clóin",
+			"Ancient Greek: κλίνη (klí Russian: слой (sloj) Sanskrit: ियत (śrayati) German: lehnen",
+			"Old Norse: hlein"
+		],
+		"meaning": "lean",
+		"pron": "l e j"
+	},
+	"*ḱubh-": {
+		"cognates": [
+			"Latin: cubitus",
+			"Old High German:huf German: Hüfte Ancient Greek: κύβος (kúbos) Sanskrit: िशु (śúpti)"
+		],
+		"meaning": "shoulder",
+		"pron": "u bh"
+	},
+	"*ḱwen-": {
+		"cognates": [
+			"Russian: свято́й (svjatój)",
+			"Old Norse: hunsl"
+		],
+		"meaning": "holy",
+		"pron": "w e n"
+	},
+	"-kʷe": {
+		"cognates": [
+			"English: ",
+			"Gothic: -(u)h \"and\", ƕaz-uh \"whoever\"",
+			"Latin: -que \"and\", quis-que \"each one, whoever\"; Venetic -ke \"and\"; South Picenian -p \"and\"",
+			"Ancient Greek: -te \"and\", tís te, hós-te \"whoever\"",
+			"Sanskrit: -ca \"and\", káś-ca \"whoever\"",
+			"Iranian: Av ča, OPers čā \"and\"; Av čiš-ca, OPers čiš-čiy \"whoever\"",
+			"Slavic: Bulg če \"but, and, because\"; Old Czech a-če, ač \"if\"",
+			"Baltic: ",
+			"Celtic: OIr na-ch, MW nac \"not\" < \"*and not\";[k] Lepontic -pe \"and\"",
+			"Armenian: o-kʿ \"whoever\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: Lydian -k \"and\"; Hitt kuis-ki, Lycian ti-ke \"whoever\""
+		],
+		"meaning": "and",
+		"pron": "kw e"
+	},
+	"Hrót-h₂-os": {
+		"cognates": [
+			"English: ",
+			"Gothic: OHG Rad \"wheel\"",
+			"Latin: rota \"wheel\", \"wagon\"",
+			"Ancient Greek: ",
+			"Sanskrit: rátha \"chariot, car\"",
+			"Iranian: Av raθa \"wagon\", \"chariot\"",
+			"Slavic: ",
+			"Baltic: Lith rãtai \"wagon\" (pl.), rãtas \"wheel\" (sg.)",
+			"Celtic: OIr roth \"wheel\", \"circle\"",
+			"Armenian: ",
+			"Albanian: rreth \"ring, hoop, tyre (for carriages)\" (< *Hróth₂ikos)",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "wheel",
+		"pron": "\\H r\\ o t h2 o s"
+	},
+	"H₁dónt-,": {
+		"cognates": [
+			"English: tooth (< OE tōþ < *H₁dont-)",
+			"Gothic: tunþus \"tooth\" < *H₁dn̥t-",
+			"Latin: dēns (dentis) \"tooth\" < *H₁dn̥t-",
+			"Ancient Greek: odṓn (odóntos) \"tooth\" < Proto-Greek *edónt-, cf. Aeol. édontes \"teeth\"",
+			"Sanskrit: dán, dántaḥ \"tooth\"",
+			"Iranian: Av dantan-, dātā \"tooth\" NPers dandân \"tooth\"",
+			"Slavic: Russ. desná \"gum\" < *H₁dent-sn-",
+			"Baltic: OPrus dants \"tooth\", Lith dantis \"tooth\"",
+			"Celtic: OIr dēt \"tooth\", W dant \"tooth\"",
+			"Armenian: atamn \"tooth\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "tooth",
+		"pron": "h1 d o n t"
+	},
+	"H₁ed-": {
+		"cognates": [
+			"English: eat (< OE etan)",
+			"Gothic: itan \"to eat\"",
+			"Latin: edō (ēsse) \"to eat\", ēst \"(he) eats\"",
+			"Ancient Greek: édō \"I eat\", Homeric athematic infinitive édmenai \"to eat\"",
+			"Sanskrit: ádmi \"I eat\", átti \"(he) eats\"",
+			"Iranian: Av subj. aδāiti \"(he) should eat\"",
+			"Slavic: OCS jamĭ \"I eat\" < *H₁ēd-mi, jastŭ \"(he) eats\"",
+			"Baltic: OPrus istun \"to eat\", ėsti, Lith \"to eat\", ėdmi \"I eat\"",
+			"Celtic: OIr ci-ni estar \"although he doesn't eat\"; W ys \"eats\" < *H₁ed-ti",
+			"Armenian: utem \"I eat\" < *ōd-",
+			"Albanian: ha \"to eat\"",
+			"Tocharian: ",
+			"Hittite: ēdmi \"I eat\""
+		],
+		"meaning": "eat",
+		"pron": "h1 e d"
+	},
+	"H₁ei-": {
+		"cognates": [
+			"English: yede (< OE ēode \"went\")",
+			"Gothic: iddja \"went\"",
+			"Latin: eō (īre) \"to go\"",
+			"Ancient Greek: eĩmi \"I (will) go\"",
+			"Sanskrit: éti \"(he) goes\", yánti \"(they) go\"",
+			"Iranian: Av aēiti \"(he) goes\", yeinti \"(they) go\"; OPers aitiy \"goes\"",
+			"Slavic: OCS jiditi \"to move away, to arrive\", jidene \"coming\"",
+			"Baltic: OPrus eitwei \"to go\", Lith eiti \"to walk\"",
+			"Celtic: W wyf \"I am\"; OIr ethaid \"goes\" < *it-āt-",
+			"Armenian: iǰanem (aorist ēǰ) \"I climb down\" < *i-gh-",
+			"Albanian: iki \"to leave; flee\" *H₁(e)i-K-",
+			"Tocharian: A yā \"he went\", B yatsi \"to go\" < *yā-",
+			"Hittite: īt \"go!\""
+		],
+		"meaning": "go",
+		"pron": "h1 e i"
+	},
+	"H₁elH₁ēn": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: ",
+			"Ancient Greek: élaphos \"deer\"; Hom ellós \"young of the deer\"",
+			"Sanskrit: ",
+			"Iranian: ",
+			"Slavic: OSl jeleni \"deer\"; Russ oleni \"red deer\"",
+			"Baltic: Lith élnis \"red deer\"; Lith élnė \"hind\" < *H₁elH₁ēniHx \"hind, cow-elk\"",
+			"Celtic: NWel elain \"hind\" < *H₁elH₁ēniHx \"hind, cow-elk\" OIr elit \"doe\"[61]",
+			"Armenian: ełn \"hind\"",
+			"Albanian: ",
+			"Tocharian: B yal, ylem \"gazelle\"[62] B ylaṃśke \"young gazelle\"[63]",
+			"Hittite: aliya(n)- \"red deer\"[64]"
+		],
+		"meaning": "deer",
+		"pron": "h1 e l h1 e n"
+	},
+	"H₁es-": {
+		"cognates": [
+			"English: is (< OE is)",
+			"Gothic: ist \"is\"",
+			"Latin: sum (esse) \"I am (to be)\"; est \"it is\"",
+			"Ancient Greek: estí \"is,\"; Dorian Greek entí \"(they) are\" <- *H₁s-enti",
+			"Sanskrit: ásti \"is,\"",
+			"Iranian: Av asti \"is\"; Persian hast \"is\"",
+			"Slavic: OCS jestŭ \"is\"",
+			"Baltic: OPrus ast \"is\", ēst \"almost\", Lith esti \"is\"",
+			"Celtic: OIr is \"is\"; Old Welsh hint \"(they) are\" <- *H₁s-enti",
+			"Armenian: em \"I am\"",
+			"Albanian: është \"is\"",
+			"Tocharian: B ste \"is\"",
+			"Hittite: ēszi \"is\""
+		],
+		"meaning": "be",
+		"pron": "h1 e s"
+	},
+	"H₁eĝʰis": {
+		"cognates": [
+			"English: OE igil \"hedgehog\"",
+			"Gothic: ",
+			"Latin: ",
+			"Ancient Greek: MycGr e-ki-no;[65] ekhînos \"hedgehog\"",
+			"Sanskrit: ",
+			"Iranian: Oss wyzyn \"hedgehog\"",
+			"Slavic: OSl jezĭ \"hedgehog\"; Rus ež \"hedgehog\"",
+			"Baltic: Lith ežȳs \"hedgehog\"[y]",
+			"Celtic: ",
+			"Armenian: ozni \"hedgehog\"",
+			"Albanian: esh, eshk \"porcupine, hedgehog\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "hedgehog",
+		"pron": "h1 e gh i s"
+	},
+	"H₁le(n)gʷʰ-,": {
+		"cognates": [
+			"English: light (< OE lēoht)",
+			"Gothic: leihts \"light\" < *H₁lengʷʰ-tos; OHG lungar \"fast\" < *H₁ln̥gʷʰ-ros",
+			"Latin: levis \"light\" < *H₁legʷʰ-us",
+			"Ancient Greek: elakʷʰús \"small\" < *H₁ln̥gʷʰ-us, elapʰrós \"light, quick\" < *H₁ln̥gʷʰ-ros",
+			"Sanskrit: lagʰú-, ragʰú- \"quick, light, small\"",
+			"Iranian: Av ragu-, fem. rǝvī \"fast\", superl. rǝnjišta- \"fastest\"",
+			"Slavic: OCS lŭgŭkŭ \"light\"",
+			"Baltic: OPrus langus \"light\", langsta \"window\", lankewingis \"flexible\", linktwei \"to bend\", Lith lengvas \"light\", lankstus \"flexible\", langas \"window\", lenkti \"to bend\"",
+			"Celtic: OIr laigiu, laugu, MW llei \"smaller\"",
+			"Armenian: ",
+			"Albanian: lehtë \"light-weight\"",
+			"Tocharian: B lankutse \"light\"",
+			"Hittite: "
+		],
+	    "meaning": "light",
+		"pron": "h1 l e n gw"
+	},
+	"H₁me-": {
+		"cognates": [
+			"English: me (< OE mē, mec < *H₁me-ge)",
+			"Gothic: mik \"me (acc.)\"",
+			"Latin: mē(d) \"me (acc.)\"",
+			"Ancient Greek: emé, me \"me (acc.)\"",
+			"Sanskrit: mām \"me (acc.)\" < *H₁mē-m, mā \"me (acc. encl.)\"",
+			"Iranian: Av mąm \"me\"",
+			"Slavic: OCS mę \"me (acc.)\" < *H₁mē-m",
+			"Baltic: Lith manè \"me (acc.)\"",
+			"Celtic: OIr me-sse, mé, W mi \"I\"",
+			"Armenian: is \"me (acc.)\" <? *H₁me-ge",
+			"Albanian: mua, mue \"me (acc.)\" < *H₁mē-m",
+			"Tocharian: ",
+			"Hittite: ammuk \"me (acc., dat.)\" < *H₁me-ge, -mu \"me (acc. encl.)\""
+		],
+		"meaning": "me",
+		"pron": "h1 m e"
+	},
+	"H₁meme-,": {
+		"cognates": [
+			"English: my, mine (< OE mīn < *H₁mei-no-)",
+			"Gothic: meins \"my\"; meina \"of me\"",
+			"Latin: meī \"of me\"; meus \"my\" < *H₁me-yo-",
+			"Ancient Greek: emeĩo \"of me\"; emós \"my\"",
+			"Sanskrit: máma \"of me\"; ma/mā \"my\" <  *H₁mo-",
+			"Iranian: Av mana, OPers manā \"of me\"; Av ma (m/n), mā (f) \"my\"",
+			"Slavic: OCS mene \"to me\", moj/a/e (m/f/n) \"mine\"",
+			"Baltic: Lith mana(s), OPrus mais/maia \"my\"",
+			"Celtic: W fyn \"of me, my\"; Breton ma \"of me, my\"",
+			"Armenian: im \"my\"",
+			"Albanian: im \"my\" (article i + em)",
+			"Tocharian: AB ñi \"my\" < Proto-Tocharian *mäñi",
+			"Hittite: miš \"my\" < *H₁me-yo-"
+		],
+		"meaning": "my",
+		"pron": "h1 m e m e"
+	},
+	"H₁meĝʰi": {
+		"cognates": [
+			"English: me (< OE mē)",
+			"Gothic: mis \"me (dat.)\"",
+			"Latin: mihi \"me (dat.)\"",
+			"Ancient Greek: moi \"me (dat., gen. encl.)\"",
+			"Sanskrit: máhya(m) \"me (dat.)\", mḗ, me \"me (dat. encl.)\"",
+			"Iranian: Av maibya \"me (dat.)\" (? not in Pokorny), me (Old Avestan moi) \"me (dat. encl.)\"",
+			"Slavic: OCS mi (dat enc.) < *(H₁)moi",
+			"Baltic: Lith man \"for me\", OPrus maiy \"me (dat. encl.)\"",
+			"Celtic: OIr infix -m- \"me\"; W -'m infixed accusative first person singular pronoun \"me\"",
+			"Armenian: inj \"me (dat.)\"",
+			"Albanian: meje",
+			"Tocharian: ",
+			"Hittite: ammuk \"me (acc., dat.)\" < *H₁me-ge, -mi \"me (dat. encl.)\""
+		],
+	    "meaning": "me",
+		"pron": "h1 m e gh i"
+	},
+	"H₁neH₃mn̥": {
+		"cognates": [
+			"English: name (< OE nama)",
+			"Gothic: namō (acc. pl. namna) \"name\"",
+			"Latin: nōmen \"name\"",
+			"Ancient Greek: ónoma \"name\"",
+			"Sanskrit: nā́ma (instrumental sg. nā́mnā) \"name\"",
+			"Iranian: Av nāma \"name\"",
+			"Slavic: OCS imę \"name\" < Proto-Slavic *inmen < *n̥men",
+			"Baltic: OPrus emnes, emmens \"name\" < *enmen-",
+			"Celtic: OIr ainmm n-, OW anu \"name\"",
+			"Armenian: anun \"name\"",
+			"Albanian: Gheg emën, Tosk emër \"name\" < *enmen-",
+			"Tocharian: A ñem, B ñom \"name\"",
+			"Hittite: lāman- \"name\""
+		],
+		"meaning": "name",
+		"pron": "h1 n e h3 m n"
+	},
+	"H₁ok̂tō(u)": {
+		"cognates": [
+			"English: eight (< OE eahta)",
+			"Gothic: ahtáu \"eight\"",
+			"Latin: octō \"eight\"",
+			"Ancient Greek: oktṓ \"eight\"",
+			"Sanskrit: aṣṭā́(u) \"eight\"",
+			"Iranian: Av ašta \"eight\"",
+			"Slavic: OCS osmĭ \"eight\"[q]",
+			"Baltic: Lith aštuonì, OPrus astonei, Latg ostoni \"eight\"",
+			"Celtic: Gaul oxtu- \"eight\"[37] OIr ocht n- \"eight\";[r] W wyth \"eight\"",
+			"Armenian: utʿ \"eight\"",
+			"Albanian: tetë \"eight\" < *H₁ok̂tō-t-",
+			"Tocharian: A okät, B okt \"eight\"",
+			"Hittite: Lyc aitãta \"eight\"[38]"
+		],
+		"meaning": "eight",
+		"pron": "h1 o k t o u"
+	},
+	"H₁reudʰ-,": {
+		"cognates": [
+			"English: red (< OE rēad < *H₁roudʰ-os)",
+			"Gothic: rauþs (raudis) \"red\" < *H₁roudʰ-os",
+			"Latin: ruber \"red\" < *H₁rudʰ-rós; Umb rufru \"red\"",
+			"Ancient Greek: Myc e-ru-ta-ra, e-ru-to-ro;[79] erutʰrós \"red\" < *H₁rudʰ-rós",
+			"Sanskrit: rudʰirá- \"red\" < *H₁rudʰ-rós mixed with *H₁rudʰ-i-; rṓhita- \"red\"; lōhá- \"reddish\" < *H₁roudʰ-os",
+			"Iranian: Av raoiδita- \"red\"",
+			"Slavic: OCS rudŭ \"red\"; Czech rudá \"red\";[ad] Pol rudy \"red-haired\"[81]",
+			"Baltic: Lith raũdonas \"red\", rudas \"brown\"",
+			"Celtic: OIr rúad, W rhudd \"red\", rhwd \"rust\"; Gaul Roud- (in personal names)[82]",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: A rtär, B ratre \"red\" < *H₁rudʰ-rós",
+			"Hittite: "
+		],
+	    "meaning": "red",
+		"pron": "h1 r\\ e u dh"
+	},
+	"H₂enH₁-": {
+		"cognates": [
+			"English: OE ōþian \"breathe hard\" < PGerm *anþōjanã",
+			"Gothic: *uz-anan \"to expire\", ON anda \"to breathe\"",
+			"Latin: anima \"breath\"",
+			"Ancient Greek: ánemos \"wind\"",
+			"Sanskrit: ániti \"(he) breathes\"",
+			"Iranian: Av ā̊ntya, parā̊ntya (gen.) \"breathing in and out\"",
+			"Slavic: OCS vonja \"smell\" < *H₂en-yeH₂[70]",
+			"Baltic: ",
+			"Celtic: OIr anāl \"breath\" < *H₂enH̥₁-tlo- ; W anadl \"breath\"",
+			"Armenian: hołm \"wind\", anjn \"person\"",
+			"Albanian: Gheg âj Tosk ēnj \"I swell\"",
+			"Tocharian: AB āñm- \"spirit\", B añiye \"breath\", B anāsk- \"breathe in\"",
+			"Hittite: "
+		],
+		"meaning": "breathe",
+		"pron": "h2 e n h1"
+	},
+	"H₂enH₂-t(i)-": {
+		"cognates": [
+			"English: Scot ennet \"duck\" (< OE ened)",
+			"Gothic: OHG enita \"duck\"",
+			"Latin: ānas \"duck\"",
+			"Ancient Greek: nessa, netta \"duck\"",
+			"Sanskrit: ātí- \"waterfowl\"",
+			"Iranian: Ossetic acc \"Wild duck\" , NPers ordak \"duck\" , NPers ɣu \"swan\"",
+			"Slavic: Russ. utka \"duck\"",
+			"Baltic: OPrus ants \"duck\", Lith antis \"duck\"",
+			"Celtic: W hwyad(en) \"duck\"",
+			"Armenian: baht \"duck\"",
+			"Albanian: rosë \"duck\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "duck",
+		"pron": "h2 e n h2 t i"
+	},
+	"H₂ents": {
+		"cognates": [
+			"English: and (< OE and)",
+			"Gothic: and \"along, throughout, towards, in, on, among\"; OHG enti \"previously\" < PGerm *andiaz",
+			"Latin: ante \"in front of\"",
+			"Ancient Greek: antí \"instead of\"",
+			"Sanskrit: anti \"opposite to it\"",
+			"Iranian: Kurdish ênî \"front, forehead\"",
+			"Slavic: ",
+			"Baltic: Lith añt \"on\" antai \"there\"",
+			"Celtic: OIr étan \"forehead\" < *antono-",
+			"Armenian: ənd \"instead of\"",
+			"Albanian: ",
+			"Tocharian: A ānt, B ānte \"surface, forehead\"",
+			"Hittite: ḫānz, ḫanti \"in front\""
+		],
+		"meaning": "forehead",
+		"pron": "h2 e n t s"
+	},
+	"H₂erH₃-": {
+		"cognates": [
+			"English: OE erian \"to plow\"",
+			"Gothic: arjan \"to plow\"",
+			"Latin: arō (arāre) \"to plow\", arātrum \"plow\"",
+			"Ancient Greek: aróō \"I plow\" < *H₂erH₃-oH₂, árotron \"plow\"",
+			"Sanskrit: hala \"plow\"",
+			"Iranian: ",
+			"Slavic: OCS orjǫ (orati) \"to plow\", ralo < *ar(ə)dhlom \"plow\"",
+			"Baltic: OPrus artun \"to plow\", Lith arti \"to plow\"",
+			"Celtic: MIr airim \"I plow\", W arddu \"to plow\" < *arj-; MIr arathar, W aradr \"plow\" < *arətrom < *H₂erH₃-trom",
+			"Armenian: ara-wr \"plow\"",
+			"Albanian: arë \"arable land\" *H₂r̥H₃-uer-",
+			"Tocharian: AB āre \"plow\"",
+			"Hittite: "
+		],
+		"meaning": "plow",
+		"pron": "h2 e r\\ h3"
+	},
+	"H₂eug-,": {
+		"cognates": [
+			"English: eke (< OE ēacian \"to increase\"); wax (of the moon) (< OE weaxan \"to grow\")",
+			"Gothic: aukan, auknan \"to increase (intr.)\", wahsjan \"to grow\" < orig. caus. *H₂wog-s-éy-onom",
+			"Latin: augeō (augēre) \"to increase (tr.)\"",
+			"Ancient Greek: a(w)éksō \"I increase (intr.)\", aúksō, auksánō \"I increase (tr.)\"",
+			"Sanskrit: úkṣati \"(he) becomes stronger\", vakṣáyati \"(he) causes to grow\"",
+			"Iranian: Av uxšyeiti \"(he) grows\", vaxšaiti \"(he) causes to grow\"",
+			"Slavic: OCS jugъ \"south\" (the direction to where the Sun rises)",
+			"Baltic: OPrus augtwei \"to grow\", Lith augti \" to grow\"",
+			"Celtic: OIr fēr, W gwêr \"fat\" < *weg-",
+			"Armenian: ačem \"I grow, become big\"",
+			"Albanian: ",
+			"Tocharian: A oksiṣ \"(he) grows\"; A okṣu, В aukṣu \"grown\"",
+			"Hittite: "
+		],
+		"meaning": "grow",
+		"pron": "h2 e u g"
+	},
+	"H₂eusōs": {
+		"cognates": [
+			"English: eastern (< OE ēasterne)",
+			"Gothic: ON austr \"east\"",
+			"Latin: aurōra \"dawn\", aurum \"gold\"",
+			"Ancient Greek: Doric āṓs \"dawn\"",
+			"Sanskrit: uṣā́ḥ (uṣásaḥ), acc. uṣā́sam \"dawn\"",
+			"Iranian: Av ušā̊ (ušaŋhō), acc. ušā̊ŋhǝm \"dawn\"",
+			"Slavic: OCS (j)utro \"morning\", MKD zora \"dawn\"",
+			"Baltic: OPrus austra \"dawn\", auss \"gold\", Lith aušra \"dawn\", auksas \"gold\"",
+			"Celtic: OIr fāir \"sunrise\", W gwawr \"dawn\" < *wōsri-",
+			"Armenian: ?os-ki \"gold\"",
+			"Albanian: ",
+			"Tocharian: ?A wäs \"gold\"",
+			"Hittite: "
+		],
+	    "meaning": "dawn",
+		"pron": "h2 e u s o s"
+	},
+	"H₂eĝ-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ON aka \"to drive\"",
+			"Latin: agō (agere) \"to drive, do\"",
+			"Ancient Greek: ágō \"I lead\"",
+			"Sanskrit: ájati \"(he) drives\"",
+			"Iranian: Av azaiti \"(he) drives\" Kurdish ajotin \"to drive\"",
+			"Slavic: ehati \"to drive\"",
+			"Baltic: ",
+			"Celtic: OIr ad-aig \"compels\"; OW agit, hegit \"goes\"",
+			"Armenian: acem \"I lead\"",
+			"Albanian: ",
+			"Tocharian: A ak-, B āk- \"go, lead\"",
+			"Hittite: "
+		],
+	    "meaning": "lead",
+		"pron": "h2 e g"
+	},
+	"H₂melĝ-": {
+		"cognates": [
+			"English: milk (< OE meolc, mioluc)",
+			"Gothic: miluks (miluks) \"milk\"",
+			"Latin: mulgeō (mulgēre) \"to milk\"",
+			"Ancient Greek: amélgō \"I milk\"",
+			"Sanskrit: mā́ršti, mā́rjati, mr̥játi \"(he) wipes, cleans\"",
+			"Iranian: Av marǝzaiti, mǝrǝzaiti \"(he) grazes (barely touches)\"",
+			"Slavic: Russ. CS mŭlzu (mlěsti) \"to milk\", Pol mleko \"milk\"",
+			"Baltic: OPrus milztun \"to milk\", Lith melžti \"to milk\"",
+			"Celtic: W blith \"milk, dairy produce; full of milk\", MIr bligim \"I milk\" < *mligim, melg \"milk\"",
+			"Armenian: ",
+			"Albanian: miel, mil \"I milk\"",
+			"Tocharian: A malke B malk-wer \"milk\"",
+			"Hittite: "
+		],
+		"meaning": "milk",
+		"pron": "h2 m e l g"
+	},
+	"H₂ner-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ON Njǫrðr (name of a God)",
+			"Latin: Ner-ō (personal name), neriōsus \"strong\"",
+			"Ancient Greek: anḗr (andros) \"man\"",
+			"Sanskrit: nár- (nom. nā) \"man, person\"",
+			"Iranian: Av nar- (nom. nā) \"man, person\" Kurdish nêr \"male animal, masculine\"",
+			"Slavic: OCS naravŭ \"character, custom\";",
+			"Baltic: Lith nóras \"wish, want\", narsa; narsùs \"brave;\" OPrus nàrs \"courage\"",
+			"Celtic: W nêr \"lord, prince, leader; hero\"; Celt narto \"strength\"",
+			"Armenian: ayr (aṙn) \"man, person\"",
+			"Albanian: njer \"man, person\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "man",
+		"pron": "h2 n e r\\"
+	},
+	"H₂ous-": {
+		"cognates": [
+			"English: ear (< OE ēare)",
+			"Gothic: áusō \"ear\"",
+			"Latin: auris \"ear\"",
+			"Ancient Greek: oũs \"ear\"",
+			"Sanskrit: ūṣa \"cavity of the ear\"",
+			"Iranian: Av uši \"both ears\"; NPers hoš \"ear\"",
+			"Slavic: OCS ucho (ušese) \"ear\"",
+			"Baltic: OPrus auss \"ear\", Lith ausis \"ear\"",
+			"Celtic: OIr āu, ō \"ear\"",
+			"Armenian: unkn, nom pl. akanǰkʿ \"ear\"",
+			"Albanian: vesh \"ear\" < *ōus, *ōs-",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "ear",
+		"pron": "h2 o u s"
+	},
+	"H₂rtk̂os": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: ursus \"bear\"",
+			"Ancient Greek: árktos \"bear\"",
+			"Sanskrit: ŕ̥kṣaḥ \"bear\"",
+			"Iranian: YAv arša, Ossetian ars \"bear\" , NPers xers \"bear\"",
+			"Slavic: ",
+			"Baltic: Lith urgzti \"to growl\"",
+			"Celtic: MIr art, W arth \"bear\"",
+			"Armenian: arǰ \"bear\"",
+			"Albanian: arí \"bear\"",
+			"Tocharian: ",
+			"Hittite: ḫartaqqas (name of a beast of prey)"
+		],
+		"meaning": "bear",
+		"pron": "h2 r\\ t k o s"
+	},
+	"H₂ster-": {
+		"cognates": [
+			"English: star (< OE steorra)",
+			"Gothic: staírnō \"star\"",
+			"Latin: stēlla \"star\"",
+			"Ancient Greek: astḗr \"star\"",
+			"Sanskrit: stṛ  inst. pl. stŕ̥bhiḥ, nom. pl. tāraḥ, fem. nom. sg. tarā \"star\"",
+			"Iranian: Av acc. stā̆rǝm (ablauting)[aa] \"star\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: MIr ser, W seren, Breton sterenn \"star\"",
+			"Armenian: astł \"star\"",
+			"Albanian: ",
+			"Tocharian: pl. A śreñ, B ściriñ \"stars\"",
+			"Hittite: ḫasterza \"star\""
+		],
+		"meaning": "star",
+		"pron": "h2 s t e r\\"
+	},
+	"H₂weH₁n̥to-": {
+		"cognates": [
+			"English: wind (< OE wind); OE wāwan \"to blow\"",
+			"Gothic: winds \"wind\"; waian \"to blow\"",
+			"Latin: ventus \"wind\"",
+			"Ancient Greek: áenta (acc.) \"wind\", áēsi \"(he) blows\"",
+			"Sanskrit: vā́taḥ (vānt-)[75] \"wind\", vāti \"(he) blows\"",
+			"Iranian: Av vātō \"wind\", vāiti \"(he) blows\"",
+			"Slavic: OCS vějǫ (vějetŭ) \"to blow\"",
+			"Baltic: OPrus witra \"wind\", Lith vėjas \"wind\", vėtra \"heavy wind\"",
+			"Celtic: W gwynt \"wind\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: A want, B yente \"wind\"",
+			"Hittite: ḫūwanz[76] \"wind\""
+		],
+	    "meaning": "wind",
+		"pron": "h2 w e h1 n t o"
+	},
+	"H₂yuHn̥-": {
+		"cognates": [
+			"English: young (< OE ġeong < *H₂yuHn̥k̂ós)",
+			"Gothic: juggs \"young\"",
+			"Latin: juvenis \"young\"",
+			"Ancient Greek: ",
+			"Sanskrit: yúvan- (yū́naḥ) \"young\"",
+			"Iranian: Av yvan-, yavan- (yūnō) \"youth, young man\"",
+			"Slavic: OCS junŭ \"young\"",
+			"Baltic: Lith Jaunas \"young\"",
+			"Celtic: OIr ōac \"young\", W ieuanc \"young\" < *H₂yuHn̥k̂ós",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "young",
+		"pron": "h2 j u \\H n"
+	},
+	"H₂éĝros": {
+		"cognates": [
+			"English: acre (< OE æcer \"field\")",
+			"Gothic: akrs \"field\"",
+			"Latin: ager (agrī) \"field\"",
+			"Ancient Greek: agrós \"field\"",
+			"Sanskrit: ájraḥ \"meadow\"",
+			"Iranian: ",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: ",
+			"Armenian: art \"soil\"",
+			"Albanian: arë \"field\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "field",
+		"pron": "h2 e g r\\ o s"
+	},
+	"H₂óst-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: os (ossis) \"bone\"",
+			"Ancient Greek: ostéon \"bone\"",
+			"Sanskrit: ásthi (asthnáḥ) \"bone\"",
+			"Iranian: Av ast-, asti- (gen. pl. astąm, instr. pl. azdbīš) \"bone\" NPers ostoxan \"bone\"",
+			"Slavic: OCS kostĭ \"bone\"",
+			"Baltic: ",
+			"Celtic: OIr asil \"limb\", MIr asna \"rib\" <? *astonyo-; MW ass-en, asseu \"rib\", W asgwrn \"bone\" < *ost-ko-",
+			"Armenian: os-kr \"bone\"",
+			"Albanian: asht, ahstë \"bone\"",
+			"Tocharian: B āy, pl. āsta \"bone\"",
+			"Hittite: ḫastāi- \"bone\""
+		],
+		"meaning": "bone",
+		"pron": "h2 o s t"
+	},
+	"H₂ówi-": {
+		"cognates": [
+			"English: ewe (< OE ēow \"sheep\", ēowu \"ewe\")",
+			"Gothic: awistr \"sheepfold\"; OHG ouwi, ou \"sheep\"",
+			"Latin: ovis \"sheep\"",
+			"Ancient Greek: ó(w)is \"sheep\"",
+			"Sanskrit: ávi- \"sheep\"",
+			"Iranian: Wakhi yobc \"ewe\" < PIran *āvi-či-",
+			"Slavic: Bulg ovèn \"ram\", OCS ovĭ-ca \"ewe\"",
+			"Baltic: OPrus awwins \"ram\", Lith avis \"female sheep\" avinas \"ram\"",
+			"Celtic: OIr ōi \"sheep\"; W ewig \"deer\"",
+			"Armenian: hov-iw \"shepherd\"",
+			"Albanian: ",
+			"Tocharian: B eye \"sheep\", ā(u)w \"ewe\"",
+			"Hittite: Luvian hāwa/i-, Lycian χawa- \"sheep\""
+		],
+		"meaning": "sheep ",
+		"pron": "h2 o w i"
+	},
+	"H₃er-on": {
+		"cognates": [
+			"English: erne \"a sea eagle\" < OE earn \"eagle\"",
+			"Gothic: ara \"eagle\"; OHG arn \"eagle\"",
+			"Latin: ",
+			"Ancient Greek: órnis \"bird\"",
+			"Sanskrit: ",
+			"Iranian: ",
+			"Slavic: OSl orǐlŭ \"eagle\"; Rus orël \"eagle\"",
+			"Baltic: Lith ăras, ĕras, erẽlis \"eagle\"; Latv ērglis, OPrus arelie \"eagle\"",
+			"Celtic: MBret erer, MW eryr, MIr irar \"eagle\" (< *eriro)",
+			"Armenian: OArm oror \"gull\", MArm urur \"kite\"",
+			"Albanian: orr \"eagle, falcon\" (rare)",
+			"Tocharian: ",
+			"Hittite: Hitt ḫaran- \"eagle\"; CLuw ḫarrani(a/i) \"a type of (oracular) bird\"; Pala [ḫa-]a-ra-na-aš \"eagle\"[67]"
+		],
+		"meaning": "eagle",
+		"pron": "h3 e r\\ o n"
+	},
+	"H₃okʷ-": {
+		"cognates": [
+			"English: eye (< OE ēage)",
+			"Gothic: áugō \"eye\"",
+			"Latin: oculus \"eye\" < *ōkʷelo-s",
+			"Ancient Greek: ósse \"both eyes\"; ómma \"eye\" < *óp-mn̥; ökkon[46] \"eye\"",
+			"Sanskrit: ákṣi (akṣṇáḥ) \"eye\"",
+			"Iranian: Av aši \"both eyes\"",
+			"Slavic: OCS oko \"eye\"",
+			"Baltic: OPrus aks \"eye\", Lith akis \"eye\"",
+			"Celtic: OIr enech, W enep \"face\"",
+			"Armenian: akn, nom pl. ačʿkʿ \"eye\"",
+			"Albanian: sy \"eye\"",
+			"Tocharian: A ak, B ek \"eye\"",
+			"Hittite: "
+		],
+		"meaning": "eye",
+		"pron": "h3 o kw"
+	},
+	"alyos,": {
+		"cognates": [
+			"English: else (< OE elles); other (< OE ōþer)",
+			"Gothic: aljis, anþar \"other\"",
+			"Latin: alius \"other\"",
+			"Ancient Greek: állos \"other\"",
+			"Sanskrit: anyá-, ántara- \"other\"",
+			"Iranian: Av anya-, ainya-, OPers aniya- \"other\"; Ossetian ändär \"other\"; East Iranian hal-ci \"whoever\"",
+			"Slavic: Old Sorbian wutory \"other\" < PSlav *ǫtorŭ",
+			"Baltic: OPrus antars \"second\", Lith antras \"second\"",
+			"Celtic: OIr aile, W ail \"other\"",
+			"Armenian: ayl \"other\"",
+			"Albanian: ",
+			"Tocharian: A ālya-kə, B alye-kə \"another\"",
+			"Hittite: Lydian aλa- \"other\""
+		],
+		"meaning": "other",
+		"pron": "a l j o s"
+	},
+	"apó": {
+		"cognates": [
+			"English: of, off (< OE of)",
+			"Gothic: af \"from, of, by\" (ab-u \"from ...?\")",
+			"Latin: ab \"away\"",
+			"Ancient Greek: apó \"from\"",
+			"Sanskrit: ápa \"away\"",
+			"Iranian: Av apa, OPers apa \"away\"",
+			"Slavic: OCS ot, \"from, apart of\"",
+			"Baltic: Lith apačià \"bottom\" < *apotyā",
+			"Celtic: ",
+			"Armenian: ",
+			"Albanian: prapë \"back\" < *per-apë",
+			"Tocharian: ",
+			"Hittite: āpa \"behind, back\" (or ? < *epi)"
+		],
+		"meaning": "away",
+		"pron": "a p o"
+	},
+	"bʰer-": {
+		"cognates": [
+			"English: bear (< OE beran)",
+			"Gothic: baíran \"to carry\"",
+			"Latin: ferō (ferre) \"to carry\"",
+			"Ancient Greek: pʰerō \"I carry\"",
+			"Sanskrit: bʰarati \"(he) carries\"",
+			"Iranian: Av baraiti \"(he) carries\"; OPers barantiy \"they carry\" NPers bordan \"to carry\" Kurdish birin \"to carry, to take\"",
+			"Slavic: OCS berǫ (bĭrati) \"to carry\"",
+			"Baltic: Lith berti \"to pour non liquid\"",
+			"Celtic: OIr biru \"I carry\"; W beru \"to flow\"",
+			"Armenian: berem \"I carry\"",
+			"Albanian: bie \"I carry\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "carry",
+		"pron": "bh e r\\"
+	},
+	"bʰréH₂ter-": {
+		"cognates": [
+			"English: brother (< OE brōþor)",
+			"Gothic: brōþar \"brother\"",
+			"Latin: frāter \"brother\"",
+			"Ancient Greek: pʰrā́tēr \"member of a phratry (brotherhood)\"",
+			"Sanskrit: bʰrā́tṛ  \"brother\"",
+			"Iranian: Av brātar-, OPers brātar-, Ossetian ärvád \"brother, relative\", NPers barādar, Kurdish bira",
+			"Slavic: OCS bratrŭ \"brother\"",
+			"Baltic: Lith brõlis, OPrus brati \"brother\"",
+			"Celtic: Gaul Bratronos (pers. name);[1] OIr brāth(a)ir, W brawd (pl. brodyr)  \"brother\"",
+			"Armenian: ełbayr (gen. ełbawr) \"brother\"",
+			"Albanian: ",
+			"Tocharian: A pracar, B procer \"brother\"",
+			"Hittite: Lyd brafr(-sis) \"brother\"[2]"
+		],
+		"meaning": "brother",
+		"pron": "bh r\\ e h2 t e r\\"
+	},
+	"bʰuH₂-": {
+		"cognates": [
+			"English: be (< OE bēon); OE būan \"to dwell\"",
+			"Gothic: bauan \"to dwell\"",
+			"Latin: fuī \"I was\"",
+			"Ancient Greek: pʰúomai \"I become\", épʰū \"became\"",
+			"Sanskrit: bʰávati \"become, is\", ábʰūt \"became, was\"",
+			"Iranian: Av bavaiti, OPers bavatiy \"(he) becomes\"",
+			"Slavic: OCS byti \"to become, be\"",
+			"Baltic: OPrus butwei \"to be\", Lith būti \"to be\"",
+			"Celtic: OIr buith \"being\", W bod \"to be\"",
+			"Armenian: busanim \"sprout up\"",
+			"Albanian: buj, bûj \"I dwell, stay overnight\" < *bunjō",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "become",
+		"pron": "bh u h2"
+	},
+	"bʰébʰrus": {
+		"cognates": [
+			"English: beaver (< OE beofer)",
+			"Gothic: OHG bibar \"beaver\"; OIc biorr \"beaver\"",
+			"Latin: fīber \"beaver\"",
+			"Ancient Greek: ",
+			"Sanskrit: babʰrú \"mongoose\"",
+			"Iranian: Av baβra- \"beaver\"",
+			"Slavic: Ukr bober \"beaver\"[66]; Rus bobr \"beaver\"",
+			"Baltic: Lith bebrùs \"beaver\"; Pruss bebrus \"beaver\"",
+			"Celtic: Gaul bebru- ; OIr Bibar",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "beaver",
+		"pron": "bh e bh r\\ u s"
+	},
+	"deH₃-,": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: dō (dare) \"to give\"",
+			"Ancient Greek: dídōmi \"I give\"",
+			"Sanskrit: dádāti \"(he) gives\"",
+			"Iranian: Av dadāiti \"(he) gives\"; OPers impv. dadātuv \"let him give\" NPers dãdan \"to give\"",
+			"Slavic: OCS damĭ \"I will give\"",
+			"Baltic: OPrus datun \"to give\", Lith duoti \"to give\"",
+			"Celtic: OIr dān, W dawn \"gift\"",
+			"Armenian: tam \"I give\"",
+			"Albanian: dhashë \"I gave\" < *dH̥₃-sm̥",
+			"Tocharian: ",
+			"Hittite: dāi \"takes\""
+		],
+		"meaning": "give",
+		"pron": "d e h3"
+	},
+	"dn̥ĝʰuH₂-,": {
+		"cognates": [
+			"English: tongue (< OE tunge)",
+			"Gothic: tuggō \"tongue\"",
+			"Latin: lingua \"tongue\" (archaic dingua)",
+			"Ancient Greek: ",
+			"Sanskrit: jihvā́ \"tongue\" < *ĝiĝʰwā, juhū́",
+			"Iranian: Av hizvā < *ĝiĝʰwā, OPers hizān, Parth ezβān \"tongue\"[44]",
+			"Slavic: OCS języ-kŭ \"tongue\" < *n̥ĝʰū-k-",
+			"Baltic: OPrus inzuws \"tongue\", Lith liežuvis \"tongue\"",
+			"Celtic: teng \"tongue\"; W tafod \"tongue, language\"",
+			"Armenian: lezu \"tongue\" (influenced by lizem, \"I lick\")",
+			"Albanian: ",
+			"Tocharian: A käntu, B kantwo \"tongue\" (*kantwa < *tankwa)",
+			"Hittite: "
+		],
+		"meaning": "tongue",
+		"pron": "d n gh u h2"
+	},
+	"domo-,": {
+		"cognates": [
+			"English: timber (< OE timber \"house, building material\")",
+			"Gothic: timrjan \"to build, erect\"",
+			"Latin: domus (domūs) \"house\"",
+			"Ancient Greek: dómos \"house\"",
+			"Sanskrit: dámaḥ \"house\"",
+			"Iranian: Av dąm, dąmi \"in the house\"; dǝmā̆na-, nmāna- \"house\" < *dm-ā̆na-",
+			"Slavic: OCS domŭ \"house\"",
+			"Baltic: OPrus dimstis \"porch\",  Lith dimstis \"entryway\"",
+			"Celtic: MIr dom-liacc \"house of stones\"",
+			"Armenian: tun \"house\"",
+			"Albanian: dhomë \"room\"",
+			"Tocharian: ?A tem-, B tam- \"be born\"",
+			"Hittite: "
+		],
+		"meaning": "home",
+		"pron": "d o m o"
+	},
+	"doru,": {
+		"cognates": [
+			"English: tree (< OE trēo)",
+			"Gothic: triu \"tree, wood\"",
+			"Latin: ",
+			"Ancient Greek: dóru, drûs \"tree, wood\"",
+			"Sanskrit: dā́ru, drṓs, drú- \"tree, wood\"",
+			"Iranian: Av dāru- \"tree, wood\"",
+			"Slavic: OCS drěvo \"tree\"",
+			"Baltic: OPrus drawê \"hole in a tree, hollow tree\", Lith drevė \"hole in a tree\", dirva \"soil\"",
+			"Celtic: OIr daur \"oak\", W derwen \"oak\"",
+			"Armenian: tram \"firm\"",
+			"Albanian: dru \"tree\"",
+			"Tocharian: AB or \"wood\"",
+			"Hittite: taru \"tree\""
+		],
+	    "meaning": "wood",
+		"pron": "d o r\\ u"
+	},
+	"dwóH₁": {
+		"cognates": [
+			"English: two (< OE twā)",
+			"Gothic: twái (fem. twōs, neut. twa) \"two\"",
+			"Latin: duo \"two\"",
+			"Ancient Greek: dúō \"two\"",
+			"Sanskrit: dvā́(u) \"two\"",
+			"Iranian: Av dva, fem. neut. baē \"two\" NPers do \"two\"",
+			"Slavic: OCS dŭva \"two\"",
+			"Baltic: Lith dù, OPrus dwai \"two\"",
+			"Celtic: OIr da, W dau (fem. dwy) \"two\"",
+			"Armenian: erku \"two\"",
+			"Albanian: dy \"two\"",
+			"Tocharian: A wu, B wi \"two\"",
+			"Hittite: dā-, ta-; HLuw tuwa/i- \"two\"; Lyc kbi- \"two\"; Mil tba \"two\"[l][27]"
+		],
+		"meaning": "two",
+		"pron": "d w o h1"
+	},
+	"dyēus,": {
+		"cognates": [
+			"English: Tues-day (< OE Tīwes-dæġ lit. \"day of Tīw\"[ab])",
+			"Gothic: ON tīvar \"gods\", Týr \"Tīw\" (the war god)",
+			"Latin: Iuppiter (Iovis), Old Latin Diū-piter (Diovis) \"Jupiter\"; diēs \"day\", deus, dīvus \"god\"[ac]",
+			"Ancient Greek: Zdeús (Di(w)ós)[74] \"Zeus\"",
+			"Sanskrit: d(i)yāúḥ (diváḥ, dyōḥ)[74] \"heaven\", dēváḥ \"god\"",
+			"Iranian: Av daēva- \"demon\"",
+			"Slavic: (OCS dĭnĭ (dĭne) \"day\" < *din-is), Ukr. dyvo and Russ. divo \"miracle\"",
+			"Baltic: OPrus deina \"day\", deiws \"god\", Lith diena \"day\", dievas \"god\"",
+			"Celtic: OIr dīe, W dydd \"day\"; OIr dia (dē), OW duiu- \"God\"",
+			"Armenian: tiw (tuənǰean) \"day\"",
+			"Albanian: (gdhinj \"I make day\"(? mache Tag) < *-di-n-yoH₂)",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "day",
+		"pron": "d j e u s"
+	},
+	"dék̂m̥t": {
+		"cognates": [
+			"English: ten (< OE tien)",
+			"Gothic: taíhun \"ten\"",
+			"Latin: decem \"ten\"",
+			"Ancient Greek: déka \"ten\"",
+			"Sanskrit: dáśa \"ten\"",
+			"Iranian: Av dasa \"ten\"",
+			"Slavic: OCS desętĭ \"ten\"",
+			"Baltic: Lith dẽšimt, OPrus desimtan \"ten\"",
+			"Celtic: Gaul decam- \"ten\";[40] Celtib tekam- \"ten\";[41] OIr deich, W deg, deng \"ten\"",
+			"Armenian: tasn \"ten\"",
+			"Albanian: dhjetë \"ten\" < *dék̂m̥t-i-",
+			"Tocharian: A śäk, B śak \"ten\"",
+			"Hittite: [s]"
+		],
+		"meaning": "ten",
+		"pron": "d e k m t"
+	},
+	"dāiH₂u̯ēr-": {
+		"cognates": [
+			"English: OE tācor \"husband's brother\"",
+			"Gothic: OHG zeihhor \"husband's brother\"",
+			"Latin: levir \"husband's brother\"",
+			"Ancient Greek: dāēr \"husband's brother\"",
+			"Sanskrit: devṛ́, devará \"husband's brother\"",
+			"Iranian: ",
+			"Slavic: OCS děverĭ \"brother-in-law\"",
+			"Baltic: Lith dieveris \"husband's brother\"",
+			"Celtic: W daw(f) \"brother-in-law\"",
+			"Armenian: taygr \"husband's brother\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "brother-in-law",
+		"pron": "d a i h2 u e r\\"
+	},
+	"dʰeH₁-,": {
+		"cognates": [
+			"English: do (< OE dōn)",
+			"Gothic: deds \"deed\"",
+			"Latin: faciō (facere) \"to do\" < *dʰH̥₁-k-yoH₂; con-ditus \"built\" (orig. \"put together\"), ab-ditus \"removed\" (orig. \"put away\") < Proto-Italic *-θatos < *dʰH̥₁-tos",
+			"Ancient Greek: títʰēmi \"I put\" < *dʰí-dʰeH₁-mi",
+			"Sanskrit: dádʰāti \"(he) puts\" < *dʰé-dʰeH₁-ti",
+			"Iranian: Av daδāiti \"(he) puts\"; OPers impf. adadā \"(he) established\"",
+			"Slavic: OCS děti \"to lay\"",
+			"Baltic: OPrus ditun \"to put\", Lith dėti \"to put\"",
+			"Celtic: Gaulish dede \"he put (pt.)\"; W dodi \"to place, to put\";OIr -tarti \"he gives\" < Proto-Celtic *to-ro-ad-dīt < *-dʰeH₁-t",
+			"Armenian: dnel \"to put\"; ed \"he put (past)\"",
+			"Albanian: dhatë \"place, location\" < *dʰH̥₁-teH₂",
+			"Tocharian: A tā-, täs-, tas-, B tes- \"to lay\" < *dʰeH₁-s-",
+			"Hittite: dāi \"puts\""
+		],
+		"meaning": "put",
+		"pron": "dh e h1"
+	},
+	"dʰeĝʰom-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: humus \"earth\"",
+			"Ancient Greek: kʰtʰṓn (kʰtʰonós) \"earth\", kʰamaí \"on the earth\"",
+			"Sanskrit: kṣā́ḥ (acc. kṣā́m, gen. jmáḥ) \"earth\"",
+			"Iranian: Av zā̊ (acc. ząm, gen. zǝmō) \"earth\"",
+			"Slavic: OCS zemĭ, zemlja \"earth\"",
+			"Baltic: OPrus zemê \"earth\", Lith žemė \" earth\"",
+			"Celtic: OIr dū \"place\"; Welsh dyn \"man\"",
+			"Armenian: ",
+			"Albanian: dhe \"earth\"",
+			"Tocharian: A tkaṃ (tkanis), B keṃ \"earth\"",
+			"Hittite: tēkan (tagnās) \"earth\""
+		],
+		"meaning": "earth",
+		"pron": "dh e gh o m"
+	},
+	"dʰugH₂-tér-": {
+		"cognates": [
+			"English: daughter (< OE dohtor)",
+			"Gothic: daúhtar \"daughter\"",
+			"Latin: Oscan futír \"daughter\"",
+			"Ancient Greek: tʰugátēr \"daughter\"",
+			"Sanskrit: dúhitṛ  \"daughter\"",
+			"Iranian: Av dugədar-, duɣδar-, NPers doḫtar \"daughter\" Kurdish dot \"daughter\"",
+			"Slavic: OCS dŭšti, dŭšter- \"daughter\"",
+			"Baltic: Lith dukteris, OPrus dukti \"daughter\"",
+			"Celtic: Gaulish duxtir \"daughter\"; Celtib TuaTer (duater) \"daughter\"[5][6]",
+			"Armenian: dustr \"daughter\"",
+			"Albanian: ",
+			"Tocharian: A ckācar, B tkācer \"daughter\"",
+			"Hittite: HLuw túwatara \"daughter\";[7] ?Lyd datro \"daughter\"; CLuw/Hitt duttarii̯ata-;[b] Lyc kbatra \"daughter\"[c]"
+		],
+		"meaning": "daughter",
+		"pron": "dh u g h2 t e r\\"
+	},
+	"dʰwer-": {
+		"cognates": [
+			"English: door (< OE dor, duru)",
+			"Gothic: daúr, daúrō \"door\"",
+			"Latin: forēs (pl.) \"door\"",
+			"Ancient Greek: tʰurā \"door\"",
+			"Sanskrit: dvā́r, dvā́raḥ (pl.) \"door\"",
+			"Iranian: Av dvarǝm (acc.) \"gate, court\"; OPers duvarayā \"at the gate\" NPers dar \"door\"",
+			"Slavic: OCS dvĭri \"door\"",
+			"Baltic: OPrus dwarris \"gate, goal\",dwars \"estate\", Lith durys \"door\", dvaras \"estate\", vartai \"gate\", Latg durovys \"door\", vuorti \"gate\"",
+			"Celtic: OIr dorus \"door\" < Proto-Celtic *dworestu-, W dôr \"door\" < *dʰureH₂",
+			"Armenian: duṙn \"door\"",
+			"Albanian: derë \"door\"",
+			"Tocharian: B twere \"doors\"",
+			"Hittite: an-durza \"within\""
+		],
+	    "meaning": "door",
+		"pron": "dh w e r\\"
+	},
+	"dʰĝʰemon-": {
+		"cognates": [
+			"English: OE guma \"person, man\", brȳdguma \"bridegroom\"[g]",
+			"Gothic: guma \"man\"",
+			"Latin: homō \"person\"",
+			"Ancient Greek: khthōn \"the earth\"; khamai \"on the ground\"",
+			"Sanskrit: ",
+			"Iranian: Kurdish zevî \"farmland\" NPers zamin \"ground, soil\"",
+			"Slavic: OCS zem(l)janinъ \"earthling\"",
+			"Baltic: OLith žmuõ \"person\"; Lith žmoná \"wife\"; OPrus zmunents \"human\"",
+			"Celtic: OIr duine, W dyn \"person\"  < *dʰĝʰom-yo-",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: A śom \"boy\"; B śaumo \"person\"",
+			"Hittite: "
+		],
+	    "meaning": "person",
+		"pron": "dh gh e m o n"
+	},
+	"dʰĝʰyés": {
+		"cognates": [
+			"English: yesterday (< OE ġeostra)",
+			"Gothic: gistra- \"tomorrow (?)\"",
+			"Latin: heri \"yesterday\"",
+			"Ancient Greek: kʰtʰés \"yesterday\"",
+			"Sanskrit: hyáḥ \"yesterday\"  < *gʰyés",
+			"Iranian: Av zyō, Old Persian diya(ka) \"yesterday\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: OIr in-dē, W ddoe \"yesterday\"",
+			"Armenian: ",
+			"Albanian: dje \"yesterday\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "yesterday",
+		"pron": "dh gh j e s"
+	},
+	"egH₂": {
+		"cognates": [
+			"English: I (< OE ic̣)",
+			"Gothic: ik \"I\"",
+			"Latin: egō \"I\" < *egoH₂",
+			"Ancient Greek: egṓ, egṓn \"I\"",
+			"Sanskrit: ahám \"I\" < *egH₂-om",
+			"Iranian: Av azǝm, OPers adam, Parth. az \"I\" < *egH₂-omKurdish ez \"I (direct case)\"",
+			"Slavic: OCS azŭ \"I\"",
+			"Baltic: Lith àš, OLith eš, OPrus as, Latv es \"I\"",
+			"Celtic: es \"I\"",
+			"Armenian: es \"I\"",
+			"Albanian: u, unë \"I\" (-në possibly originally a suffix)",
+			"Tocharian: ñuk \"I\"",
+			"Hittite: ūk  \"I\" influenced by ammuk \"me\""
+		],
+		"meaning": "I",
+		"pron": "e g h2"
+	},
+	"en": {
+		"cognates": [
+			"English: in (< OE in)",
+			"Gothic: in \"in, into, towards\"",
+			"Latin: in \"in\"",
+			"Ancient Greek: en \"in\"",
+			"Sanskrit: án-īka- \"face\" < ?*eni-Hkʷ",
+			"Iranian: Av ainika \"face\" < ?*eni-Hkʷ",
+			"Slavic: OCS on-, vŭn-, vŭ \"in\"",
+			"Baltic: OPrus en \"in\", Lith į \"in\"",
+			"Celtic: OIr in- \"in\"; W yn \"in\"",
+			"Armenian: i \"in\"",
+			"Albanian: inj \"until\"",
+			"Tocharian: AB y-, yn-, B in- \"in\"",
+			"Hittite: an-dan \"inside\""
+		],
+		"meaning": "in",
+		"pron": "e n"
+	},
+	"gʰabʰ-": {
+		"cognates": [
+			"English: give (< OE ġiefan)",
+			"Gothic: giban \"to give\"",
+			"Latin: habeō (habēre) \"to have\"",
+			"Ancient Greek: ",
+			"Sanskrit: gábʰastiḥ \"forearm, hand\"",
+			"Iranian: OPers grab \"to seize\"; Kurdish girtin \"to take, to seize",
+			"Slavic: Russ. xvatátʹ \"to snatch, suffice\"",
+			"Baltic: OPrus gabtun \"to catch\", Lith gauti \" to get\"",
+			"Celtic: OIr gaibid \"takes\"; W gafael \"to take hold, to grip\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "seize",
+		"pron": "gh a bh"
+	},
+	"gʰel-,": {
+		"cognates": [
+			"English: gold; yellow (< OE geolu); yolk (< OE ġeoloca)",
+			"Gothic: gulþ \"gold\"",
+			"Latin: helvus \"honey-yellow\"; gilvus \"pale yellow (of horses)\"[84][ae]",
+			"Ancient Greek: kʰlōrós \"pale green\"[af]",
+			"Sanskrit: Skt híraņyam \"gold\"; hári- \"yellow\"",
+			"Iranian: Av zaranyam \"gold\"; zári \"yellow\"",
+			"Slavic: OCS zelenĭ \"green\"; Rus zóloto \"gold\";",
+			"Baltic: Latv zèlts \"gold\"; Lith geltas \"yellow\"; žel̃vas \"golden\"; žalias \"green\"",
+			"Celtic: MWel gell \"yellow\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "green",
+		"pron": "gh e l"
+	},
+	"gʷem-": {
+		"cognates": [
+			"English: come (< OE cuman)",
+			"Gothic: qiman \"to come\"",
+			"Latin: veniō (venīre) \"to come\"",
+			"Ancient Greek: baínō \"I go\"",
+			"Sanskrit: gámati \"(he) goes\", aor. ágan, gan \"(he) went\"",
+			"Iranian: Av ǰamaiti \"goes\"; OAv inj. uz-ǰǝ̄n \"(he) goes\", pl. gǝmǝn \"they go\"",
+			"Slavic: ",
+			"Baltic: OPrus gimtwei \"to be born\", Lith gimti \"to be born\"",
+			"Celtic: ",
+			"Armenian: ekn (< *h₁e-gʷem-t) \"(he) came\"",
+			"Albanian: ",
+			"Tocharian: A käm-, kum-, B käm-, kam-, śem \"to come\"",
+			"Hittite: "
+		],
+		"meaning": "come",
+		"pron": "gw e m"
+	},
+	"gʷerH₂-": {
+		"cognates": [
+			"English: ",
+			"Gothic: kaúrus \"heavy\"",
+			"Latin: grāvis \"heavy\"",
+			"Ancient Greek: barús \"heavy\"",
+			"Sanskrit: gurúḥ \"heavy\"",
+			"Iranian: Av gouru- \"heavy-\", NPers girān \"heavy\" < *grāna- (influenced by *frāna \"full\")",
+			"Slavic: OCS gromada \"big size, huge\", gruz \"a load, something heavy\",",
+			"Baltic: OPrus garrin \"tree\", Lith geras \"good\"",
+			"Celtic: MIr bair \"heavy (?)\", W bryw \"strong\"",
+			"Armenian: ",
+			"Albanian: zor \"brute force; great effort\"",
+			"Tocharian: A kra-marts \"heavy (?)\", B krā-mär \"burden\" < *gʷroH₂-mVr-",
+			"Hittite: "
+		],
+		"meaning": "heavy",
+		"pron": "gw e r\\ h2"
+	},
+	"gʷiH₃wo-": {
+		"cognates": [
+			"English: quick (< OE cwicu \"alive\")",
+			"Gothic: qius \"alive\"",
+			"Latin: vīvus \"alive\"; vīta \"life\"",
+			"Ancient Greek: bíos, bíotos \"life\", zoo \"animal\"",
+			"Sanskrit: jīvá-, jīvaka- \"alive\", jīvitam, jīvā́tuḥ, jīvathaḥ \"life\"",
+			"Iranian: Av gayō, acc. ǰyātum \"life\", -ǰyāiti- \"life-\"; Av ǰva-, OPers ǰīva- \"alive\"",
+			"Slavic: OCS živŭ \"alive\", žitĭ, životŭ \"life\"",
+			"Baltic: OPrus giws \"alive\", giwata \"life\", Lith gyvas \"alive\", gyvatė \"snake\"",
+			"Celtic: OIr biu, beo, W byw \"alive\"; OIr bethu (bethad), W bywyd \"life\" < Proto-Celtic *bivo-tūts",
+			"Armenian: keam \"I live\" < *gʷi-yā-ye-mi[70]",
+			"Albanian: ",
+			"Tocharian: B śai- \"to live\" < *gweiH₃-ō",
+			"Hittite: "
+		],
+		"meaning": "alive",
+		"pron": "gw i h3 w o"
+	},
+	"gʷén-eH₂-": {
+		"cognates": [
+			"English: queen (< OE cwēn \"queen, woman, wife\")",
+			"Gothic: qēns (qēnáis), qinō \"woman, wife\"",
+			"Latin: ",
+			"Ancient Greek: gunḗ[h] (gunaikos)[i] \"woman, wife\" < *gʷun-eH₂; Boet baná \"woman\"",
+			"Sanskrit: gnā (gnā́s-) \"wife of a god\", jániḥ, jánī \"woman, wife\"",
+			"Iranian: Av gǝnā, γnā, ǰaini-, NPers zan \"woman, wife\" Kurdish jin \"woman, wife\"",
+			"Slavic: OCS žena \"woman, wife\"",
+			"Baltic: OPrus gena \"woman, wife\"",
+			"Celtic: Gaul bnanom \"of the women\" (g. pl.);[18] OIr ben (mná) \"woman, wife\" < *gʷén-eH₂ (*gʷn-eH₂-s), bé (neut.) \"wife < *gʷén; W benyw \"woman\"",
+			"Armenian: kin (knoǰ) \"woman\"",
+			"Albanian: zonjë \"lady, wife, woman\" < *gʷen-yeH₂; Gheg grue, Tosk grua \"wife\" < *gʷn-ōn",
+			"Tocharian: A śäṁ (pl. śnu), B śana \"woman, wife\"",
+			"Hittite: Hitt ku(w)an(a) \"woman\";[19] Luw wanatti \"woman, wife\"; Lyd kãna- \"wife\",[20] \"woman\"[21]"
+		],
+	    "meaning": "woman",
+		"pron": "gw e n e h2"
+	},
+	"gʷōus": {
+		"cognates": [
+			"English: cow (< OE cū)",
+			"Gothic: Old Saxon kō, OHG chuo \"cow\"",
+			"Latin: bōs (bovis) \"cattle\";[w] Umbrian acc. bum \"cow\"",
+			"Ancient Greek: boũs, Dor bõs (bo(w)ós) \"cattle, cow\"",
+			"Sanskrit: gáuḥ (gṓḥ)[54] \"cow\"",
+			"Iranian: Av gāuš (gāuš)[54] \"cow\" NPers  gāv \"cow\"",
+			"Slavic: Croatian gòvedo \"cattle\" < PSlav *govędo; OCS gu-mǐno \"threshing floor\"",
+			"Baltic: Latvian gùovs \"cow\", Lith karvė \"cow\", galvijas \"a cattle\"",
+			"Celtic: OIr bó (bóu/báu)[x] \"cow\"; OW buch \"cow\" < *boukkā, bu-gail \"cowherd\" < *gʷou-kʷolyos",
+			"Armenian: kov \"cow\"",
+			"Albanian: ka \"ox\"",
+			"Tocharian: A ko \"cow\", B keu \"cow\"",
+			"Hittite: HierLuv wawa-, Lycian wawa-, uwa- \"cow\""
+		],
+		"meaning": "cattle",
+		"pron": "gw o u s"
+	},
+	"gʷʰen-": {
+		"cognates": [
+			"English: bane (< OE bana \"murderer\")",
+			"Gothic: banja \"blow, wound, ulcer\"",
+			"Latin: dē-fendō (dēfendere) \"to ward off, defend\", of-fendō (offendere) \"to bump, offend\"",
+			"Ancient Greek: tʰeínō \"I kill\" < *gʷʰen-yoH₂, épepʰnon \"I killed\" < redup. + *gʷʰn-om",
+			"Sanskrit: hánti \"(he) strikes, kills\" < *gʷʰen-ti, gʰnánti \"they strike, kill\"",
+			"Iranian: Av ǰainti \"(he) strikes, kills\", ni-γne (mid.) \"I strike down\"; OPers impf. ajanam \"I struck down\"",
+			"Slavic: OCS ženǫ (gŭnati) \"drive (animals to pasture)\", žĭnjǫ (žęti) \"reap\"",
+			"Baltic: OPrus gintun \"to defend\", Lith ginti \" to defend\", ganyti \"to drive animals to pasture\"",
+			"Celtic: OIr gonim \"I wound, kill\"; W gwanu \"to stab\"",
+			"Armenian: ǰnem \"I strike\" < *gʷʰen-oH₂, ǰnǰem \"I destroy\" < *gʷʰen-yoH₂",
+			"Albanian: gjanj \"I hunt\" < *gʷʰen-yoH₂",
+			"Tocharian: B käsk- \"to scatter to destruction\" < *gʷʰn̥-sk-",
+			"Hittite: kuēnzi \"kills\" < *gʷʰen-ti"
+		],
+	    "meaning": "strike",
+		"pron": "gw e n"
+	},
+	"gʷʰerm-": {
+		"cognates": [
+			"English: ?warm (< OE wearm); OE ġierwan \"to prepare, cook\" < PGerm *garwjan",
+			"Gothic: ?warmjan \"to warm\"",
+			"Latin: formus \"warm\"",
+			"Ancient Greek: tʰermós \"warm\"",
+			"Sanskrit: gʰarmáḥ \"heat\"",
+			"Iranian: Av garǝma- \"hot, heat\"; OPers Garma-pada-, name of the fourth month, corresponding to June/July, orig. (?) \"entrance of the heat\"",
+			"Slavic: Russ. žar \"heat\", goret' \"to burn\" < *gʷʰer",
+			"Baltic: OPrus garmê \"heat, glowing\", Lith žarijos \"cinders\", žėrėti \"to glow\"",
+			"Celtic: OIr gorn \"fire\" < *gʷʰor-nos",
+			"Armenian: ǰerm \"warm\"",
+			"Albanian: Gheg zjarm \"fire, heat\"",
+			"Tocharian: A śärme \"heat (of summer)\"",
+			"Hittite: "
+		],
+		"meaning": "warm",
+		"pron": "gw e r\\ m"
+	},
+	"h₂erǵ-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: argentum \"silver (metal)\"; Fal arcentelom \"a small silver coin\"",
+			"Ancient Greek: Myc a-ku-ro,[89] árguros \"silver\"; argós \"white, bright\"[ag]",
+			"Sanskrit: Skt rajatá \"silver; silver-coloured\"",
+			"Iranian: Av ərəzatəm \"silver\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: Celtib arkato[bezom] \"silver [mine]\"; Ir Airget[lám] \"silver[-hand] (title of Nuada)\"; OIr argat, OW argant \"silver\"",
+			"Armenian: arcat‘ \"silver\"",
+			"Albanian: ",
+			"Tocharian: A ārkyant \"silver\"; A ārki-, B ārkwi \"white\"",
+			"Hittite: ḫarkiš \"white, bright\""
+		],
+	    "meaning": "shining",
+		"pron": "h2 e r\\ g"
+	},
+	"h₂éwh₂os": {
+		"cognates": [
+			"English: ",
+			"Gothic: awō \"grandmother\"",
+			"Latin: avus \"grandfather\"; avunculus \"maternal uncle\"",
+			"Ancient Greek: ",
+			"Sanskrit: ",
+			"Iranian: ",
+			"Slavic: Rus uj, vuj \"uncle\" (obsolete); Ukr vuyko \"maternal uncle\"[14]",
+			"Baltic: Lith avynas \"maternal uncle\", OPrus awis \"uncle\"",
+			"Celtic: MW ewythr, MBre eontr, MCo eviter \"maternal uncle\" (< PCelt awon-tīr \"uncle\")",
+			"Armenian: OArm haw \"grandfather\"",
+			"Albanian: ",
+			"Tocharian: B āwe \"grandfather\"",
+			"Hittite: ḫuḫḫa-, Lyc χuga- \"grandfather\"; CLuw ḫu-u-ḫa-ti \"grandfather\" (abl.-ins.)[15]"
+		],
+	    "meaning": "grandfather",
+		"pron": "h2 e w h2 o s"
+	},
+	"kap-": {
+		"cognates": [
+			"English: have (< OE habban), heave  (< OE hebban)",
+			"Gothic: haban \"to have\", hafjan \"to lift\"",
+			"Latin: capiō (capere) \"to take\"",
+			"Ancient Greek: káptō \"I snatch, swallow\"",
+			"Sanskrit: kapaṭī \"two handfuls\"",
+			"Iranian: NPers časpīdan, čapsīdan, cafsīdan \"to grasp, seize\"",
+			"Slavic: Ukrainian khapaty \"to grab\"",
+			"Baltic: OPrus kaps \"grave\", Lith kapas \"grave\", kapt \"expression to indicate grabbing.",
+			"Celtic: OIr cacht \"female slave\", W caeth \"slave, captive\" < *kap-tos \"taken\"",
+			"Armenian: ",
+			"Albanian: kap \"I grasp, grab\", kam \"I have\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "grab",
+		"pron": "k a p"
+	},
+	"kréwh₂-": {
+		"cognates": [
+			"English: raw \"uncooked food\" (< OE hræw \"corpse, carrion\")",
+			"Gothic: ON hrár \"raw\"",
+			"Latin: cruor \"thick blood, gore\"; crudus \"raw, bloody\"",
+			"Ancient Greek: kréas \"flesh, meat\"; kréa \"raw flesh\"",
+			"Sanskrit: krávis- \"raw flesh\"; kravyá \"raw flesh, carrion\", krūrá \"bloody, raw\"",
+			"Iranian: Av xrūra, xrūma \"bloody\"; vi-xrūmant- \"bloodless\"; xrvi.dru \"of the bloody mace [of Aeshma]\" YAv xrvišyant \"grim, bloodthirsty\"[49]",
+			"Slavic: OCS kry \"blood\"; Rus krovǐ \"blood\"",
+			"Baltic: OPrus crauyo, krawian; Lith kraũjas \"blood\"; Latv kreve \"coagulated blood\"[50]",
+			"Celtic: OIr crúaid, MIr crū \"blood\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "gore",
+		"pron": "k r\\ e w h2"
+	},
+	"kʷekʷlo-": {
+		"cognates": [
+			"English: wheel (< OE hwēol, hweogol < PGerm *hweg(w)ulaz < *kʷekʷlós)",
+			"Gothic: ON hjōl, hvēl \"wheel\" < PGerm *hweh(w)ulaz < *kʷékʷlos",
+			"Latin: ",
+			"Ancient Greek: kúklos \"circle\", (pl.) \"wheels\"",
+			"Sanskrit: cakrá- \"wheel\"",
+			"Iranian: Av čaxra- \"wheel\"",
+			"Slavic: OCS kolo \"wheel\"",
+			"Baltic: OPrus kellin \"wheel\", Lith kaklas \"neck\"",
+			"Celtic: W cylch \"circle\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: A kukäl, B kokale \"wagon\"",
+			"Hittite: kugullas \"donut\"[91]"
+		],
+		"meaning": "wheel",
+		"pron": "kw e kw l o"
+	},
+	"kʷetwóres": {
+		"cognates": [
+			"English: four (< OE fēower)",
+			"Gothic: fidwor \"four\" (In Germanic influenced by pénkʷe \"five\")",
+			"Latin: quattuor \"four\"[m]",
+			"Ancient Greek: téssares \"four\"",
+			"Sanskrit: masc. catvā́raḥ (acc. catúraḥ), neut. catvā́ri, fem. cátasraḥ  \"four\"",
+			"Iranian: Av masc. čaϑwārō (acc. čaturąm), fem. čataŋrō \"four\"; NPers čahār \"four\"",
+			"Slavic: OCS četyre \"four\"",
+			"Baltic: Lith keturì, OPrus ketturei \"four\"[n]",
+			"Celtic: Gaul petuar[ios] \"four\"[30] OIr ceth(a)ir (fem. cethēoir, influenced by fem. tēoir \"three\") \"four\"; W pedwar (fem. pedair) \"four\"",
+			"Armenian: čʿorkʿ, kʿaṙ (rare) \"four",
+			"Albanian: katër \"four\"",
+			"Tocharian: A śtwar, B śtwer \"four\"",
+			"Hittite: (remodelled)"
+		],
+	    "meaning": "four",
+		"pron": "kw e t w o r\\ e s"
+	},
+	"kʷid,": {
+		"cognates": [
+			"English: what (< OE hwæt)",
+			"Gothic: ƕa \"what\"",
+			"Latin: quid \"what?\", quod \"what…, that…\"",
+			"Ancient Greek: tí \"what?\", tì \"what…\"",
+			"Sanskrit: kím \"what\"",
+			"Iranian: NPers či, če \"what\"",
+			"Slavic: Bulg kakvò \"what\", OCS čь-to \"what?\"",
+			"Baltic: Lith kàd \"that...\"; OPrus kawids \"which, what a\"",
+			"Celtic: OIr cid \"what?\"",
+			"Armenian: *i (ēr) (< *hi), inčʿ (< *hi-nč’) \"what?\"",
+			"Albanian: çfarë \"what?\"",
+			"Tocharian: ",
+			"Hittite: kuit (?) \"what\", kuit-ki \"whatever\"; Luvian kuit \"what?\""
+		],
+		"meaning": "what",
+		"pron": "kw i d"
+	},
+	"kʷis,": {
+		"cognates": [
+			"English: who (< OE hwā < *kʷoi)",
+			"Gothic: ƕas \"who?\"",
+			"Latin: quis \"who?\", quī \"who...\"",
+			"Ancient Greek: tís, Thess kís, CyprArc sís \"who?\", tìs \"who…\"",
+			"Sanskrit: káḥ, kíḥ \"who?\"",
+			"Iranian: Av kō (ka-hyā, ča-hyā) \"who?, which?\", čiš \"who\"",
+			"Slavic: Bulg kòj \"who\", OCS kъ-to (česo) \"who?\"",
+			"Baltic: Lith kàs \"who?\"; OPrus kas \"who\"",
+			"Celtic: OIr cia, W pwy \"who\"",
+			"Armenian: о (oyr) \"who?\" \"who?\"",
+			"Albanian: \"A\" kë \"B\" kush acc. \"who?\"",
+			"Tocharian: A kus, B kuse \"who, which\"",
+			"Hittite: kuiš \"who, which\""
+		],
+	    "meaning": "who",
+		"pron": "kw i s"
+	},
+	"k̂ei-": {
+		"cognates": [
+			"English: home (< OE hām \"village, home\" < *k̂oi-mos)",
+			"Gothic: háims (háimáis) \"village, town\" < *k̂oi-mis",
+			"Latin: cīvis \"city dweller, citizen\" < *k̂ei-wis",
+			"Ancient Greek: keĩtai \"lies\"",
+			"Sanskrit: śētē (older śáyē) \"(he) lies\", śērē \"they lie\"",
+			"Iranian: Av saēte \"(he) lies\", sōire \"they lie\"",
+			"Slavic: OCS sěmija \"family\"",
+			"Baltic: OPrus seimi \"family\", kaims \"village\", Lith šeima \"family\", kaimas \"village\"",
+			"Celtic: OIr cóim, cóem, OW cum \"dear\"",
+			"Armenian: sirem \"I love\" < *k̂eiro-",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: kitta, kittari \"lies\"; Luwian ziyari \"lies\""
+		],
+	    "meaning": "bed",
+		"pron": "k e i"
+	},
+	"k̂erd-": {
+		"cognates": [
+			"English: heart (< OE heorte)",
+			"Gothic: haírtō \"heart\"",
+			"Latin: cor (cordis) \"heart\"; crēdō \"I believe\" < *krezdō- < *k̂red-dʰē-",
+			"Ancient Greek: kardíā, Homeric kradíē, Cypriot korízdā \"heart\" < *k̂r̥d(y)ā; poetic kẽr (kẽros) \"heart\" < *k̂ērd",
+			"Sanskrit: hṛd \"heart\" < post-PIE *ĝhr̥d; hṛdaya, hārdi \"heart\"; śrad-dadʰāti \"(he) trusts, believes\"",
+			"Iranian: Av zǝrǝd \"heart\" < post-PIE *ĝhr̥d; zrazdā- \"to believe\" < *srazdā[t]",
+			"Slavic: OCS sŭrdĭce \"heart\", serda \"medium, core\"",
+			"Baltic: OPrus siran \"heart\", serds \"core\", Lith širdis \"heart\", šerdis \"core\"",
+			"Celtic: OIr cride \"heart\"; W craidd \"center\"; Old Irish cretim, W credaf \"I believe\"",
+			"Armenian: sirt \"heart\"",
+			"Albanian: ",
+			"Tocharian: A kri \"will\", B pl. käryāñ \"hearts\"",
+			"Hittite: Hitt karz (kardias) \"heart\"; Luw zarza \"heart\"[47]"
+		],
+	    "meaning": "heart",
+		"pron": "k e r\\ d"
+	},
+	"k̂leu-(s)-": {
+		"cognates": [
+			"English: listen (< OE hlystan), loud (< OE hlūd)",
+			"Gothic: hliuma \"hearing, ears (in pl.)\"",
+			"Latin: clueō (cluēre) \"to be named\"",
+			"Ancient Greek: ékluon \"I heard\"",
+			"Sanskrit: śr̥ṇóti \"(he) hears\" < *k̂l̥-neu-",
+			"Iranian: Av surunaoiti \"(he) hears\" < *k̂lu-n-",
+			"Slavic: OCS slyšati \"to hear\"",
+			"Baltic: OPrus klausytun \"to hear\", Lith klausyti \"to listen\"",
+			"Celtic: OIr ro-clui-nethar \"hears\"; W clywed \"to hear\"",
+			"Armenian: lsem \"I hear\"",
+			"Albanian: Old Tosk kluaj (standard quaj) \"to call, to name\" < *k̂lu(H)-eH₁-",
+			"Tocharian: A klyoṣ-, B klyauṣ- \"to hear\"",
+			"Hittite: "
+		],
+		"meaning": "hear",
+		"pron": "k l e u s"
+	},
+	"k̂m̥tóm": {
+		"cognates": [
+			"English: hundred (< OE hund, hund-red)",
+			"Gothic: hunda (pl.) \"hundred\"",
+			"Latin: centum \"hundred\"",
+			"Ancient Greek: he-katón \"hundred\"",
+			"Sanskrit: śatám \"hundred\"",
+			"Iranian: Av satǝm \"hundred\"",
+			"Slavic: OCS sŭto \"hundred\"",
+			"Baltic: Lith šim̃tas, OPrus simtan \"hundred\"",
+			"Celtic: OIr cét, W can(t) \"hundred\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: A känt, B kante \"hundred\"",
+			"Hittite: "
+		],
+		"meaning": "hundred",
+		"pron": "k m t o m"
+	},
+	"k̂won-": {
+		"cognates": [
+			"English: hound (< OE hund \"dog\")",
+			"Gothic: hunds \"dog\"",
+			"Latin: canis \"dog\"",
+			"Ancient Greek: kúōn (kunós) \"dog\"",
+			"Sanskrit: śvan(śunaḥ) \"dog\"",
+			"Iranian: Av spā (acc. spānǝm, pl. gen. sū̆nam), MPers sak, Kurdish se, seg, Wakhi šač \"dog\"",
+			"Slavic: Bulg kùt͡ʃe \"dog\", OCS suka \"bitch (female dog)\"",
+			"Baltic: OPrus sunnis \"dog\", Lith šuo \"dog\"",
+			"Celtic: OIr cú (con), W ci \"dog\"",
+			"Armenian: šun \"dog\"",
+			"Albanian: possibly qen (disputed, possible Latin loan)",
+			"Tocharian: AB ku \"dog\" (acc. A koṃ, B kweṃ)",
+			"Hittite: Hittite kun- HierLuv suwanni \"dog\""
+		],
+	    "meaning": "hound",
+		"pron": "k w o n"
+	},
+	"legʰ-": {
+		"cognates": [
+			"English: lie (< OE lic̣gan)",
+			"Gothic: ligan \"to lie down\"",
+			"Latin: lectus \"bed\"",
+			"Ancient Greek: lékʰomai \"I lie down\"",
+			"Sanskrit: leṭyati \"(he) lies down\"",
+			"Iranian: NPers ley \"lie down\"",
+			"Slavic: OCS ležǫ (ležati) \"to lie down\"",
+			"Baltic: OPrus laztwei \"to lie down\"",
+			"Celtic: OIr laigid \"lies down\"",
+			"Armenian: ",
+			"Albanian: lagje \"city quarter\"",
+			"Tocharian: A läk- \"to lie\", B lyśalyñe \"(act of) lying down\"",
+			"Hittite: lagari \"(he) lies down\""
+		],
+		"meaning": "lie",
+		"pron": "l e gh"
+	},
+	"leikʷ-,": {
+		"cognates": [
+			"English: OE lēon \"to lend\"",
+			"Gothic: leiƕan \"to lend\"",
+			"Latin: linquō (linquere) \"to leave behind\"",
+			"Ancient Greek: leípō, limpánō \"I leave behind\"",
+			"Sanskrit: riṇákti \"(he) leaves behind\", 3rd. pl. riñcanti \"they leave behind\"",
+			"Iranian: Av -irinaxti \"(he) frees\"; NPers rēxtan \"to pour out\"",
+			"Slavic: OBulg otŭ-lěkŭ \"something left over\", lišiti \"to rob\" < *leikʷ-s-, Ukr lyshyty \"to leave behind\"[95]",
+			"Baltic: OPrus palaistun \"to leave behind\", Lith likti \"to stay\"",
+			"Celtic: OIr lēicid \"(he) leaves behind, releases\"",
+			"Armenian: lkʿanem \"I leave behind\"",
+			"Albanian: Alb  Lej  leave",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "abandon",
+		"pron": "l e i kw"
+	},
+	"leuk-": {
+		"cognates": [
+			"English: light (< OE lēoht)",
+			"Gothic: liuhaþ (liuhadis) \"light\"",
+			"Latin: lūceō (lūcēre) \"to shine\", lūx \"light\"",
+			"Ancient Greek: leukós \"bright, shining, white\"",
+			"Sanskrit: rócate \"(he) shines\", roká- \"light\", loka- \"world, place\"",
+			"Iranian: Av raočant- \"shining\", raočah \"light\"; OPers raučah \"light\"",
+			"Slavic: OCS luča \"ray, flash\" < *loukyā",
+			"Baltic: OPrus lauk \"bright\", lauksna \"star\", laukas \"field\", Lith laukas \"outside, field\"",
+			"Celtic: OIr luchair \"shine\"; W llachar \"bright\", llug \"shimmer\"",
+			"Armenian: loys \"light\"",
+			"Albanian: ",
+			"Tocharian: AB lyuk/luk- \"to shine\"",
+			"Hittite: luk(k)- \"to shine\""
+		],
+	    "meaning": "light",
+		"pron": "l e u k"
+	},
+	"meH₁ns-": {
+		"cognates": [
+			"English: moon (< OE mōna), month (< OE mōnaþ)",
+			"Gothic: mēna \"moon\", mēnoþs \"month\"",
+			"Latin: mēnsis \"month\"",
+			"Ancient Greek: Att mḗn, Ion meis, Dor mḗs \"month\", mḗnē \"moon\"",
+			"Sanskrit: mā́s \"moon\"; mā́sa \"month\"",
+			"Iranian: Av mā̊ (mā̊ŋhō) \"moon\"; NPers māh \"moon, month\"",
+			"Slavic: OCS měsęcĭ \"moon, month\" < *mēs-n̥-ko-",
+			"Baltic: OPrus miniks \"moon\", mins \"month\", Lith mėnulis \"moon\", mėnesis \"month\"",
+			"Celtic: OIr mī (mīs) \"month\" < *mēns;; W mis \"month\"",
+			"Armenian: amis \"month\"",
+			"Albanian: muai \"month\"",
+			"Tocharian: A mañ B meñe \"month\"; A mañ ñkät B meṃ \"moon\"",
+			"Hittite: "
+		],
+	    "meaning": "moon",
+		"pron": "m e h1 n s"
+	},
+	"medʰyo-": {
+		"cognates": [
+			"English: mid, middle (< OE mid, middel)",
+			"Gothic: midjis \"middle\"",
+			"Latin: medius \"middle\"",
+			"Ancient Greek: més(s)os \"middle\"",
+			"Sanskrit: mádʰya- \"middle\"",
+			"Iranian: Av maiδya- \"middle\"",
+			"Slavic: OCS meždu \"between\", Russ. meža \"boundary\"",
+			"Baltic: OPrus meddin \"forest\" (between villages), Lith medis \"tree\"",
+			"Celtic: OIr mid- \"middle\" < *medʰu-; MW mei- \"middle\" < *medʰyo-",
+			"Armenian: mēǰ \"middle\"",
+			"Albanian: mes, mjet \"in between, middle\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "mid",
+		"pron": "m e dh j o"
+	},
+	"melH₂-": {
+		"cognates": [
+			"English: meal (< OE melu)",
+			"Gothic: malan \"to grind\"",
+			"Latin: molō (molere) \"to grind\"",
+			"Ancient Greek: múllō \"I grind\"",
+			"Sanskrit: mr̥ṇāti, mr̥nati \"(he) grinds\"",
+			"Iranian: Av mrāta- \"tanned soft\"",
+			"Slavic: OCS meljǫ (mlětĭ) \"to grind\"",
+			"Baltic: OPrus maltun \"to grind\", Lith malti \"to grind\"",
+			"Celtic: OIr melim \"I grind\"; W malu \"grind\"",
+			"Armenian: mał \"sieve\" mał-em \"I grind, crush\"",
+			"Albanian: mjell \"flour\"",
+			"Tocharian: A malywët \"you press\"; B melye \"they trample\"",
+			"Hittite: mallai \"grinds\""
+		],
+		"meaning": "grind",
+		"pron": "m e l h2"
+	},
+	"meli-t,": {
+		"cognates": [
+			"English: mildew (< OE mele-dēaw \"honeydew\")",
+			"Gothic: miliþ \"honey\"",
+			"Latin: mel (mellis) \"honey\"",
+			"Ancient Greek: méli (mélit-) \"honey\"; Att mélitta \"bee\"",
+			"Sanskrit: milinda \"honey-bee\"",
+			"Iranian: ",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: OIr mil, W mêl \"honey\"",
+			"Armenian: mełr \"honey\"",
+			"Albanian: mjal, mjaltë \"honey\"",
+			"Tocharian: ",
+			"Hittite: milit \"honey\"; CLuw ma-al-li \"honey\"; Pala malit- \"honey\""
+		],
+		"meaning": "honey",
+		"pron": "m e l i t"
+	},
+	"men-": {
+		"cognates": [
+			"English: mind (< OE (ġe)mynd \"memory\" < *mn̥t-ís); OE munan \"to think\"",
+			"Gothic: munan \"to think\"; muns (pl. muneis) \"thought\" < *mn̥-is; gamunds (gamundáis) \"remembrance\" < *ko(m)-mn̥t-ís",
+			"Latin: meminī \"I remember\"; mēns (mentis) \"mind\" < *mn̥t-is",
+			"Ancient Greek: mémona \"I think of\"; maínomai \"I go mad\"",
+			"Sanskrit: mányate \"(he) thinks\"",
+			"Iranian: Av mainyeite \"(he) thinks\"; OPers mainyāhay \"I think\"",
+			"Slavic: OCS mĭněti \"to mean\"",
+			"Baltic: OPrus mintun \"to guess\", minisna \"memory\", mints \"riddle\", mentitun \"to lie\", Lith mintis \" thought\", minti \"to guess\", minėti \"to mention\"",
+			"Celtic: OIr do-moiniur \"I believe, I mean\"",
+			"Armenian: ",
+			"Albanian: mendoj \"I think\"",
+			"Tocharian: A mnu \"thought\"; B mañu \"demand (n.)\"",
+			"Hittite: memmāi \"says\""
+		],
+		"meaning": "think",
+		"pron": "m e n"
+	},
+	"mer-": {
+		"cognates": [
+			"English: murder (< OE morþor < *mr̥-tro-m)",
+			"Gothic: maúrþr \"murder\"",
+			"Latin: morior (morī) \"to die\" < *mr̥-yōr, mortalis \"mortal\"",
+			"Ancient Greek: brotós (< *mrotós), mortós \"mortal\"",
+			"Sanskrit: marati, máratē, mriyátē \"(he) dies\", mṛtá- \"dead\", mártaḥ, mortal",
+			"Iranian: Av merə- \"to die\", miryeite \"dies\"; OPers martiya- \"man\"",
+			"Slavic: OCS mĭrǫ, mrěti \"to die\"",
+			"Baltic: Lith miŕštu (miŕti) \"to die\", merdėti \"to die slowly\"",
+			"Celtic: OIr marb, W marw \"dead\" < mr̥-wós",
+			"Armenian: meṙanim \"I die\", mard \"human\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: mert \"died\""
+		],
+		"meaning": "die",
+		"pron": "m e r\\"
+	},
+	"meĝ-": {
+		"cognates": [
+			"English: much (< OE myc̣el \"big, many\")",
+			"Gothic: mikils \"big\"",
+			"Latin: magnus \"big\"",
+			"Ancient Greek: mégas \"big\"",
+			"Sanskrit: máhaḥ, mahā́nt- \"big\"",
+			"Iranian: Av mazant- \"big\"",
+			"Slavic: ",
+			"Baltic: OPrus mazs \"smaller\", Lith mažas \"small\"",
+			"Celtic: OIr mochtae, MIr mag-, maige \"big\"",
+			"Armenian: mec \"big\"",
+			"Albanian: madh \"big\"",
+			"Tocharian: A mak, B makā \"much\"",
+			"Hittite: mekkis \"big\""
+		],
+		"meaning": "big",
+		"pron": "m e g"
+	},
+	"muH₁s-": {
+		"cognates": [
+			"English: mouse (< OE mūs)",
+			"Gothic: ON mús \"mouse\"",
+			"Latin: mūs \"mouse\"",
+			"Ancient Greek: mũs \"mouse\"",
+			"Sanskrit: mū́ṣ- \"mouse\"",
+			"Iranian: OPers muš \"mouse\" (? not in Pokorny; Pokorny has NPers mūš \"mouse\") Kurdish mişk \"mouse\"",
+			"Slavic: OCS myšĭ \"mouse\"",
+			"Baltic: ",
+			"Celtic: ",
+			"Armenian: mukn \"mouse\"",
+			"Albanian: mi \"mouse\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "mouse",
+		"pron": "m u h1 s"
+	},
+	"méH₂tēr-": {
+		"cognates": [
+			"English: mother (< OE mōdor)",
+			"Gothic: ON móðir \"mother\"",
+			"Latin: māter \"mother\"",
+			"Ancient Greek: mḗtēr \"mother\"",
+			"Sanskrit: mā́tṛ, mātṛ́ \"mother\"",
+			"Iranian: Av mātar- \"mother\" NPers mādar",
+			"Slavic: OCS mati, mater- \"mother\"",
+			"Baltic: Lith móteris \"woman\", motina; OPrus muti \"mother\"",
+			"Celtic: Gaul. mātīr \"mother\", OIr māthir \"mother\"; W modryb \"auntie\"",
+			"Armenian: mayr \"mother\"",
+			"Albanian: motër \"sister\"",
+			"Tocharian: A mācar, B mācer \"mother\"",
+			"Hittite: "
+		],
+		"meaning": "mother",
+		"pron": "m e h2 t e r\\"
+	},
+	"médʰu": {
+		"cognates": [
+			"English: mead (< OE medu)",
+			"Gothic: midus \"mead\"",
+			"Latin: mēdus \"a type of mead\"[68]",
+			"Ancient Greek: métʰu \"wine\"",
+			"Sanskrit: mádʰu \"sweet drink, honey\"",
+			"Iranian: Proto-Iranian mádu \"honey, wine\"",
+			"Slavic: OCS medŭ \"honey\"; Bulg med \"honey\"",
+			"Baltic: OPrus meddu \"honey\", Lith medus \"honey\", Ltg mads \"honey\"",
+			"Celtic: OIr mid  \"mead\"; W medd \"mead\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: B mit \"honey\"[69]",
+			"Hittite: CLuw maddu- \"wine\" (originally \"sweet drink\")"
+		],
+		"meaning": "mead",
+		"pron": "m e dh u"
+	},
+	"nas-": {
+		"cognates": [
+			"English: nose (< OE nosu)",
+			"Gothic: ON nǫs \"nose\"",
+			"Latin: nāsus, nāris \"nose\"",
+			"Ancient Greek: ",
+			"Sanskrit: nas- \"nose\"",
+			"Iranian: Av nāh-, nā̊ŋhan-, OPers acc. sg. nāham \"nose\"",
+			"Slavic: OCS nosŭ \"nose\"",
+			"Baltic: OPrus nasi \"nose\", Lith nosis \"nose\"",
+			"Celtic: ",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "nose",
+		"pron": "n a s"
+	},
+	"nepot-": {
+		"cognates": [
+			"English: obsolete neve \"nephew, male cousin, grandson\" (< OE nefa)",
+			"Gothic: OHG nevo \"nephew\"",
+			"Latin: nepōs (nepōtis) \"grandson, nephew\"",
+			"Ancient Greek: népodes \"descendants\"",
+			"Sanskrit: nápāt- \"grandson, descendant\"",
+			"Iranian: Av napāt-, naptar-, OPers napāt- \"grandson, descendant\"",
+			"Slavic: ",
+			"Baltic: OLith nepotis, OPrus neputs \"grandson\"",
+			"Celtic: OIr nïæ \"sister's son\", W nai \"nephew\"",
+			"Armenian: ",
+			"Albanian: nip \"grandson, nephew\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "nephew",
+		"pron": "n e p o t"
+	},
+	"nogʷ-": {
+		"cognates": [
+			"English: naked (< OE nacod \"naked\")",
+			"Gothic: naqaþs \"naked\"",
+			"Latin: nudus \"naked\"",
+			"Ancient Greek: gumnós \"naked\"",
+			"Sanskrit: nagnáḥ \"naked\"",
+			"Iranian: NPers loxt \"naked\"",
+			"Slavic: OCS nagŭ \"naked\"",
+			"Baltic: OPrus nags \"naked\", Lith nuogas \"naked\"",
+			"Celtic: OIr nocht \"naked\"; W noeth \"naked, bare\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: nekumant- \"naked, bare\""
+		],
+		"meaning": "naked",
+		"pron": "n o gw"
+	},
+	"nokʷts": {
+		"cognates": [
+			"English: night (< OE neaht, niht < *nokʷtis)",
+			"Gothic: nahts (nahts) \"night\" < *nokʷts",
+			"Latin: nox (noctis) \"night\"",
+			"Ancient Greek: núks (núktos) \"night\"",
+			"Sanskrit: nák (instr. pl. náktīḥ) \"night\"",
+			"Iranian: Proto-Iranian  *náxts, Kurdish nixte \"rainy, cloudy (lack of sunlight)\"",
+			"Slavic: OCS noštĭ \"night\"",
+			"Baltic: OPrus nakts \"night\", Lith naktis \"night\"",
+			"Celtic: OIr i-nnocht, OW henoid \"on this night\"",
+			"Armenian: ",
+			"Albanian: natë \"night\"",
+			"Tocharian: A n[a]ktim \"nightly\", B nekciye \"in the evening\"",
+			"Hittite: nekuz (gen. sg.) \"of evening\""
+		],
+		"meaning": "night",
+		"pron": "n o kw t s"
+	},
+	"néwo-": {
+		"cognates": [
+			"English: new (< OE nīwe)",
+			"Gothic: niujis \"new\"",
+			"Latin: novus \"new\"",
+			"Ancient Greek: né(w)os \"new\"",
+			"Sanskrit: náva- \"new\"",
+			"Iranian: Av nava- \"new\"",
+			"Slavic: OCS novŭ \"new\"",
+			"Baltic: OPrus nawas \"new\", Lith naujas \"new\"",
+			"Celtic: OIr nūë, W newydd \"new\"",
+			"Armenian: nor \"new\" < *nowero-",
+			"Albanian: ",
+			"Tocharian: A ñu, B ñune \"new\"",
+			"Hittite: newa- \"new\""
+		],
+		"meaning": "new",
+		"pron": "n e w o"
+	},
+	"n̥-": {
+		"cognates": [
+			"English: un- (< OE un-)",
+			"Gothic: un- \"un-\"",
+			"Latin: in- (archaic en-) \"un-\"",
+			"Ancient Greek: a-, an- \"un-\"",
+			"Sanskrit: a-, an-, na- \"un-\"",
+			"Iranian: Av, OPers a-, an- \"un-\"",
+			"Slavic: OCS ne- \"not\" < *ne-",
+			"Baltic: Lith ne- < *ne-, OPrus ni- \"not\"",
+			"Celtic: OIr in-, ē-, an-, W an- \"un-\"",
+			"Armenian: an- \"un-\"",
+			"Albanian: nuk \"not\"",
+			"Tocharian: AB a(n)-, am-, e(n)-, em-, on- \"un-\"",
+			"Hittite: "
+		],
+	    "meaning": "not",
+		"pron": "n"
+	},
+	"pH₂tér-": {
+		"cognates": [
+			"English: father (< OE fæder)",
+			"Gothic: fadar \"father\"",
+			"Latin: pater \"father\"",
+			"Ancient Greek: patḗr \"father\"",
+			"Sanskrit: pitṛ́ \"father\"",
+			"Iranian: Av pitar- (nom. also pta, ta), OPers pita \"father\", NPers padar",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: OIr athir \"father\"; Welsh edrydd \"paternal domain\"",
+			"Armenian: hayr \"father\"",
+			"Albanian: ",
+			"Tocharian: A pācar, B pācer \"father\"",
+			"Hittite: "
+		],
+		"meaning": "father",
+		"pron": "p h2 t e r\\"
+	},
+	"peH₃-": {
+		"cognates": [
+			"English: potable (< OF potable) imbibe (< Lat. bibere \"to drink\" via OF imbiber)",
+			"Gothic: ",
+			"Latin: bibō (bibere) \"to drink\", pōtus \"drink (n.)\"",
+			"Ancient Greek: pī́nō, pépomai \"I drink\"",
+			"Sanskrit: pā́ti, píbati \"(he) drinks\"",
+			"Iranian: Av vispo-pitay- \"alltränkend\" giving water/drinks to all",
+			"Slavic: OCS pijǫ (piti) \"to drink\"",
+			"Baltic: OPrus putun \"to drink\", puja \"a party\", Lith puota \"party\"",
+			"Celtic: OIr ibid \"drinks\" < *pibeti; W yfwn \"we drink\"",
+			"Armenian: əmpem \"I drink\"",
+			"Albanian: pī \"I drink\"",
+			"Tocharian: ",
+			"Hittite: pāsi \"he swallows\""
+		],
+		"meaning": "drink",
+		"pron": "p e h3"
+	},
+	"per-": {
+		"cognates": [
+			"English: far (< OE feorr)",
+			"Gothic: faírra \"far\"; faír- \"around; (intensifier)\"",
+			"Latin: per \"through\"",
+			"Ancient Greek: perí, pér \"forward\"",
+			"Sanskrit: pári \"forward\"",
+			"Iranian: Av pairi, OPers pariy \"forward\"",
+			"Slavic: OCS prě- \"forward\"",
+			"Baltic: OPrus pro-, pra- \"trough, across\", Latvian pāri \"across\", Lith per \"across\", pra- \"to start and finish doing something\", pro- \"through\"",
+			"Celtic: OIr ir-, W er \"forward\"",
+			"Armenian: heṙu \"far\"",
+			"Albanian: për, pej, pe \"forward\"",
+			"Tocharian: ",
+			"Hittite: parā, Lycian pri \"forth\""
+		],
+	    "meaning": "through",
+		"pron": "p e r\\"
+	},
+	"prek̂-,": {
+		"cognates": [
+			"English: Scot frain \"to ask\" (< OE freġnan)",
+			"Gothic: fraíhnan \"to ask\"; OHG forscōn \"to ask, to research\"",
+			"Latin: precor (precārī) \"to pray\", poscō (poscere) \"to demand, ask\"",
+			"Ancient Greek: ",
+			"Sanskrit: pr̥ccháti \"(he) asks\"",
+			"Iranian: Av pǝrǝsaiti \"(he) asks, desires\" < *pr̥-sk̂-; OPers aor.? aparsam \"(he) asked\"",
+			"Slavic: OCS prositi \"to pray\"",
+			"Baltic: OPrus prasitun \"to ask\", Lith prašyti \"to ask\"",
+			"Celtic: OIr imm-chom-arc \"mutual questions, greetings\"; NIr arco, W archaf \"I ask\"",
+			"Armenian: harcʿanem \"I ask\"",
+			"Albanian: ",
+			"Tocharian: A prak-, B prek- \"to ask\"",
+			"Hittite: "
+		],
+		"meaning": "ask",
+		"pron": "p r\\ e k"
+	},
+	"péH₂wr̥,": {
+		"cognates": [
+			"English: fire (< OE fȳr < *fuïr[77])",
+			"Gothic: fōn (funins)[77] \"fire\"; OHG fuïr[77] (two syllables) < *puwéri",
+			"Latin: Umbrian pir \"fire\" < *pūr, acc. purom-e \"into the fire\" < *pur-",
+			"Ancient Greek: pũr (purós) \"fire\"",
+			"Sanskrit: pāru (pēru) \"sun, fire\"",
+			"Iranian: NPers fer \"oven, furnace\"",
+			"Slavic: Czech pýř \"glowing ash\"",
+			"Baltic: OPrus pannu \"fire\"",
+			"Celtic: ",
+			"Armenian: hur \"fire\"",
+			"Albanian: ",
+			"Tocharian: A por, B puwar, puwār, pwār \"fire\"",
+			"Hittite: paḫḫur \"fire\""
+		],
+	    "meaning": "bonfire",
+		"pron": "p e h2 w r\\"
+	},
+	"pénkʷe": {
+		"cognates": [
+			"English: five (< OE fīf)",
+			"Gothic: fimf \"five\"",
+			"Latin: quīnque \"five\"[o]",
+			"Ancient Greek: pénte \"five\"",
+			"Sanskrit: páñca \"five\"; Mittani-Aryan panza- \"five\"[32]",
+			"Iranian: Av panča \"five\"",
+			"Slavic: OCS pętĭ \"five\"",
+			"Baltic: Lith penkì, OPrus penkei \"five\"[p]",
+			"Celtic: Gaul pinpe-, pompe \"five\"[34] OIr cóic, W pum(p) \"five\"",
+			"Armenian: hing \"five\"",
+			"Albanian: pesë \"five\"",
+			"Tocharian: A päñ, B piś \"five\"",
+			"Hittite: "
+		],
+		"meaning": "five",
+		"pron": "p e n kw e"
+	},
+	"pōds,": {
+		"cognates": [
+			"English: foot (< OE fōt)",
+			"Gothic: fōtus \"foot\"",
+			"Latin: pēs (pedis) \"foot\"",
+			"Ancient Greek: poús (podós) \"foot\"",
+			"Sanskrit: pāt (padáḥ) \"foot\"",
+			"Iranian: Av pad-, OPers pād, Parth pāδ \"foot\" NPers pa \"foot\"",
+			"Slavic: OCS pěšǐ \"on foot\"",
+			"Baltic: OPrus pida \"foot\", Lith pėda \"foot\"",
+			"Celtic: OIr īs \"below\" < PIE loc. pl. *pēd-su; W is(od) \"below, under; lower (than)\"",
+			"Armenian: otn \"foot\", otkʿ \"feet\"",
+			"Albanian: poshtë \"below\"",
+			"Tocharian: A pe \"foot\", B paiyye \"foot\"",
+			"Hittite: pata-, CLuw pāta-, Lyc pedi- \"foot\""
+		],
+		"meaning": "foot",
+		"pron": "p o d s"
+	},
+	"s(w)e-": {
+		"cognates": [
+			"English: self (< OE self, seolf)",
+			"Gothic: swes (ref. gn. pn.), OHG sih (ref. pn.)",
+			"Latin: sē (ref. pn.)",
+			"Ancient Greek: hé (ref. pn.)",
+			"Sanskrit: sva- (ref. pn.)",
+			"Iranian: Avestan hva-  (ref. pn.)",
+			"Slavic: Bulg sèbe \"oneself\", OCS svoji (ref. gn. pn.)",
+			"Baltic: Lith sava(s), OPrus swajs \"my own, myself\"",
+			"Celtic: OIr fein (self, himself); W hun(an) \"self, myself, himself/herself etc\"",
+			"Armenian: iwr self, himself/herself",
+			"Albanian: vetë",
+			"Tocharian: A ṣn-i, B ṣañ \"(one's) own\"",
+			"Hittite: Lydian s'fa- (ref. pn.), Carian sfes (ref. pn.)"
+		],
+		"meaning": "oneself",
+		"pron": "s w e"
+	},
+	"s(y)uH-": {
+		"cognates": [
+			"English: sew (< OE sēowan)",
+			"Gothic: siujan \"to sew\"",
+			"Latin: suō (suere) \"to sew\"",
+			"Ancient Greek: humḗn \"sinew\"",
+			"Sanskrit: sī́vyati \"(he) sews\", syūtá- \"sewn\"",
+			"Iranian: ",
+			"Slavic: OCS šijǫ (šiti) \"to sew\"",
+			"Baltic: OPrus šutun \"to sew\", Lith siūti \"to sew\", Latg šyut \"to sew\"",
+			"Celtic: ",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: sum(m)anza(n), šuel (?), šuil (?) \"thread\""
+		],
+		"meaning": "sew",
+		"pron": "s j u \\H"
+	},
+	"sal-": {
+		"cognates": [
+			"English: salt (< OE sealt)",
+			"Gothic: salt \"salt\"",
+			"Latin: sāl (salis) \"salt\"",
+			"Ancient Greek: háls (halós) \"salt\"",
+			"Sanskrit: sal-ilá- \"salty\"",
+			"Iranian: ",
+			"Slavic: OCS solǐ \"salt\"",
+			"Baltic: OPrus sals \"salt\", saldus \"sweet",
+			"Celtic: OIr salann, W halen \"salt\"",
+			"Armenian: ał \"salt\"",
+			"Albanian: ngjel-bëtë, ngjel-mëtë \"salty\", njel-m \"to be salty\"",
+			"Tocharian: A sāle, B salyiye \"salt\"",
+			"Hittite: "
+		],
+		"meaning": "salt",
+		"pron": "s a l"
+	},
+	"seH₁-": {
+		"cognates": [
+			"English: sow (< OE sāwan)",
+			"Gothic: saian \"to sow\"; OHG sāmo \"seed\"",
+			"Latin: serō (serere) \"to sow\" < *si-sH₁-oH₂, sēmen \"seed\"",
+			"Ancient Greek: ",
+			"Sanskrit: sī́ra- \"Saatpflug\" (seed plow?)",
+			"Iranian: ",
+			"Slavic: OCS sějǫ (sějati) \"to sow\", sěmę \"seeds\"",
+			"Baltic: OPrus situn \"to sow\", simen \"seed\", Lith sėti \"to sow\", sekla \"seed\", semenis \"linseed\"",
+			"Celtic: OIr sīl, W hil \"seed\" < *seH₁-lo-",
+			"Armenian: sermn \"seed\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: isḫūwāi \"(he) sows\""
+		],
+		"meaning": "seed",
+		"pron": "s e h1"
+	},
+	"seH₂wol-,": {
+		"cognates": [
+			"English: sun (< OE sunne)",
+			"Gothic: sauil, sunnō \"sun\"",
+			"Latin: sōl \"sun\"",
+			"Ancient Greek: Homeric hēélios \"sun\" < *sāwélios",
+			"Sanskrit: súvar (súraḥ) \"sun, light, heavens\", sūra-, sūrya \"sun\"",
+			"Iranian: Av hvarǝ (hūrō) \"sun, light, heavens\"",
+			"Slavic: OCS slĭnŭce \"sun\" < *sulnika-, Russ. po-solon' \"sunwise\"",
+			"Baltic: OPrus sauli \"sun\", sawaiti \"week\", Lith saulė \"sun\", savaitė \"week\"",
+			"Celtic: OIr sūil \"eye\"; W haul \"sun\"",
+			"Armenian: ",
+			"Albanian: ylli \"star\" < *sūlo- or *sūli-",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "sun",
+		"pron": "s e h2 w o l"
+	},
+	"sed-,": {
+		"cognates": [
+			"English: sit (< OE sittan < *sed-yo-nom)",
+			"Gothic: sitan \"to sit\"",
+			"Latin: sedeō (sedēre) \"to sit\", sīdō \"I sit down\" < *si-zd-oH₂",
+			"Ancient Greek: hézdomai \"I sit\" < *sed-yo-, hizdō \"I set\" < *si-zd-oH₂",
+			"Sanskrit: sátsi \"(he) sits\", aor. ásadat \"sat\"; sī́dati \"(he) sits\" < *si-zd-eti",
+			"Iranian: Av ni-šaŋhasti \"(he) sits down\", opt. hazdyā-t \"(he) should sit\", hiδaiti \"(he) sits\" < *si-zd-eti; OPers caus. niya-šād-ayam \"I set\"",
+			"Slavic: OCS sěždǫ (sěděti) \"to sit\"",
+			"Baltic: OPrus sistwei \"to sit down\", Lith sedėti \"to be sitting\", sėstis \"to sit down\"",
+			"Celtic: OIr sa(i)did \"sits\"; Br hezañ \"to stop\"",
+			"Armenian: nstim \"I sit\" (< *ni-zdyō), hecanim (< *sed-s-an-yō) \"I sit on, I ride\"",
+			"Albanian: shëtis \"to walk\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "sit",
+		"pron": "s e d"
+	},
+	"sekʷ-": {
+		"cognates": [
+			"English: see (< OE sēon); say (< OE sec̣gan < PGerm *sag(w)jan < *sokʷéyonom)",
+			"Gothic: saíƕan \"to see\"; OHG sagen \"say\" < *sokʷē-",
+			"Latin: īnseque \"declare!\"",
+			"Ancient Greek: énnepe \"tell!\"",
+			"Sanskrit: śacate \"(he) says\"",
+			"Iranian: ",
+			"Slavic: OCS sočiti \"to announce\"",
+			"Baltic: Lith sakyti \"to say\", sekti \"to tell a story, to follow\"",
+			"Celtic: OIr insce \"I talk\"; OIr rosc \"eye\" < *pro-skʷo-; OW hepp \"(he) said\"",
+			"Armenian: ",
+			"Albanian: sheh \"(he) sees\"",
+			"Tocharian: A ṣotre, B ṣotri \"sign\"",
+			"Hittite: sakuwāi- \"to see\""
+		],
+	    "meaning": "see",
+		"pron": "s e kw"
+	},
+	"sem-": {
+		"cognates": [
+			"English: same (< ON samr);  OE sam- \"together\"; [also German Language zusammen]",
+			"Gothic: sama \"same\"",
+			"Latin: sem-el \"once\", sem-per \"always\", sim-plex \"single, simple\", sin-gulī \"one each, single\"",
+			"Ancient Greek: heĩs, hén, mía \"one\" < *sems, *sem, *smiH₂",
+			"Sanskrit: sam- \"together\",  samá \"same, equal, any\"",
+			"Iranian: Av hama-, OPers hama- \"any, all\"",
+			"Slavic: OCS samŭ \"self, alone, one\"",
+			"Baltic: Lith sam-, są- \"with\"; OPrus sa-, sen- \"with, dividing\"",
+			"Celtic: OIr samlith \"at the same time\"; W hafal \"equal\"",
+			"Armenian: mi \"one\"",
+			"Albanian: ",
+			"Tocharian: A sas, B ṣe \"one\" < *sems",
+			"Hittite: "
+		],
+	    "meaning": "one",
+		"pron": "s e m"
+	},
+	"semh₂-": {
+		"cognates": [
+			"English: summer (< Old English sumor)",
+			"Gothic: OHG sumar, OIc sumar \"summer\"",
+			"Latin: ",
+			"Ancient Greek: ",
+			"Sanskrit: sámā \"season; year\"",
+			"Iranian: Av ham- \"summer\"; Pers hâmin \"summer\"; Khot-Saka hamāñarva \"summer season\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: Gaul Samon(ios) \"summer month\"; OIr sam \"summer\"; OW ham, OBret ham \"summer\"",
+			"Armenian: OArm am \"year\", amaṙn \"summer\"",
+			"Albanian: ",
+			"Tocharian: A şme \"summer\"; B ṣmāye \"summer\" (adj.), ywārś-ṣmañe \"midsummer\"[100]",
+			"Hittite: "
+		],
+		"meaning": "summer",
+		"pron": "s e m h2"
+	},
+	"sen-": {
+		"cognates": [
+			"English: ",
+			"Gothic: sineigs \"old (person)\"",
+			"Latin: senex \"old\"",
+			"Ancient Greek: hénos \"former, from a former period\"",
+			"Sanskrit: sánaḥ \"old\"",
+			"Iranian: Av hana- \"old\"",
+			"Slavic: OCS sedyi \"grey-headed\"",
+			"Baltic: OPrus sentwei \"to get old\", Lith senas \"old\"",
+			"Celtic: OIr sen \"old\", Old Welsh hen \"old\"",
+			"Armenian: hin \"old\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "old",
+		"pron": "s e n"
+	},
+	"septḿ̥": {
+		"cognates": [
+			"English: seven (< OE seofon)",
+			"Gothic: sibun \"seven\"",
+			"Latin: septem \"seven\"",
+			"Ancient Greek: heptá \"seven\"",
+			"Sanskrit: saptá \"seven\"; Mittani-Aryan šatta- \"seven\"[36]",
+			"Iranian: Av hapta \"seven\"",
+			"Slavic: OCS sedmĭ \"seven\"",
+			"Baltic: Lith septynì, OPrus septinnei \"seven\"",
+			"Celtic: OIr secht, W saith \"seven\"",
+			"Armenian: eawtʿn \"seven\"",
+			"Albanian: shtatë \"seven\"",
+			"Tocharian: A ṣpät, B ṣukt \"seven\"",
+			"Hittite: sipta- \"seven\""
+		],
+		"meaning": "seven",
+		"pron": "s e p t m"
+	},
+	"sneigʷʰ-": {
+		"cognates": [
+			"English: snow (< OE snāw < *snoigʷhos, snīwan \"to snow\" < *sneigʷhonom)",
+			"Gothic: snáiws \"snow\"",
+			"Latin: nix (nivis) \"snow\", ninguō (ninguere) \"to snow\"",
+			"Ancient Greek: nípʰa (acc.) \"snow\", neípʰei \"it snows\"",
+			"Sanskrit: sneha- \"snow\"",
+			"Iranian: Av snaēža- \"to snow\"; Shughni žǝnij \"snow\" < *snaiga-",
+			"Slavic: OCS sněgŭ \"snow\"",
+			"Baltic: OPrus snaigs \"snow\", Lith snigti \"to snow\"",
+			"Celtic: OIr snecht(a)e, W nyf \"snow\"; OIr snigid \"it rains\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "snow",
+		"pron": "s n e i gw"
+	},
+	"snusós": {
+		"cognates": [
+			"English: OE snoru \"daughter-in-law\"",
+			"Gothic: OHG snur \"daughter-in-law\"",
+			"Latin: nurus \"daughter-in-law\"",
+			"Ancient Greek: nuos \"daughter-in-law\"",
+			"Sanskrit: snuṣā- \"daughter-in-law\"",
+			"Iranian: Old Ir. *(s)nušáh Bactrian ασνωυο (asnōuo) NPers. sunoh / sunhār \"daughter-in-law\"",
+			"Slavic: OCS snŭxa \"daughter-in-law\"",
+			"Baltic: ",
+			"Celtic: W gwaudd \"daughter-in-law\"",
+			"Armenian: ",
+			"Albanian: nuse \"bride\"",
+			"Tocharian: nu \"daughter-in-law\"",
+			"Hittite: "
+		],
+		"meaning": "daughter-in-law",
+		"pron": "s n u s o s"
+	},
+	"steH₂-": {
+		"cognates": [
+			"English: stand (< OE standan)",
+			"Gothic: standan \"to stand\"; OHG stān, stēn \"to stand\"",
+			"Latin: stō (stāre) \"to stand\", sistō (sistere) \"to cause to stand\"",
+			"Ancient Greek: Doric hístāmi \"I stand\"",
+			"Sanskrit: Stha / tíṣṭhati \"(he) stands\"",
+			"Iranian: Av hištaiti \"(he) stands\"; OPers impf. a-ištata \"(he) stood\"",
+			"Slavic: OCS stajǫ (stati) \"to stand up\"",
+			"Baltic: OPrus stalitwei \"to stand\", Lith stovėti \"to stand\"",
+			"Celtic: OIr tair-(ṡ)issiur \"I stand\"; W sefyll \"to stand\"",
+			"Armenian: stanam \"I build; gain\"",
+			"Albanian: mbështet, pshtet \"I support\"",
+			"Tocharian: B stäm- \"to stand\", ste \"is\", \"stare\" \"(they) are\"",
+			"Hittite: istanta- \"to stay, delay\""
+		],
+		"meaning": "stand",
+		"pron": "s t e h2"
+	},
+	"suHnú-": {
+		"cognates": [
+			"English: son (< OE sunu)",
+			"Gothic: sunus \"son\"",
+			"Latin: ",
+			"Ancient Greek: huiós \"son\"",
+			"Sanskrit: sūnú- \"son\"",
+			"Iranian: Av hunuš \"son\"",
+			"Slavic: OCS synŭ \"son\"",
+			"Baltic: Lith  sūnùs, OPrus suns \"son\"",
+			"Celtic: ? Celtib EBURSUNOS \"son of Eburos (?)\"[d][e] ? Celt/Lus EQUEUNUBO (< *ekwei-sūnu-bʰos) \"to the sons on the horse\"[f]",
+			"Armenian: ustr \"son\"",
+			"Albanian: çun \"boy/son\"",
+			"Tocharian: A se, B soyä \"son\"",
+			"Hittite: "
+		],
+		"meaning": "son",
+		"pron": "s u \\H n"
+	},
+	"suHs-": {
+		"cognates": [
+			"English: sow (< OE sū)",
+			"Gothic: ON sýr \"sow\"",
+			"Latin: sūs \"pig\"",
+			"Ancient Greek: hũs, sũs \"pig\"",
+			"Sanskrit: sū-kara \"pig\"; Hindi sūvar \"pig\"",
+			"Iranian: Av hū (gen. sg.) \"pig\" , NPers xuk \"pig\"",
+			"Slavic: Bulg svinjà \"swine, sow\"",
+			"Baltic: Latvian suvẽns, sivẽns \"piglet\"",
+			"Celtic: OIr socc sáil \"sea pig\"; W hwch \"sow, swine\"",
+			"Armenian: khos \"pig\"",
+			"Albanian: thi \"pig\"",
+			"Tocharian: B suwo \"pig\"",
+			"Hittite: "
+		],
+		"meaning": "pig",
+		"pron": "s u \\H s"
+	},
+	"su̯ek̂rū́-": {
+		"cognates": [
+			"English: OE sweger \"mother-in-law\"",
+			"Gothic: swaihr  \"mother-in-law\"",
+			"Latin: socrus \"mother-in-law\"",
+			"Ancient Greek: ekurā \"mother-in-law\"",
+			"Sanskrit: śvaśrū́- \"mother-in-law\"",
+			"Iranian: ",
+			"Slavic: OCS svekry \"mother-in-law\"",
+			"Baltic: Lith šešuras \"father-in-law\", OPrus swasri \"mother-in-law\"",
+			"Celtic: W chwegr \"mother-in-law\"",
+			"Armenian: skesur \"mother-in-law\"",
+			"Albanian: vjehërr \"father-in-law\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "mother-in-law",
+		"pron": "s u e k r\\ u"
+	},
+	"sweid-": {
+		"cognates": [
+			"English: sweat (< OE swǣtan \"to sweat\")",
+			"Gothic: ON sveiti",
+			"Latin: sūdor \"sweat (n.)\"",
+			"Ancient Greek: (e)ĩdos \"sweat (n.)\"",
+			"Sanskrit: svḗda- \"sweat (n.)\"",
+			"Iranian: Av xᵛaēda- \"sweat (n.)\"",
+			"Slavic: ",
+			"Baltic: Latvian sviêdri (pl.) \"sweat (n.)\"",
+			"Celtic: W chwys \"sweat (n.)\" < *swidso-",
+			"Armenian: kʿirtn \"sweat (n.)\"",
+			"Albanian: dirsë, djersë \"sweat (n.)\" < *swí-drōxty-",
+			"Tocharian: B syā-lñe \"sweating\" < *swid-yé-",
+			"Hittite: "
+		],
+		"meaning": "sweat",
+		"pron": "s w e i d"
+	},
+	"swep-": {
+		"cognates": [
+			"English: archaic sweven \"dream, vision\" (< OE swefn); NoEng sweb \"to swoon\" (< OE swebban \"to put to sleep, lull\")",
+			"Gothic: ON sofa \"sleep (v.)\"; Svafnir[71] \"Sleep-Bringer (a name of Odin)\"",
+			"Latin: somnus \"sleep (n.)\"; sōpiō[72] (v.) \"make asleep\"",
+			"Ancient Greek: húpnos \"sleep (n.)\"",
+			"Sanskrit: svápnaḥ \"sleep, dream (n.)\"",
+			"Iranian: Av xᵛafna- \"sleep (n.)\" NPers xwãb- \"sleep\"",
+			"Slavic: OCS sŭpati[73] \"sleep (v.)\", sŭnŭ \"sleep (n.), dream (n.)\"",
+			"Baltic: OPrus supnas \"dream\", Lith sapnas \"dream\"",
+			"Celtic: OIr sūan, W hun \"sleep (n.)\"",
+			"Armenian: kʿnem \"I sleep\", kʿun \"sleep (n.)\"",
+			"Albanian: gjumë \"sleep (n.)\"",
+			"Tocharian: TA ṣpäṃ, TB ṣpane \"sleep (n.), dream (n.)\"",
+			"Hittite: sup-, suppariya- \"to sleep\""
+		],
+		"meaning": "sleep",
+		"pron": "s w e p"
+	},
+	"swék̂s": {
+		"cognates": [
+			"English: six (< OE siex)",
+			"Gothic: sáihs \"six\"",
+			"Latin: sex \"six\"",
+			"Ancient Greek: héx, dial. wéx \"six\"",
+			"Sanskrit: ṣáṣ \"six\"",
+			"Iranian: Av xšvaš \"six\"",
+			"Slavic: OCS šestĭ \"six\"",
+			"Baltic: Lith šešì, OPrus uššai \"six\"",
+			"Celtic: Celtib sues \"six\";[35] Gaul suexos \"sixth\"; OIr sé, W chwe(ch) \"six\"",
+			"Armenian: vecʿ \"six\"",
+			"Albanian: gjashtë \"six\"",
+			"Tocharian: A ṣäk, B ṣkas \"six\"",
+			"Hittite: "
+		],
+		"meaning": "six",
+		"pron": "s w e k s"
+	},
+	"swésor": {
+		"cognates": [
+			"English: sister (< OE sweostor, influenced by ON systir)",
+			"Gothic: swistar \"sister\"",
+			"Latin: soror \"sister\"",
+			"Ancient Greek: éor \"sister\"",
+			"Sanskrit: svásṛ \"sister\"",
+			"Iranian: Av x̌aŋhar- \"sister\"; NPers ḫwāhar \"sister\"",
+			"Slavic: OCS sestra \"sister\"",
+			"Baltic: Lith sesuõ (seser̃s), OPrus sestra \"sister\"",
+			"Celtic: Gaul suiorebe \"with two sisters\" (dual)[3] OIr siur, W chwaer \"sister\"",
+			"Armenian: kʿoyr (kʿeṙ), nom.pl kʿor-kʿ \"sister\"[a]",
+			"Albanian: vashë, vajzë \"girl\" (< *varjë < *vëharë < PAlb *swesarā)",
+			"Tocharian: A ṣar', B ṣer \"sister\"",
+			"Hittite: "
+		],
+		"meaning": "sister",
+		"pron": "s w e s o r\\"
+	},
+	"teks-": {
+		"cognates": [
+			"English: OE þeox \"spear\"",
+			"Gothic: OHG dehsa, dehsala \"hatchet\"",
+			"Latin: texō (texere) \"to weave\"",
+			"Ancient Greek: téktōn \"carpenter\", tíktō \"I give birth\"",
+			"Sanskrit: takṣati, tā́ṣṭi \"(he) fashions\"",
+			"Iranian: Av tašaiti \"(he) cuts out, manufactures\"; OPers us-tašanā \"stairway\" < \"*construction\"; MPers tāšīδan \"to do carpentry\"",
+			"Slavic: OCS tešǫ (tesati) \"to hew\",",
+			"Baltic: OPrus tesatun \"to hew\", Lith tašyti \"to hew\"",
+			"Celtic: OIr tāl \"axe\" < *tōkslo-",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: takkeszi \"puts together\""
+		],
+	    "meaning": "fashion",
+		"pron": "t e k s"
+	},
+	"tréyes": {
+		"cognates": [
+			"English: three (< OE þrīe)",
+			"Gothic: þreis \"three\"",
+			"Latin: trēs \"three\"",
+			"Ancient Greek: treĩs \"three\"",
+			"Sanskrit: tráyaḥ (fem. tisráḥ) \"three\"",
+			"Iranian: Av ϑrayō, ϑrayas (fem. tisrō, neut. ϑri), OPers çi-, Parth hrē \"three\"",
+			"Slavic: OCS trĭje \"three\"",
+			"Baltic: Lith trỹs, OPrus tris, Latg treis \"three\"",
+			"Celtic: OIr trí (fem. téoir), W tri (fem. tair, teir) \"three\"",
+			"Armenian: erekʿ \"three\"",
+			"Albanian: tre masc., tri fem. \"three\"",
+			"Tocharian: A tre, B trai \"three\"",
+			"Hittite: tri- \"three\"; teriyas- (gen. pl.)"
+		],
+	    "meaning": "three",
+		"pron": "t r\\ e j e s"
+	},
+	"tu": {
+		"cognates": [
+			"English: thou (< OE þū \"you\")",
+			"Gothic: þu \"you\"",
+			"Latin: tū \"you\"",
+			"Ancient Greek: Doric tú (standard sú)",
+			"Sanskrit: t(u)vám \"you\";",
+			"Iranian: Av tū \"you\" NPers to \"you\"",
+			"Slavic: OCS ty \"you\"",
+			"Baltic: Lith tù, OPr tu \"you\"",
+			"Celtic: OIr tū, tu-ssu, tu-sso, W ti",
+			"Armenian: du \"you\"",
+			"Albanian: ti \"you\"",
+			"Tocharian: A tu, B t(u)we \"you\"",
+			"Hittite: zik, zikka \"you\" < *tega < *te + *egō"
+		],
+		"meaning": "you",
+		"pron": "t u"
+	},
+	"upér(i)": {
+		"cognates": [
+			"English: over (< OE ofer)",
+			"Gothic: ufar \"over, above, beyond\"",
+			"Latin: super \"over\" (influenced by sub \"under\")",
+			"Ancient Greek: hupér \"over\"",
+			"Sanskrit: upári \"over, above, beyond\"",
+			"Iranian: Av 'upairi, OPers \"over, above, beyond\"",
+			"Slavic: OCS po \"upon, at\"",
+			"Baltic: OPrus uppin \"cloud\",",
+			"Celtic: OIr for, W gor, gwar \"over, on\"",
+			"Armenian: ver \"up\"",
+			"Albanian: i ver \"up\"",
+			"Tocharian: epër \"over, above\"",
+			"Hittite: "
+		],
+	    "meaning": "over",
+		"pron": "u p e r\\ i"
+	},
+	"webʰ-": {
+		"cognates": [
+			"English: weave (< OE wefan), web (<P.Gmc. *wabjan)",
+			"Gothic: OHG weban \"to weave\"; ON vefa",
+			"Latin: ",
+			"Ancient Greek: hupʰaínō \"I weave\"",
+			"Sanskrit: ubʰnā́ti \"ties together\"; ūṛna-vābhi- \"spider\" (litt. \"wool-weaver\")",
+			"Iranian: Av ubdaēna- \"made of cloth\"; NPers bāfad \"(he) weaves\"",
+			"Slavic: viti \"weave\"",
+			"Baltic: Lith vyti \"to twist\"",
+			"Celtic: W gwau \"knit, weave\"",
+			"Armenian: ",
+			"Albanian: venj \"I weave\" < *webʰnyō",
+			"Tocharian: A wpantär (them. pres.),[92][93] B wāp- \"to weave\"",
+			"Hittite: wēpta- \"wove\"[94]"
+		],
+		"meaning": "weave",
+		"pron": "w e bh"
+	},
+	"wei": {
+		"cognates": [
+			"English: we (< OE wē), us (< OE ūs < PGerm *uns < *n̥s)",
+			"Gothic: weis \"we\", uns \"us\"",
+			"Latin: nōs \"we, us\"",
+			"Ancient Greek: hēm- \"we, us\";[j] Aeol ámme \"us\" < *asme < *n̥sme",
+			"Sanskrit: vay-ám \"we\" < *wei-óm, asmān \"us\" < *n̥sme + acc. -ān, encl. naḥ \"us\" < *nos",
+			"Iranian: Av vaēm \"we\", ahma \"us\", encl. nǝ̄, nā̊, nō \"us\"",
+			"Slavic: Bulg nìe \"we\", OCS gen. nasŭ \"us\" < *nōs-sōm",
+			"Baltic: Lith mès \"we\"; OPr gen. nōuson \"ours\" < *nōs-sōm",
+			"Celtic: OIr ni \"we, us\" <? *s-nēs, gen. ar n- < *n̥s-rō-m; W ni \"we\" < *nēs",
+			"Armenian: ",
+			"Albanian: na \"we\" < *nŏs, ne \"us\" < *nōs",
+			"Tocharian: A was, B wes \"we\"",
+			"Hittite: wēs \"we\" < *wei-es, anzāš \"us\", encl. naš \"us\""
+		],
+	    "meaning": "we",
+		"pron": "w e i"
+	},
+	"weid-": {
+		"cognates": [
+			"English: wit (OE wit \"intelligence\", witan \"to know\" < PIE perfect tense)",
+			"Gothic: witan \"to know\"",
+			"Latin: videō (vidēre) \"to see\"",
+			"Ancient Greek: é(w)ide \"he saw\" perf. oĩda \"I know (lit. I have seen)\"",
+			"Sanskrit: vindáti \"(he) finds\", ávidat \"found\" vetti, vēdate, vidáti \"(he) knows\", perf. véda \"I know\"",
+			"Iranian: Av vī̆δaiti, vī̆nasti \"(he) finds\"",
+			"Slavic: OCS viždǫ (viděti) \"to see\"",
+			"Baltic: OPrus widatun \"to see\", Lith veidas \"face\"",
+			"Celtic: W gweld \"to see\"",
+			"Armenian: gtanem \"I find\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+	    "meaning": "see",
+		"pron": "w e i d"
+	},
+	"wekʷ-": {
+		"cognates": [
+			"English: OE wōma \"noise\" < *wōkʷ-mō(n)",
+			"Gothic: OHG giwahanen \"mention\" < PGerm *gawahnjan (denom. built on *wokʷ-no-)",
+			"Latin: vocō (vocāre) \"to call\", vōx (vōcis) \"voice\"",
+			"Ancient Greek: eĩpon (aor.) \"spoke\" < *e-we-ikʷ-om < *e-we-ukʷ-om, (w)épos \"word\"",
+			"Sanskrit: vákti, vívakti \"(he) says\", vāk \"voice\", vácas- \"word\"",
+			"Iranian: Av vač- \"speak, say\", vāxš \"voice\", vačah \"word\"",
+			"Slavic: OCS vikǫti \"to call, to scream\"",
+			"Baltic: OPrus enwackēmai \"we call\"",
+			"Celtic: OIr foccul \"word\", W gwaethl \"fight\"  < * wokʷ-tlo-m",
+			"Armenian: gočem \"I call\"",
+			"Albanian: ",
+			"Tocharian: A wak, B wek \"voice\"",
+			"Hittite: ḫuek-, ḫuk- to swear to\""
+		],
+		"meaning": "say",
+		"pron": "w e kw"
+	},
+	"werĝ-": {
+		"cognates": [
+			"English: work (< OE weorc, wyrc̣an)",
+			"Gothic: waúrkjan \"to work\"",
+			"Latin: urgeō (urgēre) \"to push, drive\"",
+			"Ancient Greek: (w)érgon \"work\", érdō, hrézdō \"I work\" < *wérĝ-yoH₂, *wréĝ-yoH₂",
+			"Sanskrit: varcaḥ \"activity\" (? not in Pokorny)",
+			"Iranian: Av varəza- \"work, activity\", vərəzyeiti \"(he) works\"; NPers varz, barz \"field work, husbandry\"",
+			"Slavic: vrǔšiti \"to act, to do\"",
+			"Baltic: OPrus wargs \"bad, evil, malicious, vicious\", wargtwei \"to torment oneself, to suffer\", Lith vargas \"the state of going through bad/unlucky events\"",
+			"Celtic: MW gwreith \"deed\" < *wreĝ-tu-",
+			"Armenian: gorc \"work \"",
+			"Albanian: rregj \"to clean\"",
+			"Tocharian: A wärk-, B wārk- \"to shear\"",
+			"Hittite: "
+		],
+		"meaning": "work",
+		"pron": "w e r\\ g"
+	},
+	"wes-": {
+		"cognates": [
+			"English: wear (< OE werian)",
+			"Gothic: wasjan \"to clothe\"",
+			"Latin: vestis \"clothing\"",
+			"Ancient Greek: héstai \"gets dressed\"",
+			"Sanskrit: váste \"(he) gets dressed\"",
+			"Iranian: Av vaste, vaŋhaiti \"(he) gets dressed\"",
+			"Slavic: veshch \"thing, cloth\", veshchi \"cloth items\" Serbian veš \"underwear\"",
+			"Baltic: OPrus westi \"corset\", wesseli \"wedding\", Lith vestuvės \"wedding\", vesti \"to lead\"",
+			"Celtic: W gwisg \"clothing\"",
+			"Armenian: z-genum \"I put on (clothes)\" < *wes-nu-",
+			"Albanian: vesh \"dress\" \nveshje \"clothing\"",
+			"Tocharian: B wastsi, wästsi \"clothing\"",
+			"Hittite: wassezzi \"(he) clothes\""
+		],
+	    "meaning": "clothe",
+		"pron": "w e s"
+	},
+	"wet-": {
+		"cognates": [
+			"English: wether \"castrated male sheep\" (< OE weþer),",
+			"Gothic: OHG widar \"male sheep\", MHG vert \"last year\" <- *per-ut-, ON fjorð \"last year\" <- *per-ut-",
+			"Latin: vetus (veteris) \"old\" (perīre) \"to die\"",
+			"Ancient Greek: (w)étos \"year\", pérusi \"last year\"",
+			"Sanskrit: vatsá-, vatsará- \"year\", par-út \"last year\"",
+			"Iranian: Sogdian wtšnyy (read wat(u)šanē) \"old\"",
+			"Slavic: OCS vetŭchŭ \"old\"",
+			"Baltic: OLith vẽtušas \"old\"",
+			"Celtic: MIr feis, Cornish guis \"sow\" < *wet-si-",
+			"Armenian: heru \"last year\" < *peruti",
+			"Albanian: vit (pl. vjet) \"year\"",
+			"Tocharian: ",
+			"Hittite: witt- \"year\""
+		],
+		"meaning": "year",
+		"pron": "w e t"
+	},
+	"weĝʰ-": {
+		"cognates": [
+			"English: weigh (< OE wegan \"carry\"); way (< OE weġ); wain \"wagon\" (< OE wæġn)[ah]",
+			"Gothic: ga-wigan \"to move, shake\"",
+			"Latin: vehō (vehere) \"to convey\"",
+			"Ancient Greek: Pamphylian wekʰétō \"he should bring\"; Cypriot éwekse \"brought there\"",
+			"Sanskrit: váhati \"(he) drives\"",
+			"Iranian: Av vazaiti \"(he) leads, carries\"",
+			"Slavic: OCS vezǫ (vesti) \"to drive\"",
+			"Baltic: OPrus weztun \"to ride\", Lith vežti \"to drive\"",
+			"Celtic: OIr fēn, W gwain (type of wagon) < *weĝʰ-no-; W arwain \"to lead\"",
+			"Armenian: ",
+			"Albanian: vjedh \"I steal\"",
+			"Tocharian: ",
+			"Hittite: Hier Luw wa-zi/a- \"drive\""
+		],
+		"meaning": "convey",
+		"pron": "w e gh"
+	},
+	"wiH-ro-": {
+		"cognates": [
+			"English: werewolf (< OE wer \"man\")",
+			"Gothic: waír \"man\"",
+			"Latin: vir \"man\"",
+			"Ancient Greek: ",
+			"Sanskrit: vīrá- \"man, hero\"",
+			"Iranian: Av vīra- \"man, hero\"",
+			"Slavic: (possibly) OCS viro- \"self-minded\"",
+			"Baltic: Lith výras \"man\"; OPrus wirs \"man, husband\"",
+			"Celtic: OIr fer, W gŵr \"man\"",
+			"Armenian: ",
+			"Albanian: burrë \"man\"",
+			"Tocharian: A wir \"young\"",
+			"Hittite: "
+		],
+		"meaning": "man",
+		"pron": "w i \\H r\\ o"
+	},
+	"wl(o)p": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: vulpes \"fox\"",
+			"Ancient Greek: alṓpēx \"fox\"",
+			"Sanskrit: lopāśá \"fox, jackal\"",
+			"Iranian: Av urupis \"dog\", raopi- \"fox, jackal\"",
+			"Slavic: ",
+			"Baltic: Lith lãpė \"fox\"; Lapskojis \"fox's leg\" (river name); vilpisÿs \"wild cat\"; Latv lapsa \"fox\"",
+			"Celtic: Bre louarn \"fox\" (< PCel *loɸernos)",
+			"Armenian: ałuēs \"fox\"",
+			"Albanian: Tosk dhelpër, Gheg dhelpen \"fox\" (< *dzelpina < *welpina)[58]",
+			"Tocharian: ",
+			"Hittite: ulipzas (ú-li-ip-za-aš) \"wolf\";[59] Luwian ú-li-ip-ni-eš (nom. sg.), wa-li-ip-ni (dat.-loc. sg.) \"fox\"[60]"
+		],
+		"meaning": "fox",
+		"pron": "w l o p"
+	},
+	"wl̥kʷos": {
+		"cognates": [
+			"English: wolf (< OE wulf)",
+			"Gothic: wulfs (wulfis) \"wolf\"",
+			"Latin: lupus \"wolf\"",
+			"Ancient Greek: lúkos \"wolf\"",
+			"Sanskrit: vŕ̥kaḥ \"wolf\"",
+			"Iranian: Av vǝhrka- \"wolf\" , NPers gorg \"wolf\"",
+			"Slavic: Bulg vɤ̞lk \"wolf\", OCS vlĭkŭ \"wolf\"",
+			"Baltic: OPrus wilks \"wolf\", Lith vilkas \"wolf\"",
+			"Celtic: OIr olc (uilc) \"evil\"",
+			"Armenian: aghves \"fox\"",
+			"Albanian: ujk < OAlb ulk \"wolf\"",
+			"Tocharian: B walkwe \"wolf\"",
+			"Hittite: ulippana \"wolf\""
+		],
+		"meaning": "wolf",
+		"pron": "w l kw o s"
+	},
+	"woid-": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: ",
+			"Ancient Greek: ",
+			"Sanskrit: ",
+			"Iranian: Av perf. vaēδa \"I know\", vīdarǝ \"they know\"",
+			"Slavic: OCS věmĭ (věděti) \"to know\"",
+			"Baltic: OPrus waistun \"to know\", Lith vaistas  \"medicine\", vyda \"he sees, knows\"",
+			"Celtic: OIr find, W gwn \"(I) know\"",
+			"Armenian: gitem \"I know\"",
+			"Albanian: ",
+			"Tocharian: B ūwe \"learned\" < PToch *wäwen- < *wid-wo-",
+			"Hittite: "
+		],
+		"meaning": "know",
+		"pron": "w o i d"
+	},
+	"wés-r̥,": {
+		"cognates": [
+			"English: ",
+			"Gothic: ON vár \"spring\"",
+			"Latin: vēr \"spring\"",
+			"Ancient Greek: (w)éar \"spring\"",
+			"Sanskrit: vasan-tá- \"spring\"",
+			"Iranian: Av vaŋri \"in spring\"; OPers ϑūra-vāhara-",
+			"Slavic: OCS vesna \"spring\"",
+			"Baltic: OPrus wassara \"spring\", Lith vasara \"summer\", pavasaris \"spring\", vėsu \"cool\"",
+			"Celtic: OIr errach \"spring\"< *ferrach < *wesr-āko-; OW guiannuin \"in spring\" < *wes-n̥t-eino-",
+			"Armenian: garun \"spring\"< *wesr-",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "spring",
+		"pron": "w e s r\\"
+	},
+	"wódr̥": {
+		"cognates": [
+			"English: water (< OE wæter)",
+			"Gothic: watō (watins) \"water\"",
+			"Latin: Umbrian utur \"water\", Latin unda \"wave\"",
+			"Ancient Greek: húdōr (húdatos) \"water\"",
+			"Sanskrit: udakám (loc. udán(i), pl. udá), udra \"water\"",
+			"Iranian: Av aoδa- \"spring\", vaiδi- \"stream\"",
+			"Slavic: OCS voda \"water\", Russ. vedro \"bucket\",",
+			"Baltic: OPrus undan \"water\", Lith vanduo \"water\"",
+			"Celtic: OIr u(i)sce \"water\" < *udeskyo-",
+			"Armenian: get \"river\"",
+			"Albanian: ujë \"water\"",
+			"Tocharian: A wär, B war \"water\"",
+			"Hittite: wātar (wetenas) \"water\""
+		],
+		"meaning": "water",
+		"pron": "w o d r\\"
+	},
+	"wī́k̂m̥tiH₁": {
+		"cognates": [
+			"English: (remodelled)",
+			"Gothic: (remodelled)",
+			"Latin: vīgintī  \"twenty\"",
+			"Ancient Greek: eíkosi \"twenty\"",
+			"Sanskrit: viṁśatí \"twenty\", dviṁśatí \"twenty\"",
+			"Iranian: Av vīsaiti, Ossetian insäi \"twenty\"",
+			"Slavic: (remodelled)",
+			"Baltic: Lith dvidešimt \"twenty\"",
+			"Celtic: OIr fiche (fichet), OW uceint \"twenty\"",
+			"Armenian: kʿsan \"twenty\"",
+			"Albanian: zet \"twenty\"",
+			"Tocharian: A wiki, B ikäṃ \"twenty\"",
+			"Hittite: "
+		],
+		"meaning": "twenty",
+		"pron": "w i k m t i h1"
+	},
+	"yeH₁r-": {
+		"cognates": [
+			"English: year (< OE ġēar)",
+			"Gothic: jēr \"year\"",
+			"Latin: hōrnus \"this year's\" < *hōyōr-",
+			"Ancient Greek: hōra \"time, year\" < *yoH₁r-",
+			"Sanskrit: yarhi - at which time / when",
+			"Iranian: Av yārə \"year\"",
+			"Slavic: Russ. CH jara \"spring\"",
+			"Baltic: OLith Jórė \"spring festival\"",
+			"Celtic: W  iâr \"hen\", MIr eir-īn \"fowl\"",
+			"Armenian: ",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "year",
+		"pron": "j e h1 r\\"
+	},
+	"yugóm": {
+		"cognates": [
+			"English: yoke (< OE ġeoc)",
+			"Gothic: juk \"yoke\"",
+			"Latin: iugum \"yoke\"",
+			"Ancient Greek: zugón \"yoke\"",
+			"Sanskrit: yugám \"yoke\"",
+			"Iranian: Av yaoj-, yuj- \"to harness\"",
+			"Slavic: OCS igo \"yoke\"",
+			"Baltic: OPrus jugtun \"yoke\", Lith jungas \"yoke\"",
+			"Celtic: W iau \"yoke\"",
+			"Armenian: luc \"yoke\"",
+			"Albanian: ",
+			"Tocharian: A yokäm \"door\"",
+			"Hittite: yugan \"yoke\""
+		],
+		"meaning": "yoke",
+		"pron": "j u g o m"
+	},
+	"yū": {
+		"cognates": [
+			"English: ye (< OE gē \"you (nom. pl.)\"), you (< OE ēow[23] \"you (acc./dat. pl.)\")",
+			"Gothic: jūs \"you (nom. pl.)\", izwis[23] \"you (acc./dat. pl.)\"",
+			"Latin: vōs \"you (nom./acc. pl.)\"",
+			"Ancient Greek: hum- \"you (pl.)\"; Aeol úmme \"you (acc. pl.)\" < *usme",
+			"Sanskrit: yūyám \"you (nom. pl.)\", yuṣmā́n \"you (acc. pl.)\" < y- + *usme + acc. -ān, encl. vaḥ \"you (obl. pl.)\"",
+			"Iranian: Av yūžǝm, yūš \"you (nom. pl.)\", yūšmat̃ \"you (abl. pl.)\", encl. vā̊ \"you (obl. pl.)\"",
+			"Slavic: OCS vy \"you (nom./acc. pl.)\", vasŭ \"yours (pl.)\"",
+			"Baltic: Lith jũs \"you (nom. pl.)\", jũsų \"yours (pl.)\"; OPr iouson \"yours (pl.)\"",
+			"Celtic: OIr sī, sissi \"you (nom. pl.)\" < *sw-, uai-b \"of you (pl.)\" < *ō-swī, NIr far n- \"your (pl.)\"; W chwi \"you (nom. pl.)\" < *sw-",
+			"Armenian: ",
+			"Albanian: ju \"you (nom. pl.)\" < *u < *vos",
+			"Tocharian: A yas, B yes \"you (nom. pl.)\"",
+			"Hittite: sumes < *usme"
+		],
+	    "meaning": "you",
+		"pron": "j u"
+	},
+	"yḗkʷr̥,": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: jecur (jecinoris) \"liver\"",
+			"Ancient Greek: hẽpar (hḗpatos) \"liver\"",
+			"Sanskrit: yákr̥t (yaknáḥ) \"liver\"",
+			"Iranian: Av yākarǝ, NPers ǰigar, Pashto yī̆na \"liver\"",
+			"Slavic: Serbian jetra \"liver\", Serbian and Macedonian ikra \"fish roe\"",
+			"Baltic: OPrus jakna, Lat aknas \"liver\", Lith jeknos",
+			"Celtic: W (i)afu \"liver\"; MIr i(u)chair (i(u)chrach) \"fish roe\"",
+			"Armenian: leard \"liver\"",
+			"Albanian: ",
+			"Tocharian: ",
+			"Hittite: Luwian ikkuwar/n- \"liver\"[u]"
+		],
+		"meaning": "liver",
+		"pron": "j e kw r\\"
+	},
+	"ék̂wos": {
+		"cognates": [
+			"English: OE eoh \"horse\"",
+			"Gothic: aíƕa- \"horse\"[v]",
+			"Latin: equus \"horse\"",
+			"Ancient Greek: híppos \"horse\"; Myc i-qo \"horse\" ( < *ïkkʷos)[53]",
+			"Sanskrit: áśvaḥ \"horse\"",
+			"Iranian: Av aspa-, OPers asa- \"horse\"; Ossetian yäfs \"horse\" < *yék̂wos NPers asp \"horse\"",
+			"Slavic: OCS jastrębъ \"hawk\" (literally \"a fast bird\")",
+			"Baltic: OPrus kaiwi \"mare\", Lith ašva \"mare",
+			"Celtic: OIr ech; MW ebawl \"horse\" < PBryth *ep-ālos",
+			"Armenian: ēš \"donkey\"",
+			"Albanian: ",
+			"Tocharian: A yuk, B yakwe \"horse\"",
+			"Hittite: Luwian ásùwa \"horse\""
+		],
+		"meaning": "horse",
+		"pron": "e k w o s"
+	},
+	"ésH₂r̥,": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: archaic aser, sanguis \"blood\" (< possibly h₁sh₂-én- obl. stem + guen)",
+			"Ancient Greek: éar \"blood\"",
+			"Sanskrit: ásṛj, ásr̥k, asnáḥ \"blood\"",
+			"Iranian: ",
+			"Slavic: ",
+			"Baltic: Lat asins,  Ltg asnis (gen. ašņa) \"blood\"",
+			"Celtic: ",
+			"Armenian: ariwn \"blood\"",
+			"Albanian: ",
+			"Tocharian: A ysār \"blood\"",
+			"Hittite: ēsḫar (esḫanas) \"blood\""
+		],
+		"meaning": "blood",
+		"pron": "e s h2 r\\"
+	},
+	"ói-nos,": {
+		"cognates": [
+			"English: one (< OE ān)",
+			"Gothic: ains \"one\"",
+			"Latin: ūnus (archaic oinos)",
+			"Ancient Greek: oĩnos \"one (on a die)\", oĩ(w)os \"alone\"",
+			"Sanskrit: (ēka- < *oi-ko-; Mittani-Aryan aika-vartana \"one turn (around a track)\")[24]",
+			"Iranian: Av aēva-, OPers aiva- \"one, only, alone\"",
+			"Slavic: OCS inŭ \"one, another\"",
+			"Baltic: Lith víenas, OPrus ains \"one\"",
+			"Celtic: OIr ōen, W un \"one\"",
+			"Armenian: andr-ēn \"right there\", ast-ēn \"right here\"",
+			"Albanian: ? Gheg tânë, Tosk tërë \"all\" < PIE *tod-oino-; ??? një \"one\" < *ňân < PIE *eni-oino-[25]",
+			"Tocharian: B -aiwenta \"group\" < \"*unit\"",
+			"Hittite: "
+		],
+		"meaning": "one",
+		"pron": "o i n o s"
+	},
+	"ĝenH₁-,": {
+		"cognates": [
+			"English: kind (< OE (ġe)cynd); OE cennan \"produce\"",
+			"Gothic: -kunds \"born\"; OHG kind \"child\"",
+			"Latin: gignō (gignere) \"to produce\" (OLat. genō); nā-scor (nāscī) \"to be born\" < *ĝn̥H₁-skṓ-r",
+			"Ancient Greek: gígnomai \"I become\"",
+			"Sanskrit: jánati \"(he) gives birth\", jajanti \"they give birth\"",
+			"Iranian: Av zīzǝnti, zīzanǝnti \"they give birth\"",
+			"Slavic: ",
+			"Baltic: OPrus gamintun \"to give birth\", gimdyti \"to give birth\"",
+			"Celtic: OIr -gainethar \"who is born\" < *ĝn̥-ye-tro;[70] W geni \"to be born\"",
+			"Armenian: cnanim \"I am born, bear\"",
+			"Albanian: dhëndër, dhândër \"son-in-law, bridegroom\" < *ĝenH̥₁-tr-[z]",
+			"Tocharian: AB kän- \"to come to pass (of a wish), be realized\"",
+			"Hittite: "
+		],
+	    "meaning": "kind",
+		"pron": "g e n h1"
+	},
+	"ĝr̥H₂-no-": {
+		"cognates": [
+			"English: corn (< OE corn \"grain\")",
+			"Gothic: kaúrn \"corn\"",
+			"Latin: grānum \"grain\"",
+			"Ancient Greek: ",
+			"Sanskrit: dhānya \"grain, cereal\"",
+			"Iranian: ",
+			"Slavic: OCS zrŭno \"grain\"",
+			"Baltic: OPrus zirni \"grain\", Lith žirnis \"pea\", girna \"millstone\"",
+			"Celtic: OIr grān, W grawn \"grain\"",
+			"Armenian: cʿorean \"wheat, grain, corn\"",
+			"Albanian: grurëTosk grun, gruni Gheg \"grain\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "grain",
+		"pron": "g r\\ h2 n o"
+	},
+	"ĝénH₃-,": {
+		"cognates": [
+			"English: can (< OE cann \"I know, he knows\"), know (< OE cnāwan < *ĝnēH₃-yo-nom), Scot ken \"to know\" (< OE cennan \"to cause to know\" < PGerm *kann-jan)",
+			"Gothic: kunnan \"to know\" < *ĝn̥-n-H₃-onom, kann \"I know\"",
+			"Latin: (g)nōscō ((g)nōscere) \"to recognize\", nōvī \"I know\"",
+			"Ancient Greek: gignṓskō (aorist égnōn) \"I recognize\"",
+			"Sanskrit: jānā́mi \"I know\" < *janā́mi < *ĝn̥-nH₃-mi",
+			"Iranian: Av zanā-ṯ, zanąn < *ĝn̥-ne-H₃-ti; OPers a-dānā (impf.) \"he knew\" < *ĝn̥-ne-H₃-mi, xšnāsātiy (subj.) \"he should know\" < *ĝneH₃-sk̂e-eti",
+			"Slavic: OCS znajǫ (znati) \"to know\" < *ĝneH₃-yoH₂",
+			"Baltic: OPrus zinatun \"to recognize, know\", Lith žinoti \"to know",
+			"Celtic: OIr itar-gninim, asa-gninaim \"I am wise\"; W adnabod \"(I) know\"",
+			"Armenian: čanačʿem, aorist caneay \"I recognize\"",
+			"Albanian: njoh \"I know\" < *ĝnēH₃-sk̂oH₂",
+			"Tocharian: A knā-, e.g. knānmaṃ \"knowing\" < *ĝneH₃-, kñas-äṣt \"you have become acquainted\" < *ĝnēH₃-s-",
+			"Hittite: "
+		],
+	    "meaning": "know",
+		"pron": "g e n h3"
+	},
+	"ĝénu,": {
+		"cognates": [
+			"English: knee (< OE cnēo)",
+			"Gothic: kniu \"knee\"",
+			"Latin: genū \"knee\"",
+			"Ancient Greek: gónu (Hom gen. gounós < *gonwós)  \"knee\", pró-kʰnu \"with outstretched knee\" < *pró-gʰnu",
+			"Sanskrit: jā́nu \"knee\", pra-jñuḥ \"bow-legged\"",
+			"Iranian: Av acc. žnūm, dat./abl. pl. žnubyō \"knee\", fra-šnu- \"holding the knee forward\"; Parth zānūk, NPers zānū \"knee\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: ",
+			"Armenian: cunr, nom pl. cungkʿ \"knee\"",
+			"Albanian: gjuni \"knee\" < Post-PIE *ĝnu-n(o)-",
+			"Tocharian: A kanweṃ, B keni \"two knees\"",
+			"Hittite: genu \"knee\""
+		],
+		"meaning": "ĝnéus \"knee",
+		"pron": "g e n u"
+	},
+	"ĝʰans-": {
+		"cognates": [
+			"English: goose (< OE gōs)",
+			"Gothic: OHG gans \"goose\"",
+			"Latin: (h)ānser \"goose\"",
+			"Ancient Greek: kʰḗn \"goose\"",
+			"Sanskrit: haṁsáḥ \"goose\"",
+			"Iranian: Av zāō \"goose\" (? not in Pokorny); Sogdian z’γ \"kind of bird\" , NPers ɣaz \"goose\"",
+			"Slavic: Bulg gɤ̞ska \"goose\", OCS gǫsǐ \"goose\"",
+			"Baltic: OPrus zansi \"goose\", Lith žąsis \"goose\"",
+			"Celtic: OIr gēiss \"swan\" W gwydd \"goose\"",
+			"Armenian: ",
+			"Albanian: gatë \"heron\"",
+			"Tocharian: ",
+			"Hittite: "
+		],
+		"meaning": "goose",
+		"pron": "gh a n s"
+	},
+	"ĝʰyem-,": {
+		"cognates": [
+			"English: ",
+			"Gothic: ON gói \"winter month\"",
+			"Latin: hiems \"winter\"",
+			"Ancient Greek: kʰeĩma \"winter\"",
+			"Sanskrit: híma \"winter\", hemantá- \"in winter\"",
+			"Iranian: Av zyā̊ (acc. zyąm, gen. zimō) \"winter\"",
+			"Slavic: OCS zima \"winter\"",
+			"Baltic: OPrus zeima \"winter\", Lith žiema \"winter\"",
+			"Celtic: Gaul Giamonios \"winter month\";[ai][96][97] OIr gam \"winter\", gem-adaig \"winter night\"; OW gaem \"winter\"",
+			"Armenian: jmeṙ \"winter\", jiwn \"snow\"",
+			"Albanian: Gheg dimën, Tosk dimër(ë) \"winter\"",
+			"Tocharian: ? A śärme \"winter\"; ? B śimpriye \"winter\".[aj]",
+			"Hittite: gimmanza \"winter\", gimi \"in winter\""
+		],
+		"meaning": "ĝʰeim- \"winter",
+		"pron": "gh j e m"
+	},
+	"ǵews-": {
+		"cognates": [
+			"English: choose (< OE ċēosan)",
+			"Gothic: Goth kiusan \"to prove, to test\", kausjan \"taste\"; OHG kiosan \"choose\"",
+			"Latin: gustus \"taste\"",
+			"Ancient Greek: geúomai \"taste\"",
+			"Sanskrit: juşate, joşati \"enjoys\"",
+			"Iranian: Av zaoś- \"be pleased\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: OIr do-goa \"choose\"",
+			"Armenian: ",
+			"Albanian: desha \"I loved\"; dashje \"liking, taste, preference\" (< PAlb *dāusnja)",
+			"Tocharian: ",
+			"Hittite: kukuš(-zi) \"taste\""
+		],
+	    "meaning": "test",
+		"pron": "g e w s"
+	},
+	"ǵómbʰos": {
+		"cognates": [
+			"English: comb (< OE camb)",
+			"Gothic: OHG kamb \"comb\"",
+			"Latin: ",
+			"Ancient Greek: gómphos \"bolt, nail\"; gómphíos \"molar tooth\"",
+			"Sanskrit: jámbha- \"tooth, tusk; set of teeth (pl.)\"; jámbhya- \"molar teeth\"",
+			"Iranian: Pash žâma \"jawbone\"; Khot ysīmä \"tooth\"[45]",
+			"Slavic: OCS zǫbŭ, Ukr zub, Pol ząb \"tooth\"",
+			"Baltic: Latv zùobs \"tooth\"; Lith žam̃bas \"sharp edge\"",
+			"Celtic: ",
+			"Armenian: ",
+			"Albanian: dhëmb \"tooth, tusk\"",
+			"Tocharian: A kam, B keme \"tooth\"",
+			"Hittite: "
+		],
+	    "meaning": "tooth",
+		"pron": "g o m bh o s"
+	},
+	"ǵʰésr̥": {
+		"cognates": [
+			"English: ",
+			"Gothic: ",
+			"Latin: hir \"hand\" (rare, anatomical)",
+			"Ancient Greek: kheír \"hand\"",
+			"Sanskrit: hás-ta \"hand\"",
+			"Iranian: Av zas-ta \"hand\"",
+			"Slavic: ",
+			"Baltic: ",
+			"Celtic: ",
+			"Armenian: jeṙ \"hand, arm\"",
+			"Albanian: dorë \"hand\"",
+			"Tocharian: A tsar, B ṣar \"hand\"",
+			"Hittite: keššar \"hand\",[52] Luwian īssaris \"hand\""
+		],
+		"meaning": "hand",
+		"pron": "gh e s r\\"
+	}
+}

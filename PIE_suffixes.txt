@@ -1,0 +1,25 @@
+en N, Adj
+es abstract N
+os abstract N
+eyo causative, iterative V
+iko Adj
+isto superlative Adj
+lo diminutive N
+mno passive V
+mo N, Adj
+nt progressive V
+nu present tense V
+o genitive, thematic N
+ro Adj
+ter agentive N
+tero comparative Adj
+ti abstract N
+to Adj of completion
+tro instrumentive N
+tu abstract N
+wer abstract V
+wen abstract V
+wo Adj
+yo V
+yo genitive Adj (-al, -ic)
+ez (-yos) comparative Adj
