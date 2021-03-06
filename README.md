@@ -23,15 +23,15 @@ usage: piebot.py [-h] [-r ROOT] [-s SUFFIX] [-n NEW]
 Module for generating modern English derivatives from PIE roots
 
 optional arguments:
-  -h, --help            show this help message and exit
-  -r ROOT, --root ROOT  PIE root from which to generate modern English derivation.
+  * -h, --help            show this help message and exit
+  * -r ROOT, --root ROOT  PIE root from which to generate modern English derivation.
                         If none provided, one will be randomly chosen. May be
                         provided as a space delimited XSAMPA phone sequence.
-  -s SUFFIX, --suffix SUFFIX
+  * -s SUFFIX, --suffix SUFFIX
                         PIE suffix from which to generate modern English
                         derivation. If the word "random" is provided, a random
                         suffix will be randomly chosen. See PIE_suffixes.txt for
                         list.
-  -n NEW, --new NEW     A new (i.e. not in the database) PIE root from which to
+  * -n NEW, --new NEW     A new (i.e. not in the database) PIE root from which to
                         generate a modern English derivation. Should be provided
                         as a space-delimited ASCII sequence.
