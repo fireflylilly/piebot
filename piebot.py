@@ -115,15 +115,11 @@ def generate_spelling(pron, final_e):
         phone_seqs = []
         for phone_seq_list in broken_pron:
             phone_seq = ''.join(phone_seq_list)
-            #print('phone_seq',phone_seq)
             phone_seqs.append(sorted([(sp, spelling_model[''.join(phone_seq)][sp])
                                       for sp in spelling_model[phone_seq]],
                                      reverse=True,
                                      key=lambda x: x[1])[0])
-            #print('phone_seqs',phone_seqs)
         spelling_score = float(sum([p[1] for p in phone_seqs]))/float(len(broken_pron))
-        #print('spelling score',spelling_score)
-        #print(''.join([l[0] for l in phone_seqs]))
         new_spelling = ''.join([l[0] for l in phone_seqs])
         if new_spelling[-1] in ['w','r','l','m','n'] and \
            new_spelling[-2] not in ['a','e','i','o','u','y']:
@@ -132,7 +128,7 @@ def generate_spelling(pron, final_e):
             new_spelling = new_spelling+'e'
         spellings.append((new_spelling,spelling_score))
 
-
+#    print(spellings)
     ## Return the top 5 spellings
     top_five = [x[0] for x in sorted(spellings,reverse=True,key=lambda x: x[1])[:5]]
     #print(top_five)
@@ -511,12 +507,18 @@ def early_modern_english_changes(pron):
 
 # Generates the history, cognates, pronunciation, spelling and meaning of a new English word
 # If 'none' is given for token or suffix it generates a random one
-def generate_entry(pie_token,pie_suffix):
+def generate_entry(pie_token,pie_suffix,new_root):
     """Generates the history, cognates, pronunciation, spelling and meaning of
     a new English word. If 'none' is given for token or suffix it generates
     a random one."""
 
     pie_suffixes = read_in_pie_suffixes()
+    pie_word = {}
+    
+    if new_root != None:
+        pie_token = ''.join(new_root.split())
+        pie_roots[pie_token] = {'pron':new_root,'meaning':''}
+    
     if not pie_token:
         pie_token = random.choice(list(pie_roots.keys()))
     else:
@@ -587,14 +589,17 @@ def generate_entry(pie_token,pie_suffix):
 
 def print_summary(pie_word_dict):
     """Prints a summary of a generated Modern English word, and its history."""
-    summary = ''.join(pie_word_dict['spelling']) + ' |' + ''.join(pie_word_dict['modex']) + '|\n'
-    summary += ' > '.join(['PIE '+pie_word_dict['token'],\
-                             'PGmc '+''.join(pie_word_dict['pgmcx']),\
-                             'OEng '+''.join(pie_word_dict['oldex']),\
-                             'MiddleEng '+''.join(pie_word_dict['midex']) + '\n'])
+    summary = ''.join(pie_word_dict['spelling']) + '\n/' + ''.join(pie_word_dict['modex']) + '/\n'
+
+    # Middle English X, Old English X, from Proto-Germanic X, from PIE root X and PIE suffix X.
+    summary += 'Middle English ' + ''.join(pie_word_dict['midex']) + ', Old English ' +\
+        ''.join(pie_word_dict['oldex']) + '.\nFrom Proto-Germanic ' +\
+        ''.join(pie_word_dict['pgmcx']) + ', from PIE root ' +\
+        pie_word_dict['token'] + '.'
     if 'cognates' in pie_word_dict:
-        summary += ';'.join(pie_word_dict['cognates']) + '\n'
-    summary += pie_word_dict['meaning'].title()
+        summary += '\n' + ';'.join(pie_word_dict['cognates'])
+    if 'meaning' in pie_word_dict and pie_word_dict['meaning'] != "":
+        summary += '\n' + pie_word_dict['meaning'].title() + '.'
     print(summary)
 
 
@@ -609,43 +614,12 @@ if __name__ == "__main__":
                         'modern English derivation. If the word "random" is '+\
                         'provided, a random suffix will be randomly chosen. '+\
                         'See PIE_suffixes.txt for list.')
-    parser.add_argument('-a','--analysis',help='prints reports on PIE roots: '+\
-                        'phone sets.',action="store_true",default=False)
+    parser.add_argument('-n','--new',help='A new (i.e. not in the database) '+\
+                        'PIE root from which to generate '+\
+                        'a modern English derivation. Should be provided as a '+\
+                        'space-delimited ASCII sequence.')
     args = parser.parse_args()
 
-    if args.analysis:
-        print('reading in PIE roots & suffixes')
-        pie_suffix_dict = read_in_pie_suffixes()
-
-        pie_phones = set([])
-        pgmc_phones = set([])
-        olde_phones = set([])
-        mide_phones = set([])
-        mode_phones = set([])
-
-        for root in pie_roots:
-            print('root:',root)
-            for suffix in pie_suffix_dict:
-                entry = generate_entry(root,suffix)
-                pie_phones = pie_phones.union(set(entry['pron']))
-                pgmc_phones = pgmc_phones.union(set(entry['pgmc']))
-                olde_phones = olde_phones.union(set(entry['olde']))
-                mide_phones = mide_phones.union(set(entry['mide']))
-                mode_phones = mode_phones.union(set(entry['mode']))
-        # Phone sets for PIE, PGmc, OldE, MidE, ModE
-        with codecs.open('phonesets.txt','w',encoding='utf-8') as phoneout:
-            phoneout.write('PIE phones:\n')
-            phoneout.write(','.join(pie_phones)+'\n')
-            phoneout.write('PGmc phones:\n')
-            phoneout.write(','.join(pgmc_phones)+'\n')
-            phoneout.write('OldE phones:\n')
-            phoneout.write(','.join(olde_phones)+'\n')
-            phoneout.write('MidE phones:\n')
-            phoneout.write(','.join(mide_phones)+'\n')
-            phoneout.write('ModE phones:\n')
-            phoneout.write(','.join(mode_phones)+'\n')
-
-    else:
-        entry = generate_entry(args.root,args.suffix)
-        if entry != "":
-            print_summary(entry)
+    entry = generate_entry(args.root,args.suffix,args.new)
+    if entry != "":
+        print_summary(entry)
