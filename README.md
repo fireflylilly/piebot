@@ -7,6 +7,8 @@ idiosyncratic orthography. The words often seem whimsical or odd, but in fact
 are no stranger than many actual English words. The program is offered
 as a tool for creators of alternate history or lost words and names.
 
+Link to dLCC 2021 presentation: https://www.youtube.com/watch?v=4zoQLOiIKrg
+
 Inputs:
  - JSON databases of PIE roots and affixes
  - Optional: roots and affixes to start with (if not provided, they are
